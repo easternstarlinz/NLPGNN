@@ -1,0 +1,1500 @@
+2 例 依 从 性 差 退 出 ,	O O O O O O O O O
+唑 来 膦 酸 组 没 有 退 出 。	B-Drug I-Drug I-Drug E-Drug O O O O O O
+流 感 样 症 状 是 唑 来 膦 酸 注 射 后 可 能 出 现 的 不 良 反 应 ,	B-SideEff I-SideEff I-SideEff I-SideEff E-SideEff O B-Drug I-Drug I-Drug E-Drug B-Method E-Method O O O O O O O O O O O
+主 要 是 出 现 在 用 药 后 的 最 初 的 3 天 。	O O O O O O O O O O O O O O O O
+唑 来 膦 酸 注 射 过 程 中 ,	B-Drug I-Drug I-Drug E-Drug B-Method E-Method O O O O
+患 者 受 到 专 业 的 护 理 ,	O O O O O O O O O O
+因 此 每 年 1 次 静 脉 注 射 ,	O O B-Frequency I-Frequency I-Frequency E-Frequency B-Method I-Method I-Method E-Method O
+患 者 的 依 从 性 可 以 得 到 保 证 。	O O O O O O O O O O O O O
+骨 质 疏 松 症 通 常 是 无 症 状 的 ,	B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O
+患 者 很 难 做 到 长 期 坚 持 服 药 ,	O O O O O O O O O O O O O
+因 此 应 用 唑 来 膦 酸 可 保 证 患 者 良 好 的 依 从 性 ,	O O O O B-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O
+这 一 点 对 于 多 数 患 者 是 非 常 有 益 的 。	O O O O O O O O O O O O O O O O
+口 服 药 物 依 从 性 差 ,	O O O O O O O O O
+对 药 物 的 有 效 性 产 生 负 性 影 响 [ 21 ,	O O O O O O O O O O O O O O O O
+22 ] 。	O O O
+治 疗 PMOP 唑 来 膦 酸 与 替 勃 龙 两 者 均 疗 效 显 著 ,	O O O B-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug E-Drug O O O O O O O O
+具 有 升 高 骨 密 度 及 有 效 降 低 骨 折 发 生 的 作 用 ,	O O O O B-Test I-Test E-Test O O O O O B-Disease E-Disease O O O O O O
+而 唑 来 膦 酸 疗 效 与 替 勃 龙 相 似 ,	O B-Drug I-Drug I-Drug E-Drug O O O B-Drug I-Drug E-Drug O O O
+同 时 唑 来 膦 酸 提 高 了 患 者 ± 从 性 和 安 全 性 ;	O O B-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O
+单 纯 服 用 钙 剂 和 维 生 素 D 不 能 有 效 地 治 疗 PMOP。 PMOP。	O O O O B-Drug E-Drug O B-Drug I-Drug I-Drug O O O O O O O O O O
+临 床 研 究 吡 格 列 酮 二 甲 双 胍 片 或 二 甲 双 胍 治 疗 对 2 型 糖 尿 病 患 者 的 多 种 脂 肪 细 胞 因 子 的 影 响 严 婷 杨 锐 余 丹 峰 王 娇 孙 嘉 程 彦 臻 杨 晓 燕 何 雷 蔡 德 鸿 [ 提 要 ] 68 例 2 型 糖 尿 病 患 者 分 成 2 组 ,	O O O O B-Drug I-Drug I-Drug E-Drug B-Drug I-Drug I-Drug E-Drug O O B-Drug I-Drug I-Drug E-Drug O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O
+分 别 给 予 二 甲 双 胍 和 吡 格 列 酮 二 甲 双 胍 片 ( 卡 优 平 ) 治 疗 12 周 。	O O O O B-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug E-Drug B-Drug I-Drug I-Drug E-Drug O O B-Drug I-Drug E-Drug O O O B-Duration E-Duration O
+测 定 治 疗 前 后 各 组 的 白 细 胞 介 素 6 ( IL - 6 ) 、 脂 联 素 、 内 脏 脂 肪 组 织 源 性 丝 氨 酸 蛋 白 酶 抑 制 物 ( vaspin ) 、 血 糖 等 指 标 。	O O O O O O O O O B-Test I-Test I-Test I-Test I-Test O O B-Test E-Test O O O B-Test I-Test E-Test O B-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O O O O B-Test E-Test O O O O
+治 疗 后 ,	O O O O
+卡 优 平 组 IL - 6、 脂 联 素 与 治 疗 前 相 比 有 显 著 差 异 ( P < 0 . 05 ,	B-Drug I-Drug E-Drug O B-Test E-Test O B-Test I-Test E-Test O O O O O O O O O O O O O O O O O O
+P < 0 . 01 ) ,	O O O O O O O
+二 甲 双 胍 组 2 h 血 糖 ,	B-Drug I-Drug I-Drug E-Drug O B-Test I-Test I-Test E-Test O
+HBA1C 水 平 高 于 卡 优 平 组 ( P < 0 . 01 ,	O O O B-Test_Value E-Test_Value B-Drug I-Drug E-Drug O O O O O O O O
+P < 0 . 05 ) 。	O O O O O O O
+卡 优 平 组 体 重 指 数 变 化 率 及 HbA1C 变 化 率 与 IL - 6、 脂 联 素 、vaspin 变 化 率 不 相 关 。	B-Drug I-Drug E-Drug O B-Test I-Test I-Test E-Test O O O O O O O O O B-Test E-Test O B-Test I-Test E-Test O O O O O O O O
+卡 优 平 的 降 糖 效 果 及 改 善 脂 联 素 、IL - 6、vaspin 的 效 果 优 于 二 甲 双 胍 。	B-Drug I-Drug E-Drug O O O O O O O O B-Test I-Test E-Test O E-Test O O O O O O B-Drug I-Drug I-Drug E-Drug O
+且 卡 优 平 对 3 种 脂 肪 细 胞 因 子 的 作 用 不 依 赖 于 其 降 血 糖 作 用 以 及 降 低 体 重 指 数 的 作 用 。	O B-Drug I-Drug E-Drug O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O B-Test E-Test O O O O O O B-Test I-Test I-Test E-Test O O O O
+[ 关 键 词 ] 糖 尿 病 ,	O O O O O B-Disease I-Disease E-Disease O
+2 型 ;	O O O
+吡 格 列 酮 ;	B-Drug I-Drug I-Drug E-Drug O
+二 甲 双 胍 ;	B-Drug I-Drug I-Drug E-Drug O
+内 脏 脂 肪 组 织 源 性 丝 氨 酸 蛋 白 酶 抑 制 物 ;	B-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O
+脂 联 素 ;	B-Test I-Test E-Test O
+白 细 胞 介 素 6 Effects of pioglitazone / metformin fixed - dose combination therapy and metformin monotherapy on serum vaspin ,	B-Test I-Test I-Test I-Test I-Test O O O O O O O O O O O O O O O O O O
+adiponectin ,	O O
+and interleukin - 6 levels in patients with type 2 diabetes YAN Ting ,	O O O O O O O O O O O O O O
+YANG Rui ,	O O O
+YU Dan - feng ,	O O O O O
+WANG Jiao ,	O O O
+SUN Jia ,	O O O
+CHEN Yan - zheng ,	O O O O O
+YANG Xiao - yan ,	O O O O O
+HE Lei ,	O O O
+CAI De - hong . Department of Endocrinology ,	O O O O O O O O O
+Zhujiang Hosipital affiliated to Southern Medical University ,	O O O O O O O O
+Guangzhou 510282 ,	O O O
+China [ Summary ] Sixty - eight patients with type 2 diabetes were divided into 2 groups . The patients in two groups were given metformin or pioglitazone / metformin treatment respectively for 12 weeks . The level of serum interleukin - 6 ( IL - 6 ) ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Anatomy E-Anatomy O O O
+vaspin ,	O O
+adiponectin ,	O O
+blood glucose ,	O O O
+and other indicators before and after the treatment in patients of two groups were observed . After the treatment ,	O O O O O O O O O O O O O O O O O O O O
+the level of serum IL - 6 and adiponectin changed significantly in pioglitazone / metformin group ( P < 0 . 05 ,	O O O O B-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O
+P < 0 . 01 ) . The 2hPG and HBA1C in metformin group were higher than that in pioglitazone / metformin group ( P < 0 . 01 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+P < 0 . 05 ) . The rate of BMI change was not related with the rate of adipocytokines change ,	O O O O O O O O O O O O O O O O O O O O O O
+so was the rate of HBA1C change . Effects of pioglitazone / metformin on blood glucose and adipocytokines were more significant than metformin alone ,	O O O O O O O O O O O O O O O O O O O O O O O O O
+which did not depend on the decrease of glucose level and body weight . [ Key words ] Diabetes mellitus ,	O O O O O O O O O O O O O O O O O O O O O
+type 2 ;	O O O
+Pioglitazone ;	O O
+Metformin ;	O O
+Visceral adipose tissue - derived serine protease inhibitor ;	O O O O O O O O O
+Adiponectin ;	O O
+Interleukin - 6 ( Chin J Endocrinol Metab ,	O O O O O O O O O
+2013 ,	O O
+29 :	O O
+509 - 511 ) 近 年 来 研 究 发 现 ,	O O O O O O O O O O O O
+脂 肪 组 织 可 分 泌 许 多 脂 肪 细 胞 因 子 调 节 自 身 和 其 他 组 织 的 功 能 。	B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O
+目 前 已 知 的 脂 肪 因 子 有 百 余 种 ,	O O O O O B-Test I-Test I-Test E-Test O O O O O
+与 2 型 糖 尿 病 有 关 的 代 表 性 因 子 有 脂 联 素 、 内 脏 脂 肪 组 织 源 性 丝 氨 酸 蛋 白 酶 抑 制 剂 ( vaspin ) 、 白 细 胞 介 素 6 ( IL - 6 ) 。	O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O B-Test I-Test E-Test O B-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O O O O B-Test I-Test I-Test I-Test I-Test O O B-Test E-Test O O O
+三 者 已 被 证 实 与 胰 岛 素 抵 抗 ,	O O O O O O O B-Reason I-Reason I-Reason I-Reason E-Reason O
+2 型 糖 尿 病 的 发 生 发 展 有 密 切 联 系 。	B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O
+噻 唑 烷 二 酮 类 药 物 和 二 甲 双 胍 作 为 抗 糖 尿 病 药 物 均 可 以 提 高 胰 岛 素 敏 感 性 ,	B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug E-Drug O O O B-Disease I-Disease E-Disease O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O
+降 低 胰 岛 素 抵 抗 。	O O B-Reason I-Reason I-Reason I-Reason E-Reason O
+本 研 究 通 过 新 型 药 物 吡 格 列 酮 二 甲 双 胍 片 ( 卡 优 平 ) 治 疗 初 诊 2 型 糖 尿 病 患 者 的 血 清 脂 联 素 ,	O O O O O O O O O B-Drug I-Drug I-Drug E-Drug B-Drug I-Drug I-Drug E-Drug O O B-Drug I-Drug E-Drug O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O B-Test I-Test E-Test O
+IL - 6 和 vaspin 水 平 变 化 ,	B-Test E-Test O O O O O O O O
+探 讨 比 较 这 两 种 降 糖 药 物 的 对 血 清 脂 联 素 ,	O O O O O O O O O O O O O B-Test I-Test I-Test I-Test E-Test O
+IL - 6 和 vaspin 水 平 的 影 响 。	B-Test E-Test O O O O O O O O O
+一 、 对 象 和 方 法 1 . 对 象 :	O O O O O O O O O O O O
+2011 年 5 月 至 2012 年 11 月 珠 海 市 人 民 医 院 、 佛 山 市 中 医 院 、 广 东 医 学 院 附 属 医 院 、 汕 头 大 学 医 学 院 第 一 附 属 医 院 、 中 山 大 学 附 属 第 三 医 院 、 深 圳 市 第 二 人 民 医 院 和 本 院 门 诊 的 新 发 2 型 糖 尿 病 患 者 130 例 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O
+按 就 诊 时 的 治 疗 顺 序 编 号 及 分 组 ,	O O O O O O O O O O O O O O O
+奇 数 号 入 二 甲 双 胍 组 ,	O O O O B-Drug I-Drug I-Drug E-Drug O O
+偶 数 号 入 卡 优 平 组 ,	O O O O B-Drug I-Drug E-Drug O O
+2 组 各 65 例 。	O O O O O O
+各 医 院 有 足 够 血 样 保 留 可 检 测 全 部 指 标 的 患 者 共 68 例 ,	O O O O O O O O O O O O O O O O O O O O O O O O
+纳 入 本 研 究 。	O O O O O O
+二 甲 双 胍 组 29 例 ,	B-Drug I-Drug I-Drug E-Drug O O O O
+男 性 16 例 ,	O O O O O
+女 性 13 例 ,	O O O O O
+年 龄 ( 53 . 5 ±13 . 6 ) 岁 ;	O O O O O O O O O O O O
+卡 优 平 组 39 例 ,	B-Drug I-Drug E-Drug O O O O
+男 性 15 例 ,	O O O O O
+女 性 24 例 ,	O O O O O
+年 龄 ( 49 . 9 ± 9 . 5 ) 岁 。	O O O O O O O O O O O O O
+2 . 入 选 标 准 :	O O O O O O O
+( 1 ) 新 诊 断 的 2 型 糖 尿 病 ,	O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O
+诊 断 符 合 1999 年 世 界 卫 生 组 织 ( WHO ) 公 布 的 2 型 糖 尿 病 诊 断 标 准 [ 1 ] ( 未 进 行 任 何 药 物 治 疗 ) ;	O O O O O O O O O O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O O O O O O O O
+年 龄 在 18 ~ 70 岁 ;	O O O O O O O O
+7 % ≤HBA1C≤11 % ;	O O O E-Test_Value O
+有 足 够 的 血 样 保 留 ,	O O O O O O O O O
+可 进 行 检 测 的 患 者 ;	O O O O O O O O O
+排 除 标 准 :	O O O O O
+1 型 糖 尿 病 ;	B-Disease I-Disease I-Disease I-Disease E-Disease O
+合 并 有 严 重 慢 性 并 发 症 如 心 、 肝 、 肾 功 能 不 全 者 ;	O O O B-Level E-Level B-Disease I-Disease I-Disease I-Disease E-Disease O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy B-Disease I-Disease I-Disease E-Disease O O
+其 他 内 分 泌 系 统 疾 病 ;	O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O
+有 手 术 、 严 重 外 伤 等 应 激 情 况 ;	O B-Disease E-Disease O B-Disease I-Disease I-Disease E-Disease O O O O O O
+合 并 使 用 影 响 糖 代 谢 的 药 物 ;	O O O O O O O O O O O O O
+合 并 肿 瘤 者 ;	O O B-Disease E-Disease O O
+因 资 料 不 全 ,	O O O O O O
+缺 失 率 > 5 % 者 。	O O O O O O O O
+3 . 治 疗 方 法 :	O O O O O O O
+培 训 专 人 分 发 实 验 药 物 。	O O O O O O O O O O O
+卡 优 平 组 给 予 吡 格 列 酮 二 甲 双 胍 片 ( 商 品 名 卡 优 平 ,	B-Drug I-Drug E-Drug O O O B-Drug I-Drug I-Drug E-Drug B-Drug I-Drug I-Drug E-Drug O O O O O B-Drug I-Drug E-Drug O
+杭 州 中 美 华 东 制 药 有 限 公 司 生 产 ,	O O O O O O O O O O O O O O O
+规 格 :	O O O
+每 片 含 二 甲 双 胍 500 mg ,	O O O B-Drug I-Drug I-Drug E-Drug B-Amount O O
+吡 格 列 酮 15 mg。 批 准 文 表 1 治 疗 前 后 2 组 基 本 资 料 的 比 较 组 别 时 间 例 数 ( 男 / 女 ) 年 龄 ( 岁 ) 体 重 指 数 ( kg / m2 ) 腰 臀 比 收 缩 压 ( mm Hg ) 舒 张 压 ( mm Hg ) HBA1C ( % ) 空 腹 血 糖 ( mmol / L ) 二 甲 双 胍 组 治 疗 前 16 / 13 53 . 5 ± 13 . 6 26 . 46 ± 3 . 31 0 . 97 ± 0 . 10 126 ± 11 78 ± 8 8 . 57 ± 1 . 28 10 . 10 ± 3 . 03 治 疗 后 25 . 57 ± 3 . 32a 0 . 96 ± 0 . 11 128 ± 13 80 ± 7 7 . 08 ± 1 . 59b 6 . 68 ± 1 . 55b 卡 优 平 组 治 疗 前 15 / 24 49 . 9 ± 9 . 5 24 . 41 ± 3 . 15 0 . 91 ± 0 . 12 126 ± 12 79 ± 9 8 . 44 ± 1 . 32 9 . 01 ± 1 . 85 治 疗 后 23 . 92 ± 3 . 17b 0 . 90 ± 0 . 12b 124 ± 12 79 ± 8 6 . 86 ± 1 . 09b 6 . 71 ± 1 . 12b 组 别 时 间 例 数 ( 男 / 女 ) 2 h 血 糖 ( mmol / L ) 空 腹 胰 岛 素 ( mU / L ) 2 h 胰 岛 素 ( mU / L ) HOMA - IR HOMA - β 甘 油 三 酯 ( mmol / L ) 二 甲 双 胍 组 治 疗 前 16 / 13 13 . 77 ± 3 . 29 11 . 38 ± 9 . 20 35 . 56 ± 33 . 67 5 . 06 ± 5 . 05 0 . 42 ± 0 . 32 2 . 47 ± 2 . 30 治 疗 后 10 . 56 ± 2 . 53b 9 . 56 ± 7 . 16 58 . 58 ± 44 . 82a 2 . 98 ± 2 . 76a 0 . 75 ± 0 . 60b 1 . 74 ± 0 . 84 卡 优 平 组 治 疗 前 15 / 24 14 . 58 ± 3 . 75 7 . 88 ± 5 . 73 26 . 10 ± 16 . 43 3 . 15 ± 2 . 45a 0 . 32 ± 0 . 23 2 . 33 ± 1 . 68 治 疗 后 9 . 44 ± 2 . 85b 6 . 93 ± 4 . 06 30 . 87 ± 16 . 60 2 . 07 ± 1 . 35b 0 . 46 ± 0 . 28b 1 . 76 ± 1 . 05a 组 别 时 间 例 数 ( 男 / 女 ) 总 胆 固 醇 ( mmol / L ) HDL - C ( mmol / L ) LDL - C ( mmol / L ) 脂 联 素 ( μg / ml ) Vaspin ( ng / ml ) 白 细 胞 介 素 6 ( pg / ml ) 二 甲 双 胍 组 治 疗 前 16 / 13 5 . 45 ± 1 . 22 1 . 30 ± 0 . 48 3 . 01 ± 0 . 82 34 . 83 ± 22 . 83 3 . 80 ± 3 . 09 75 . 56 ± 51 . 79 治 疗 后 4 . 75 ± 1 . 24b 1 . 31 ± 0 . 31 2 . 95 ± 0 . 65 38 . 36 ± 21 . 98 3 . 06 ± 1 . 80a 61 . 67 ± 39 . 04 卡 优 平 组 治 疗 前 15 / 24 5 . 30 ± 2 . 90 1 . 42 ± 1 . 05 3 . 41 ± 3 . 44 33 . 24 ± 19 . 55 3 . 37 ± 1 . 67 91 . 00 ± 68 . 16 治 疗 后 4 . 97 ± 1 . 20 1 . 31 ± 0 . 33 3 . 07 ± 1 . 05 55 . 75 ± 25 . 94b 3 . 36 ± 1 . 80a 69 . 48 ± 64 . 01a 注 :	B-Drug I-Drug I-Drug E-Drug B-Amount O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Test I-Test I-Test E-Test O O O O O B-Test I-Test E-Test B-Test I-Test E-Test O O O O B-Test I-Test E-Test O O O O O O O O B-Test I-Test I-Test E-Test O O O O O B-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Test E-Test O O O O O B-Test I-Test I-Test I-Test E-Test O O O O O O O O O O O O O O O B-Test E-Test O B-Test E-Test O B-Test I-Test I-Test E-Test O O O O O B-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Test I-Test I-Test E-Test O O O O O B-Test E-Test O O O O O O B-Test E-Test O O O O O O B-Test I-Test E-Test O O O O O O O O O O O O O O O O O O O O O O B-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+1 mm Hg = 0 . 133 kPa ,	O O O O O O O O O
+HOMA - IR :	B-Test E-Test O O
+稳 态 模 型 评 估 的 胰 岛 素 抵 抗 指 数 ;	B-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O
+HOMA - β :	B-Test E-Test O O
+稳 态 模 型 评 估 的 胰 岛 β 细 胞 分 泌 指 数 ;	B-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O
+HDL - C :	B-Test E-Test O O
+高 密 度 脂 蛋 白 胆 同 醇 ;	B-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O
+LDL - C :	B-Test E-Test O O
+低 密 度 脂 蛋 白 胆 同 醇 ;	B-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O
+与 治 疗 前 相 比 ,	O O O O O O O
+aP < 0 . 05 ,	O O O O O O
+bP < 0 . 01 号 :	O O O O O O O
+国 药 准 字 H20100180 ,	O O O O O O
+产 品 批 号 :	O O O O O
+120902 ) ,	O O O
+bid ,	O O
+治 疗 3 个 月 。	B-Duration I-Duration I-Duration I-Duration E-Duration O
+二 甲 双 胍 组 予 二 甲 双 胍 500 mg ,	B-Drug I-Drug I-Drug E-Drug O O B-Drug I-Drug I-Drug E-Drug B-Amount O O
+bid ,	O O
+治 疗 3 个 月 。	B-Duration I-Duration I-Duration I-Duration E-Duration O
+所 有 研 究 对 象 隔 夜 12 h 后 抽 取 空 腹 静 脉 血 6 ml ,	O O O O O O B-Frequency I-Frequency I-Frequency O O O O B-Test I-Test I-Test I-Test E-Test O O O
+留 取 2 ml 血 样 注 入 抗 凝 试 管 中 ,	O O O O O O O O O O O O O O
+待 测 HBA1C ,	O O O O
+其 余 血 样 注 入 非 抗 凝 试 管 中 ,	O O O O O O O O O O O O O
+2 h 内 按 3 000 转 / min 离 心 10 min ,	O O O O O O O O O O O O O O
+分 离 血 清 ,	O O O O O
+留 取 2 ml 血 清 置 于 - 70℃ 冰 箱 保 存 ,	O O O O O O O O O O O O O O O
+集 中 用 于 血 浆 脂 联 素 ,	O O O O O O B-Test I-Test E-Test O
+IL - 6 和 vaspin 的 测 定 ,	B-Test E-Test O O O O O O O
+其 余 血 清 用 于 测 定 空 腹 血 糖 、 空 腹 胰 岛 素 、 血 脂 、 肝 肾 功 能 。	O O O O O O O O B-Test I-Test I-Test E-Test O B-Test I-Test I-Test I-Test E-Test O B-Test E-Test O B-Test I-Test I-Test E-Test O
+餐 后 2 h 抽 取 静 脉 血 ,	O O O O O O O O O O
+同 样 方 法 离 心 留 取 血 清 ,	O O O O O O O O O O O
+用 于 餐 后 2 h 血 糖 以 及 餐 后 胰 岛 素 的 测 定 。	O O B-Test I-Test I-Test I-Test I-Test E-Test O O B-Test I-Test I-Test I-Test E-Test O O O O
+所 有 指 标 在 治 疗 3 个 月 后 用 相 同 方 法 复 查 。	O O O O O B-Duration I-Duration I-Duration I-Duration E-Duration O O O O O O O O O
+测 定 受 试 者 身 高 、 质 量 、 收 缩 压 、 舒 张 压 ,	O O O O O B-Test E-Test O B-Test E-Test O B-Test I-Test E-Test O B-Test I-Test E-Test O
+并 计 算 体 重 指 数 。	O O O B-Test I-Test I-Test E-Test O
+所 有 指 标 在 治 疗 3 个 月 后 用 相 同 方 法 复 查 。	O O O O O B-Duration I-Duration I-Duration I-Duration E-Duration O O O O O O O O O
+采 用 雅 培 AEROSET 全 自 动 生 化 分 析 仪 测 定 总 胆 固 醇 、 甘 油 三 酯 、 高 密 度 脂 蛋 白 胆 同 醇 ( HDL - C ) 、 低 密 度 脂 蛋 白 胆 同 醇 ( LDL - C ) 、 柱 层 析 法 测 定 HBA1C。 利 用 酶 联 免 疫 吸 附 法 测 定 血 清 IL - 6、vaspin、 脂 联 素 浓 度 。	O O O O O O O O O O O O O O O B-Test I-Test I-Test E-Test O B-Test I-Test I-Test E-Test O B-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O B-Test E-Test O O O B-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O B-Test E-Test O O O O O O O O O O O O O O O O O O O O O O O B-Test E-Test O B-Test I-Test E-Test O O O
+计 算 稳 态 模 型 评 估 的 胰 岛 素 抵 抗 指 数 ( HOMA - IR ) = 空 腹 血 糖 × 空 腹 胰 岛 素 / 22 . 5。 稳 态 模 型 评 估 的 胰 岛 β 细 胞 分 泌 指 数 ( HOMA - β ) = 20× 空 腹 胰 岛 素 / [ 空 腹 血 糖 - 3 . 5 ] 。	O O O O O O O O O B-Test I-Test I-Test I-Test I-Test I-Test E-Test O B-Test E-Test O O O B-Test I-Test I-Test E-Test O B-Test I-Test I-Test I-Test E-Test O O O O O O O O O O O B-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O B-Test E-Test O O O O B-Test I-Test I-Test I-Test E-Test O O B-Test I-Test I-Test E-Test O O O O O O
+4 . 统 计 学 处 理 :	O O O O O O O O
+所 有 数 据 采 用 SPSS18 . 0 进 行 分 析 ,	O O O O O O O O O O O O O O
+计 量 资 料 用 x - ± s 表 示 ,	O O O O O O O O O O O O
+计 数 资 料 用 数 量 及 百 分 比 表 示 。	O O O O O O O O O O O O O O
+非 正 态 分 布 资 料 ,	O O O O O O O O
+经 对 数 转 换 成 正 态 分 布 数 据 后 再 进 行 统 计 分 析 。	O O O O O O O O O O O O O O O O O O O O O
+组 内 比 较 用 配 对 t 检 验 ,	O O O O O O O O O O O
+组 间 比 较 用 成 组 t 检 验 ,	O O O O O O O O O O O
+计 数 资 料 组 间 比 较 用 卡 方 检 验 。	O O O O O O O O O O O O O O
+P < 0 . 05 差 异 有 统 计 学 意 义 。	O O O O O O O O O O O O O O
+脂 肪 细 胞 因 子 与 部 分 临 床 及 生 化 指 标 之 间 的 关 系 采 用 相 关 分 析 ,	B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O O O O O
+以 相 关 系 数 评 价 变 量 间 的 相 关 性 。	O O O O O O O O O O O O O O O
+二 、 结 果 1 . 2 组 治 疗 前 的 基 本 情 况 :	O O O O O O O O O O O O O O O O O
+二 甲 双 胍 组 男 女 比 16 / 13 ,	B-Drug I-Drug I-Drug E-Drug O O O O O O O O
+卡 优 平 组 男 女 比 15 / 24 ,	O O O O O O O O O O O
+2 组 性 别 、 年 龄 无 统 计 学 意 义 ( P > 0 . 05 ) 。	O O O O O O O O O O O O O O O O O O O O O
+2 组 体 重 指 数 、 空 腹 血 糖 、2 h 血 糖 、HBA1C、 空 腹 胰 岛 素 、HOMA - IR、 甘 油 三 酯 、 总 胆 固 醇 、HDL - C、 LDL - C、 血 清 脂 联 素 、 IL - 6、 vaspin 相 比 ,	O O B-Test I-Test I-Test E-Test O B-Test I-Test I-Test E-Test O I-Test I-Test E-Test O B-Test I-Test I-Test I-Test E-Test O I-Test O B-Test I-Test I-Test E-Test O B-Test I-Test I-Test E-Test O E-Test O B-Test E-Test O O O B-Test I-Test E-Test O B-Test E-Test O O O O O
+差 异 无 统 计 学 意 义 ( P > 0 . 05 ) ,	O O O O O O O O O O O O O O O O
+2 组 HOMA - β 差 异 有 显 著 意 义 ( P < 0 . 05 ,	O O B-Test E-Test O O O O O O O O O O O O O O O
+表 1 ) 。	O O O O
+2 . 治 疗 后 ,	O O O O O O
+2 组 HBA1C、 空 腹 血 糖 、2 h 血 糖 、HOMA - IR、 HOMA - β、 体 重 指 数 、vaspin 较 治 疗 前 显 著 下 降 ( P < 0 . 01 或 P < 0 . 05 ) 。	O O O B-Test I-Test I-Test E-Test O I-Test I-Test E-Test O E-Test O B-Test E-Test O B-Test I-Test I-Test E-Test O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O O O O O O O O O O O O
+二 甲 双 胍 组 总 胆 固 醇 较 治 疗 前 显 著 下 降 ( P < 0 . 01 ) ,	B-Drug I-Drug I-Drug E-Drug O B-Test I-Test I-Test E-Test O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O O O O O O
+脂 联 素 、IL - 6 变 化 与 治 疗 前 相 比 无 明 显 差 异 ( P > 0 . 05 ) 。	B-Test I-Test E-Test O E-Test O O O O O O O O O O O O O O O O O O O O O O
+卡 优 平 组 甘 油 三 酯 、 腰 臀 比 、IL - 6 与 治 疗 前 相 比 显 著 下 降 ( P < 0 . 01 或 P < 0 . 05 ) ,	B-Drug I-Drug E-Drug O B-Test I-Test I-Test E-Test O B-Test I-Test E-Test O E-Test O O O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O O O O O O O O O O O O
+脂 联 素 与 治 疗 前 相 比 显 著 上 升 ( P < 0 . 01 ) 。	B-Test I-Test E-Test O O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O O O O O O
+3 . 二 甲 双 胍 组 与 卡 优 平 组 相 比 ,	O O B-Drug I-Drug I-Drug E-Drug O O B-Drug I-Drug E-Drug O O O O
+卡 优 平 组 的 HBA1C ,	B-Test I-Test E-Test O O O O
+2 h 血 糖 下 降 尤 为 明 显 ,	B-Test I-Test I-Test E-Test O O O O O O O
+两 组 差 异 显 著 ( P < 0 . 01 ) 。	O O O O O O O O O O O O O O
+Vaspin、IL - 6 ,	O E-Test O O
+脂 联 素 变 化 无 明 显 差 异 。	B-Test I-Test E-Test O O O O O O O O
+4 . 卡 优 平 能 显 著 降 低 新 发 糖 尿 病 患 者 的 体 重 指 数 ,	O O B-Drug I-Drug E-Drug O O O B-Test_Value E-Test_Value O O O O O O O O B-Test I-Test I-Test E-Test O
+与 二 甲 双 胍 降 低 体 重 指 数 差 别 不 显 著 。	O B-Drug I-Drug I-Drug E-Drug B-Test_Value E-Test_Value B-Test I-Test I-Test E-Test O O O O O O
+进 一 步 研 究 ,	O O O O O O
+以 卡 优 平 治 疗 的 39 例 患 者 体 重 指 数 变 化 率 绝 对 值 △ 体 重 指 数 为 应 变 量 ,	O B-Drug I-Drug E-Drug O O O O O O O B-Test I-Test I-Test E-Test O O O O O O O B-Test I-Test I-Test E-Test O O O O O
+分 别 与 各 测 量 指 标 变 化 率 绝 对 值 进 行 相 关 分 析 ,	O O O O O O O O O O O O O O O O O O O O O
+体 重 指 数 与 脂 联 素 ( r = - 0 . 04 ,	B-Test I-Test I-Test E-Test O B-Test I-Test E-Test O O O O O O O O
+P = 0 . 80 ) 、vaspin ( r = - 0 . 08 ,	O O O O O O O O O O O O O O O
+P = 0 . 28 ) 、IL - 6 ( r = 0 . 20 ,	O O O O O O O E-Test O O O O O O O O
+P = 0 . 23 ) 无 明 显 相 关 性 。	O O O O O O O O O O O O O
+以 卡 优 平 治 疗 的 39 例 患 者 HBA1C 变 化 率 绝 对 值 为 应 变 量 ,	O B-Drug I-Drug E-Drug O O O O O O O O O O O O O O O O O O O
+分 别 与 各 测 量 指 标 变 化 率 绝 对 值 进 行 相 关 分 析 ,	O O O O O O O O O O O O O O O O O O O O O
+HBA1C 与 脂 联 素 ( r = - 0 . 02 ,	O O B-Test I-Test E-Test O O O O O O O O
+P = 0 . 91 ) 、vaspin ( r = - 0 . 20 ,	O O O O O O O O O O O O O O O
+P = 0 . 23 ) 、IL - 6 ( r = 0 . 14 ,	O O O O O O O E-Test O O O O O O O O
+P = 0 . 40 ) 无 明 显 相 关 性 。	O O O O O O O O O O O O O
+三 、 讨 论 卡 优 平 是 一 类 新 型 的 糖 尿 病 治 疗 药 物 。	O O O O B-Test I-Test E-Test O O O O O O B-Disease I-Disease E-Disease O O O O O
+其 成 分 除 含 有 二 甲 双 胍 外 ,	O O O O O O B-Drug I-Drug I-Drug E-Drug O O
+还 含 有 噻 唑 烷 二 酮 类 药 物 ( TZDs ) 吡 格 列 酮 。	O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O B-Drug I-Drug I-Drug E-Drug O
+吡 格 列 酮 是 一 种 PPARγ 亚 型 激 动 剂 。	B-Drug I-Drug I-Drug E-Drug O O O O O O O O O O
+其 降 糖 作 用 是 通 过 刺 激 肌 肉 的 葡 萄 糖 无 氧 代 谢 和 抑 制 肝 脏 糖 原 异 生 ,	O O O O O O O O O O B-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O
+提 高 对 胰 岛 素 的 敏 感 性 ,	O O O O O O O O O O O
+从 而 促 进 周 围 组 织 对 葡 萄 糖 的 利 用 。	O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O
+此 次 前 瞻 性 研 究 表 明 ,	O O O O O O O O O O
+与 单 用 二 甲 双 胍 治 疗 相 比 ,	O O O B-Drug I-Drug I-Drug E-Drug O O O O O
+经 卡 优 平 干 预 治 疗 后 的 2 型 糖 尿 病 患 者 的 血 糖 ,	O B-Drug I-Drug E-Drug O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O B-Test E-Test O
+HBA1C 水 平 降 低 显 著 ,	O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+胰 岛 素 抵 抗 有 显 著 改 善 ,	B-Reason I-Reason I-Reason I-Reason E-Reason O O O O O O
+说 明 二 甲 双 胍 和 吡 格 列 酮 联 合 治 疗 2 型 糖 尿 病 时 由 于 作 用 机 制 不 同 ,	O O B-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug E-Drug O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O
+存 在 协 同 治 疗 效 应 ,	O O O O O O O O O
+控 制 血 糖 作 用 较 单 一 使 用 二 甲 双 胍 治 疗 时 更 强 。	O O B-Test E-Test O O O O O O O B-Drug I-Drug I-Drug E-Drug O O O O O O
+同 时 ,	O O O
+卡 优 平 组 治 疗 后 ,	B-Drug I-Drug E-Drug O O O O O
+3 种 脂 肪 细 胞 因 子 水 平 较 治 疗 前 有 显 著 变 化 ,	O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O
+提 示 其 成 分 中 的 吡 格 列 酮 对 脂 肪 细 胞 因 子 有 直 接 或 间 接 的 作 用 。	O O O O O O O B-Drug I-Drug I-Drug E-Drug O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O
+脂 联 素 增 加 胰 岛 素 敏 感 性 ,	B-Test I-Test E-Test O O O O O O O O O
+是 2 型 糖 尿 病 的 一 个 保 护 因 素 。	O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O
+Vaspin 是 一 种 胰 岛 素 增 敏 因 子 ,	O O O O O O O O O O O O
+其 表 达 水 平 、 血 清 水 平 与 血 糖 水 平 呈 正 相 关 。	O O O O O O O O O O O B-Test E-Test O O O O O O O
+IL - 6 能 通 过 多 种 途 径 参 与 胰 岛 素 抵 抗 的 形 成 。	B-Anatomy E-Anatomy O O O O O O O O O O B-Reason I-Reason I-Reason I-Reason E-Reason O O O O
+2 组 药 物 干 预 治 疗 后 ,	O O O O O O O O O O
+卡 优 平 组 血 清 脂 联 素 水 平 显 著 上 升 ,	B-Drug I-Drug E-Drug O O O B-Test I-Test E-Test O O O O B-Test_Value E-Test_Value O
+IL - 6 有 显 著 下 降 ,	B-Test E-Test O O O O B-Test_Value E-Test_Value O
+而 二 甲 双 胍 组 脂 联 素 、IL - 6 治 疗 后 反 应 并 不 明 显 ,	O B-Drug I-Drug I-Drug E-Drug O B-Test I-Test E-Test O E-Test O O O O O O O O O O O
+但 2 组 vaspin 均 有 显 著 下 降 ;	O O O O O O B-Test I-Test I-Test E-Test O
+提 示 卡 优 平 成 分 中 吡 格 列 酮 或 许 是 影 响 脂 联 素 、IL - 6 水 平 的 主 要 因 素 ,	O O B-Drug I-Drug E-Drug O O O B-Drug I-Drug I-Drug E-Drug O O O O O B-Test I-Test E-Test O E-Test O O O O O O O O O
+吡 格 列 酮 升 高 2 型 糖 尿 病 的 血 清 脂 联 素 水 平 的 机 制 可 能 通 过 以 下 途 径 :	B-Drug I-Drug I-Drug E-Drug O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O B-Test I-Test E-Test O O O O O O O O O O O O O O
+吡 格 列 酮 可 能 促 进 脂 肪 细 胞 的 分 化 ,	B-Drug I-Drug I-Drug E-Drug O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O
+促 进 脂 联 素 的 转 录 ;	O O B-Test I-Test E-Test O O O O
+或 通 过 影 响 血 浆 TNF 影 响 脂 联 素 的 表 达 [ 2 - 4 ] ,	O O O O O O O O O O B-Test I-Test E-Test O O O O O O O O O
+或 通 过 激 活 PPARγ 来 上 调 脂 联 素 表 达 [ 5 ] 。	O O O O O O O O O B-Test I-Test E-Test O O O O O O
+吡 格 列 酮 有 一 定 的 抗 炎 症 作 用 :	B-Drug I-Drug I-Drug E-Drug O O O O O O O O O O
+其 通 过 作 用 于 脂 肪 细 胞 可 减 少 脂 肪 因 子 及 前 炎 症 因 子 产 生 ( 主 要 为 TNF - α、IL - 6 及 瘦 素 等 ) ,	O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O B-Test I-Test I-Test E-Test O O O O O O O O O O O O O O O E-Anatomy O O O O O O O
+减 轻 炎 症 反 应 。	O O O O O O O
+并 可 通 过 诱 导 休 眠 状 态 的 巨 噬 细 胞 凋 亡 、 抑 制 单 核 / 巨 噬 细 胞 、 淋 巴 细 胞 等 免 疫 细 胞 的 活 性 以 及 改 善 血 管 内 皮 细 胞 功 能 ,	O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O
+减 轻 全 身 炎 症 反 应 。	O O O O O O O O O
+另 外 ,	O O O
+2 组 治 疗 后 vaspin 均 有 显 著 下 降 ,	O O O O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+但 组 间 变 化 无 显 著 差 异 。	O O O O O O O O O O O
+说 明 二 甲 双 胍 和 卡 优 平 均 能 降 低 vaspin ,	O O B-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug E-Drug O O O O O O
+但 噻 唑 烷 二 酮 类 是 否 对 vaspin 水 平 下 降 有 调 控 作 用 此 次 实 验 并 不 能 得 出 。	O B-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O B-Test I-Test E-Test O O O O O O O O O O O O O O O O O
+脂 肪 细 胞 因 子 与 体 重 ,	B-Test I-Test I-Test I-Test I-Test E-Test O B-Test E-Test O
+体 脂 含 量 的 相 关 关 系 一 直 是 热 点 讨 论 的 话 题 [ 6 ,	B-Test I-Test I-Test E-Test O O O O O O O O O O O O O O O O O O
+7 ] 。	O O O
+有 些 研 究 显 示 ,	O O O O O O O
+腹 内 脂 肪 组 织 vaspin mRNA 表 达 水 平 、IL - 6 的 水 平 与 体 重 ,	B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy B-Test I-Test I-Test I-Test I-Test E-Test O E-Test O O O O O B-Test E-Test O
+体 脂 含 量 呈 正 相 关 ,	B-Test I-Test I-Test E-Test O O O O O
+脂 联 素 的 水 平 与 体 重 ,	B-Test I-Test E-Test O O O O B-Test E-Test O
+体 脂 含 量 呈 负 相 关 [ 5 - 7 ] 。	B-Test I-Test I-Test E-Test O O O O O O O O O O
+但 并 无 研 究 讨 论 脂 肪 细 胞 因 子 变 化 的 幅 度 与 体 重 指 数 变 化 幅 度 的 关 系 。	O O O O O O O B-Test I-Test I-Test I-Test I-Test E-Test O O O O O O B-Test I-Test I-Test E-Test O O O O O O O O
+此 次 研 究 ,	O O O O O
+2 组 药 物 干 预 治 疗 后 患 者 体 重 减 轻 的 同 时 ,	O O O O O O O O O O O B-Test E-Test B-Test_Value E-Test_Value O O O O
+血 清 vaspin 水 平 明 显 降 低 ,	O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+尤 其 是 卡 优 平 治 疗 后 ,	O O O B-Drug I-Drug E-Drug O O O O
+3 种 脂 肪 细 胞 因 子 水 平 与 治 疗 前 相 比 均 有 明 显 差 异 ,	O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O
+但 其 变 化 的 幅 度 均 与 体 重 指 数 的 变 化 无 明 显 相 关 ,	O O O O O O O O O B-Test I-Test I-Test E-Test O O O O O O O O O
+与 卡 优 平 的 降 糖 作 用 的 大 小 也 并 不 相 关 。	O B-Drug I-Drug E-Drug O O O O O O O O O O O O O O
+考 虑 其 浓 度 的 变 化 或 者 可 能 与 体 脂 分 布 的 变 化 相 关 。	O O O O O O O O O O O O O O O O O O O O O O O
+但 有 时 候 ,	O O O O O
+体 重 指 数 、 腰 臀 比 不 一 定 能 精 确 地 计 算 出 体 内 脂 肪 的 含 量 ,	B-Test I-Test I-Test E-Test O B-Test I-Test E-Test O O O O O O O O O O O O O O O O O O
+所 以 在 判 断 是 否 肥 胖 、 肥 胖 程 度 时 会 有 一 定 的 误 差 。	O O O O O O O B-Disease E-Disease O B-Disease E-Disease O O O O O O O O O O O
+深 入 研 究 脂 肪 细 胞 因 子 与 中 心 型 肥 胖 的 关 系 ,	O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O
+或 应 该 采 用 CT 或 MRI 的 方 法 精 确 评 价 腹 部 局 部 体 脂 分 布 情 况 。	O O O O O O O O O O O O O O O O O O O O O O O O O O
+单 独 应 用 噻 唑 烷 二 酮 类 药 物 可 能 导 致 体 重 增 加 已 有 临 床 的 认 证 。	O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O B-Test E-Test B-Test_Value E-Test_Value O O O O O O O O
+此 次 研 究 ,	O O O O O
+卡 优 平 不 仅 没 有 增 加 体 重 ,	B-Drug I-Drug E-Drug O O O O B-Test_Value E-Test_Value B-Test E-Test O
+相 反 可 显 著 降 低 新 发 2 型 糖 尿 病 患 者 的 体 重 指 数 ,	O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O B-Test I-Test I-Test E-Test O
+并 与 二 甲 双 胍 降 低 体 重 指 数 的 作 用 差 别 不 显 著 。	O O B-Drug I-Drug I-Drug E-Drug O O B-Test I-Test I-Test E-Test O O O O O O O O O
+究 其 原 因 ,	O O O O O
+可 能 因 为 其 成 分 中 二 甲 双 胍 降 低 体 重 的 作 用 远 远 大 于 吡 格 列 酮 的 升 体 重 作 用 。	O O O O O O O O B-Drug I-Drug I-Drug E-Drug O O B-Test E-Test O O O O O O O B-Drug I-Drug I-Drug E-Drug O O B-Test E-Test O O O
+有 研 究 显 示 ,	O O O O O O
+2 型 糖 尿 病 患 者 噻 唑 烷 二 酮 类 药 物 治 疗 初 期 出 现 体 重 增 加 ,	B-Disease I-Disease I-Disease I-Disease E-Disease O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O B-Test E-Test B-Test_Value E-Test_Value O
+与 水 钠 潴 留 有 关 ,	O B-Reason I-Reason I-Reason E-Reason O O O
+且 体 重 增 加 常 见 于 超 重 和 肥 胖 患 者 。	O B-Test E-Test B-Test_Value E-Test_Value O O O B-Disease E-Disease O B-Disease E-Disease O O O
+联 用 二 甲 双 胍 可 改 善 [ 8 - 10 ] 。	O O B-Drug I-Drug I-Drug E-Drug O O O O O O O O O
+另 外 需 要 说 明 的 是 ,	O O O O O O O O O
+有 报 道 称 IL - 6 ,	O O O O B-Anatomy E-Anatomy O O
+脂 联 素 ,	B-Test I-Test E-Test O
+vaspin 这 三 者 之 间 可 相 互 影 响 。	O O O O O O O O O O O O
+Fasshauer 等 [ 9 ] 发 现 ,	O O O O O O O O
+IL - 6 可 影 响 脂 联 素 mRNA 的 表 达 和 分 泌 ,	B-Anatomy E-Anatomy O O O O B-Test I-Test E-Test O O O O O O O O
+从 而 降 低 胰 岛 素 敏 感 性 ,	O O O O B-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O
+诱 导 产 生 胰 岛 素 抵 抗 。	O O O O B-Reason I-Reason I-Reason I-Reason E-Reason O
+Cakal 等 [ 10 ] 研 究 认 为 vaspin 可 能 有 调 节 局 部 炎 性 介 质 间 的 平 衡 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O
+抑 制 细 胞 因 子 诱 导 的 炎 症 反 应 的 作 用 。	O O O O O O O O O O O O O O O O O
+所 以 ,	O O O
+这 些 脂 肪 细 胞 因 子 并 不 能 作 为 影 响 血 糖 的 独 立 因 素 ,	O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O B-Test E-Test O O O O O O
+功 能 不 同 的 多 种 脂 肪 细 胞 因 子 之 间 可 能 存 在 复 杂 的 调 控 网 络 ,	O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O
+从 而 达 到 间 接 调 节 血 糖 的 目 的 。	O O O O O O O O B-Test E-Test O O O O
+综 上 所 述 ,	O O O O O
+卡 优 平 ( 吡 格 列 酮 二 甲 双 胍 片 ) 干 预 治 疗 后 2 型 糖 尿 病 患 者 的 糖 化 血 红 蛋 白 ,	B-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug E-Drug B-Drug I-Drug I-Drug E-Drug O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O B-Test I-Test I-Test I-Test I-Test E-Test O
+血 糖 水 平 较 二 甲 双 胍 组 降 低 更 为 明 显 。	B-Test E-Test O O O B-Drug I-Drug I-Drug E-Drug O O O O O O O O
+且 能 明 显 改 善 vaspin、IL - 6、 脂 联 素 的 水 平 。	O O O O O O O E-Test O B-Test I-Test E-Test O O O O
+卡 优 平 对 三 种 脂 肪 细 胞 因 子 的 作 用 不 依 赖 于 其 降 血 糖 作 用 以 及 降 低 体 重 指 数 的 作 用 。	B-Drug I-Drug E-Drug O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O B-Test E-Test O O O O B-Test_Value E-Test_Value B-Test I-Test I-Test E-Test O O O O
+但 由 于 考 虑 到 患 者 依 从 性 问 题 ,	O O O O O O O O O O O O O O
+本 次 研 究 病 例 数 偏 少 ,	O O O O O O O O O O
+其 结 论 尚 有 待 行 大 型 流 行 病 学 研 究 以 进 一 步 验 证 。	O O O O O O O O O O O O O O O O O O O O O O
+基 础 研 究 基 金 项 目 :	O O O O O O O O O
+浙 江 省 自 然 科 学 基 金 ( Y2080418 ) 和 国 家 自 然 科 学 基 金 青 年 资 助 项 目 ( 81000356 ) 飞 霞 、 潘 伟 、 叶 菁 、 顾 雪 疆 、 倪 连 松 、 林 迪 妮 ) ;	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+515000 汕 头 大 学 医 学 院 附 属 第 一 医 院 内 分 泌 科 ( 李 卫 平 ) 高 表 达 AQP7 改 善 3T3 - L1 脂 肪 细 胞 胰 岛 素 抵 抗 的 机 制 研 究 谷 雪 梅 沈 飞 霞 潘 伟 叶 菁 顾 雪 疆 倪 连 松 李 卫 平 林 迪 妮 [ 摘 要 ] 目 的 探 讨 脂 肪 细 胞 中 水 通 道 蛋 白 7 ( AQP7 ) 表 达 与 胰 岛 素 抵 抗 的 关 系 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O
+方 法 培 养 3T3 - L1 前 体 脂 肪 细 胞 ,	O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O
+诱 导 分 化 为 成 熟 的 脂 肪 细 胞 ,	O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O
+并 用 地 塞 米 松 ( DXM ) 处 理 建 立 胰 岛 素 抵 抗 模 型 。	O O B-Drug I-Drug I-Drug E-Drug O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O
+构 建 Ad - AQP7 重 组 腺 病 毒 ,	O O B-Anatomy E-Anatomy O O O O O O O
+转 染 胰 岛 素 抵 抗 的 脂 肪 细 胞 ,	O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O
+检 测 AQP7 表 达 水 平 的 改 变 与 脂 肪 细 胞 甘 油 释 放 水 平 、 葡 萄 糖 代 谢 能 力 以 及 磷 酸 化 PKB 表 达 改 变 的 关 系 ,	O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy B-Test I-Test I-Test I-Test I-Test E-Test O B-Test I-Test I-Test I-Test I-Test I-Test E-Test O O B-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O O O O
+从 而 阐 明 AQP7 改 善 胰 岛 素 抵 抗 的 可 能 机 制 。	O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O
+结 果 100 nmol / L DXM 作 用 分 化 成 熟 的 脂 肪 细 胞 诱 导 胰 岛 素 抵 抗 ,	O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O B-Disease I-Disease I-Disease I-Disease E-Disease O
+48 h 后 p - PKB 水 平 和 葡 萄 糖 消 耗 量 明 显 减 少 ( P < 0 . 01 ) ,	O O O B-Test I-Test I-Test I-Test E-Test O B-Test I-Test I-Test I-Test I-Test E-Test O O B-Test_Value E-Test_Value O O O O O O O O
+为 胰 岛 素 抵 抗 的 最 佳 状 态 。	O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O
+胰 岛 素 抵 抗 状 态 下 AQP7 mRNA 和 蛋 白 水 平 明 显 减 少 ( 均 P < 0 . 01 ) 。	B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O B-Test_Value E-Test_Value O O O O O O O O O
+Ad - AQP7 腺 病 毒 转 染 胰 岛 素 抵 抗 的 脂 肪 细 胞 72 h ,	B-Anatomy E-Anatomy O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O
+随 着 AQP7 表 达 增 加 ,	O O O O O O O O
+培 养 基 中 甘 油 释 放 浓 度 增 加 ,	O O O O B-Test I-Test I-Test I-Test I-Test E-Test O O O
+胰 岛 素 刺 激 下 的 p - PKB 水 平 呈 现 同 样 上 升 趋 势 ,	B-Anatomy I-Anatomy E-Anatomy O O O O B-Test E-Test O O O O O O O O O O O O
+并 且 葡 萄 糖 代 谢 能 力 得 到 明 显 改 善 。	O O O O O O O O O O O O O O O O
+结 论 AQP7 可 能 参 与 胰 岛 素 抵 抗 的 分 子 机 制 ;	O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O
+高 表 达 AQP7 可 改 善 胰 岛 素 抵 抗 ,	O O O O O O O O O O O O O
+其 机 制 可 能 与 PKB 信 号 通 路 改 善 有 关 。	O O O O O O O O O O O O O O O O
+[ 关 键 词 ] 水 通 道 蛋 白 7 ;	O O O O O O O O O O O O
+胰 岛 素 抵 抗 ;	O O O O O O
+蛋 白 激 酶 B Overexpression of AQP7 improves insulin resistance in 3T3 - L1 adipocytes GU Xue - mei * ,	O O O O O O O O O O O O O O O O O O O O O O
+SHEN Fei - xia ,	O O O O O
+PAN Wei ,	O O O
+YE Jing ,	O O O
+GU Xue - jiang ,	O O O O O
+NI Lian - song ,	O O O O O
+LI Wei - ping ,	O O O O O
+LIN Di - ni . * Department of Endocrinology and Metabolism ,	O O O O O O O O O O O O
+First Affilliated Hospital ,	O O O O
+Wenzhou Medical College ,	O O O O
+Wenzhou 325000 ,	O O O
+China [ Abstract ] Objective To investigate the role of aquaglyceroporin 7 ( AQP7 ) played in insulin resistance of adipocytes . Methods 3T3 - L1 preadipocyte cells were induced to be fully differentiated adipocytes and then insulin resistance was induced by dexamethasone ( DXM ) . Adenovirus vector over - expressing AQP7 ( Ad - AQP7 ) was constructed and transfected into adipocytes . Expression levels of AQP7 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+glycerol release from adipocytes ,	O O O O O
+changes in glucose consumption ,	O O O O O
+and phosphorylated protein kinase B ( p - PKB ) were measured . Results 48 h - treatment of dexamethasone significantly inhibited the expression level of p - PKB ( P < 0 . 01 ) and decreased glucose utilization ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+as well as down - regulation of AQP7 ( P < 0 . 01 ) . Over - expression of AQP7 by transfecting Ad - AQP7 to dexamethasone ( DXM ) - induced insulin resistant adipocytes could improve glycerol secretion of adipocytes ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+being consistent with the restoration of p - PKB expression levels and glucose consumption . Conclusions AQP7 may improve in molecular mechanism of insulin resistance in adipocytes . Overexpression of AQP7 may contribute to the improvement of insulin resistance in adipocytes and might be correlated with better phosphorylation of PKB . [ Key words ] Aquaglyceroporin 7 ;	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Insulin resistance ;	O O O
+Protein kinase B ( Chin J Endocrinol Metab ,	O O O O O O O O O
+2013 ,	O O
+29 :	O O
+515 - 519 ) 肥 胖 已 成 为 当 今 社 会 的 公 共 卫 生 问 题 ,	O O O O B-Disease E-Disease O O O O O O O O O O O O O O O
+世 界 卫 生 组 织 估 计 全 球 大 约 有 10 亿 人 超 重 ,	O O O O O O O O O O O O O O O O B-Disease E-Disease O
+其 中 3 亿 属 于 临 床 肥 胖 。	O O O O O O B-Disease I-Disease I-Disease E-Disease O
+肥 胖 是 由 于 摄 入 过 多 和 ( 或 ) 消 耗 不 足 致 使 脂 肪 组 织 堆 积 ,	B-Disease E-Disease O O O B-Reason I-Reason I-Reason E-Reason O O O O B-Reason I-Reason I-Reason E-Reason O O B-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O
+常 伴 各 种 代 谢 紊 乱 ,	O O O O O O O O O
+与 多 种 健 康 问 题 密 切 相 关 ,	O O O O O O O O O O O O
+尤 其 是 影 响 心 脑 血 管 疾 病 和 糖 尿 病 的 一 个 重 要 危 险 因 子 ,	O O O O O B-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O B-Disease I-Disease E-Disease O O O O O O O O O O
+而 且 有 效 控 制 肥 胖 也 是 全 球 预 防 死 亡 发 生 的 一 个 重 要 方 面 [ 1 ] 。	O O O O O O B-Disease E-Disease O O O O O O B-Disease E-Disease O O O O O O O O O O O O O
+目 前 关 于 肥 胖 的 治 疗 干 预 措 施 很 多 ,	O O O O B-Disease E-Disease O O O O O O O O O O
+包 括 运 动 、 饮 食 控 制 ,	O O O O O O O O O O
+甚 有 通 过 外 科 手 术 治 疗 。	O O O O O O O O O O O
+尽 管 关 于 此 类 方 式 减 肥 的 报 道 层 出 不 穷 ,	O O O O O O O O O O O O O O O O O O
+但 是 如 何 减 轻 体 重 涉 及 的 关 键 途 径 与 机 制 仍 未 明 确 。	O O O O O O B-Test E-Test O O O O O O O O O O O O O O O
+因 此 探 求 一 条 可 以 有 效 减 轻 体 重 的 治 疗 新 途 径 ,	O O O O O O O O O O O O B-Test E-Test O O O O O O O
+具 有 重 要 的 临 床 意 义 。	O O O O O O O O O O
+近 来 研 究 显 示 水 甘 油 通 道 蛋 白 AQP7 能 够 促 进 脂 肪 细 胞 内 甘 油 向 胞 外 转 运 [ 2 ] ,	O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O
+而 且 缺 乏 AQP7 不 仅 影 响 脂 肪 细 胞 的 生 物 学 性 状 还 与 整 个 机 体 的 葡 萄 糖 代 谢 和 胰 岛 素 敏 感 性 密 切 相 关 [ 3 ] ,	O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+从 而 为 肥 胖 的 防 治 提 供 了 新 的 研 究 方 向 。	O O O B-Disease E-Disease O O O O O O O O O O O O O
+糖 皮 质 激 素 可 以 导 致 胰 岛 素 抵 抗 ,	B-Reason I-Reason I-Reason I-Reason E-Reason O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O
+其 中 常 用 地 塞 米 松 ( DXM ) 建 立 细 胞 胰 岛 素 抵 抗 模 型 [ 4 ,	O O O O B-Drug I-Drug I-Drug E-Drug O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O
+5 ] 。	O O O
+本 研 究 旨 在 探 讨 胰 岛 素 抵 抗 对 3T3 - L1 脂 肪 细 胞 AQP7 表 达 的 影 响 ,	O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O
+并 进 一 步 阐 明 高 表 达 AQP7 是 否 可 以 通 过 PKB 通 路 改 善 胰 岛 素 抵 抗 。	O O O O O O O O O O O O O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O
+材 料 和 方 法 一 、 材 料 3T3 - L1 脂 肪 细 胞 株 购 于 中 国 科 学 院 上 海 细 胞 库 ,	O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O
+DMEM ( 包 括 无 酚 红 的 DMEM ,	O O O O O O O O O O
+Gibco31053 - 028 ) 、 新 生 小 牛 血 清 ( CBS ) 、 Trizol 购 自 Gibco ,	O O O O O O O O O O O O O O O O O O O O
+胎 牛 血 清 购 自 Biochrom ;	O O O O O O O O
+胰 岛 素 ( INS ) 、 1 - 甲 基 - 3 - 异 丁 基 黄 嘌 呤 ( IBMX ) 、 地 塞 米 松 ( DXM ) 、 牛 血 清 白 蛋 白 ( BSA ) 、 多 聚 赖 氨 酸 购 自 Sigma ;	B-Drug I-Drug E-Drug O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O B-Drug I-Drug I-Drug E-Drug O O O O O O O O O O B-Anatomy O O O O O O O O O O O O
+RT 试 剂 盒 购 自 Thermo Scientific ,	O O O O O O O O O
+荧 光 定 量 PCR 试 剂 购 自 Takara ;	O O O O O O O O O O O
+抗 AQP7 抗 体 购 自 Abcam ,	O O O O O O O O
+抗 PKB 和 抗 磷 酸 化 ( Ser473 ) 抗 体 购 自 Cell Signaling Technology ;	O O O O O O O O O O O O O O O O O O
+甘 油 检 测 试 剂 购 自 BioVision ,	O O O O O O O O O O
+葡 萄 糖 检 测 试 剂 购 自 南 京 建 成 生 物 研 究 所 。	O O O O O O O O O O O O O O O O O O O
+二 、 方 法 1 . 3T3 - L1 细 胞 培 养 :	O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O
+用 10 % CBS 的 高 糖 DMEM 培 养 基 在 37℃、5 % CO2 饱 和 湿 度 条 件 下 培 养 ,	O O O O O O O O O O O O O O O O O O O O O O O O O
+待 细 胞 融 合 2 天 后 ,	O O O O O O O O O
+加 入 含 有 0 . 5 mmol / L IBMX、1 μmol / L DXM、5 g / L INS 的 10 % FBS 的 高 糖 DMEM 培 养 基 培 养 48 h ,	O O O O B-Amount I-Amount I-Amount I-Amount I-Amount O O O O O O I-Amount I-Amount O O O O O O O O O O O O O O O O O O
+更 换 为 5 g / L INS 的 培 养 基 再 培 养 48 h ,	O O O B-Amount I-Amount I-Amount O O O O O O O O O O O O
+随 后 用 10 % FBS 的 高 糖 DMEM 培 养 基 继 续 培 养 ,	O O O O O O O O O O O O O O O O O O
+2 天 换 液 一 次 ,	O O O O O O O
+至 细 胞 分 化 为 成 熟 的 脂 肪 细 胞 。	O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O
+8 ~ 10 天 后 经 油 红 染 色 鉴 定 85 % 以 上 呈 脂 肪 细 胞 表 型 ,	O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O
+可 用 于 后 续 实 验 。	O O O O O O O O
+2 . 胰 岛 素 抵 抗 模 型 的 建 立 :	O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O
+3T3 - L1 前 脂 肪 细 胞 诱 导 分 化 为 成 熟 脂 肪 细 胞 后 ,	O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O
+分 为 4 组 。	O O O O O
+第 1 组 不 加 干 预 作 为 正 常 对 照 ( 对 照 组 ) ,	O O O O O O O O O O O O O O O O O O O
+第 2、3、4 组 细 胞 分 别 加 入 100 nmol / L DXM 溶 液 作 用 24、48 和 72 h。 3 . Ad - AQP7 重 组 腺 病 毒 载 体 的 构 建 和 转 染 :	O O O O O O O O O B-Amount I-Amount I-Amount O O O O O O O O O O O O B-Anatomy E-Anatomy O O O O O O O O O O O O O O O
+参 考 相 关 文 献 [ 6 ] 构 建 Ad - AQP7 重 组 腺 病 毒 载 体 ,	O O O O O O O O O O O O O O O O O O O O O O
+转 染 293 细 胞 扩 增 并 纯 化 。	O O O O O O O O O O O
+根 据 Orlicky 等 [ 7 ] 方 法 ,	O O O O O O O O O O
+在 含 有 病 毒 液 的 培 养 基 中 加 入 0 . 5 μg / ml 多 聚 赖 氨 酸 作 用 3T3 - L1 细 胞 72 h ,	O O O O O O O O O O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O
+同 时 转 染 不 含 AQP7 基 因 的 空 载 腺 病 毒 作 为 阴 性 对 照 组 ,	O O O O O O O O O O O O O O O O O O O O O O O
+并 以 不 加 病 毒 干 预 做 为 空 白 对 照 组 。	O O O O O O O O O O O O O O O O
+4 . 实 时 PCR 检 测 :	O O O O O O O O
+用 Trizol 法 抽 提 3T3 - L1 脂 肪 细 胞 总 RNA ,	O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O
+取 500 ng 逆 转 录 为 cDNA。 AQP7 和 内 参 β - actin 引 物 由 上 海 生 工 生 物 工 程 有 限 公 司 合 成 ( 表 1 ) 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+取 1 滋 l ( 20 滋 l 体 系 ) 在 ABI StepOnePlus 扩 增 仪 上 进 行 实 时 荧 光 定 量 PCR 反 应 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+反 应 条 件 :	O O O O O
+95℃ 预 变 性 30 s ,	O O O O O O O
+95℃ 变 性 5 s ,	O O O O O O
+60℃ 退 火 30 s ,	O O O O O O
+共 进 行 40 个 循 环 。	O O O O O O O O
+以 2 - △△Ct 表 示 处 理 组 相 对 于 正 常 对 照 组 的 变 化 倍 数 ,	O O O O O O O O O O O O O O O O O O O O O O O
+实 验 重 复 3 次 。	O O O O O O O
+5 . 免 疫 印 记 分 析 :	O O O O O O O O O
+培 养 于 六 孔 板 内 的 脂 肪 细 胞 经 上 述 处 理 之 后 ,	O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O
+更 换 0 . 2 % BSA 的 DMEM 培 养 基 作 用 表 1 实 时 PCR 引 物 序 列 Tab 1 Primer sequences of real - time PCR 基 因 Gene 引 物 序 列 Sequence of primers 产 物 长 度 Length of product ( bp ) AQP7 F :	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5 ' - TCGGTGTCAACTTGGGTTTTG - 3 ' 64 R :	O O O O O O O O O O
+5 ' - GAGATGCCGCCTGCTACAT - 3 ' β - actin F :	O O O O O O O O O O O O
+5 ' - CTTCTTTGCAGCTCCTTCG - 3 ' 198 R :	O O O O O O O O O O
+5 ' - TTCTGACCCATTCCCACC - 3 ' 注 :	O O O O O O O O O
+AQP7 :	O O
+水 通 道 蛋 白 7 Aquaglyceroporin 7 3 h ,	O O O O O O O O O O O
+用 100 nmol / L INS 溶 液 刺 激 15 min 后 吸 弃 培 养 基 ,	O B-Amount I-Amount I-Amount O O O O O O O O O O O O O O O
+用 预 冷 PBS 洗 涤 细 胞 2 次 ,	O O O O O O O O O O O
+每 孔 加 入 细 胞 裂 解 液 100 滋 l ,	O O O O O O O O O O O O O
+刮 起 细 胞 ,	O O O O O
+细 胞 悬 液 过 27G 针 头 数 次 ,	O O O O O O O O O O O
+冰 上 静 置 30 min 后 12 000 转 / min 4℃ 离 心 20 min ,	O O O O O O O O O O O O O O O O O O
+吸 取 上 清 用 BCA 法 测 定 蛋 白 浓 度 。	O O O O O O O O O O O O O O
+电 泳 前 按 4 :	O O O O O O
+1 体 积 比 与 5× 上 样 缓 冲 液 混 合 ,	O O O O O O O O O O O O O O
+100℃ 热 变 性 5 min。 各 取 40 μg 蛋 白 上 样 10 % 聚 丙 烯 酰 胺 凝 胶 电 泳 分 离 蛋 白 后 转 到 PVDF 膜 上 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+5 % 脱 脂 牛 奶 室 温 床 封 闭 1 h ,	O O O O O O O O O O O O O O
+一 抗 4℃ 孵 育 过 夜 。	O O O O O O O O
+次 日 与 辣 根 过 氧 化 物 酶 标 记 的 二 抗 孵 育 1 h 后 ,	O O O O O O O O O O O O O O O O O O O O O
+加 ECL 试 剂 反 应 ,	O O O O O O O
+显 像 ,	O O O
+成 像 。	O O O
+用 目 的 条 带 与 β - actin 的 灰 度 值 相 比 表 示 目 的 蛋 白 的 相 对 表 达 量 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+6 . 甘 油 释 放 检 测 :	O O B-Test I-Test I-Test I-Test I-Test E-Test O
+3T3 - L1 脂 肪 细 胞 在 含 0 . 5 % BSA、 肾 上 腺 素 浓 度 为 10 - 6 mol / L 的 DMEM 培 养 基 作 用 1 h 后 收 集 上 清 ,	O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O B-Test I-Test I-Test I-Test I-Test E-Test O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O O O O O O O O O O O O O O
+根 据 甘 油 检 测 试 剂 盒 在 570 nm 处 测 量 吸 光 度 计 算 甘 油 浓 度 。	O O O O O O O O O O O O O O O O O O O O B-Test I-Test I-Test E-Test O
+7 . 培 养 基 葡 萄 糖 浓 度 检 测 :	O O O O O O O O O O O O O
+收 集 细 胞 上 清 液 ,	O O O O O O O O
+按 照 试 剂 盒 方 法 37℃ 孵 箱 10 min 后 500 nm 处 测 吸 光 度 计 算 葡 萄 糖 浓 度 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+三 、 统 计 学 分 析 应 用 SPSS13 . 0 统 计 软 件 分 析 ,	O O O O O O O O O O O O O O O O O O O
+实 验 结 果 以 x - ± s 表 示 。	O O O O O O O O O O O O
+组 间 比 较 采 用 独 立 样 本 t 检 验 或 单 因 素 方 差 分 析 。	O O O O O O O O O O O O O O O O O O O O O O
+P < 0 . 05 为 差 异 有 统 计 学 意 义 。	O O O O O O O O O O O O O O O
+结 果 一 、 胰 岛 素 抵 抗 模 型 的 建 立 和 鉴 定 糖 皮 质 激 素 可 以 导 致 胰 岛 素 抵 抗 ,	O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O B-Reason I-Reason I-Reason I-Reason E-Reason O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O
+而 地 塞 米 松 作 为 常 用 的 诱 导 剂 以 浓 度 从 10 nmol / L 至 1 μmol / L 不 等 建 立 3T3 - L1 脂 肪 细 胞 胰 岛 素 抵 抗 模 型 。	O B-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O B-Amount I-Amount I-Amount O O B-Amount I-Amount I-Amount O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy B-Disease I-Disease I-Disease I-Disease E-Disease O O O
+本 实 验 中 可 以 看 到 ,	O O O O O O O O O
+100 nmol / L DXM 作 用 24 h 胰 岛 素 刺 激 的 p - PKB 蛋 白 含 量 稍 有 下 降 ,	B-Amount I-Amount I-Amount O O O O O O B-Drug I-Drug E-Drug O O O B-Test I-Test I-Test I-Test E-Test O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+而 葡 萄 糖 代 谢 水 平 与 正 常 对 照 组 无 明 显 差 别 ;	O O O O O O O O O O O O O O O O O O O O
+48 h 后 p - PKB 水 平 明 显 减 少 ( P < 0 . 01 ) ,	O O O B-Test E-Test O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O O O O O O
+葡 萄 糖 消 耗 量 与 同 期 正 常 对 照 组 相 比 差 值 最 大 ;	O O O O O O O O O O O O O O O O O O O O O
+之 后 随 着 作 用 时 间 延 长 DXM 的 抑 制 效 应 减 弱 ,	O O O O O O O O O O O O O O O O O O O
+葡 萄 糖 代 谢 能 力 得 到 一 定 程 度 的 恢 复 ( 图 1 ) ,	O O O O O O O O O O O O O O O O O O O O O
+故 结 合 p - PKB 和 葡 萄 糖 消 耗 水 平 ,	O O O B-Test E-Test O O O O O O O O O O
+DXM 作 用 48 h 为 胰 岛 素 抵 抗 的 最 佳 状 态 。	O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O
+二 、 胰 岛 素 抵 抗 状 态 下 AQP7 mRNA 和 蛋 白 水 平 注 :	O O O O O O O O O O O O O O O O O O O
+DXM :	O O
+地 塞 米 松 Dexamethasone ( 100 nmol / L ) ;	B-Drug I-Drug I-Drug E-Drug O O B-Amount I-Amount I-Amount O O O
+INS :	O O
+胰 岛 素 Insulin ( 100 nmol / L ) ;	B-Drug I-Drug E-Drug O O B-Amount I-Amount I-Amount O O O
+PKB :	O O
+蛋 白 激 酶 B Protein kinase B ;	B-Drug I-Drug I-Drug E-Drug O O O O O
+组 间 相 比 Comparison between 2 groups ,	O O O O O O O O O
+aP < 0 . 05 ,	O O O O O O
+bP < 0 . 01 图 1 地 塞 米 松 处 理 不 同 时 间 脂 肪 细 胞 p - PKB 蛋 白 和 葡 萄 糖 摄 取 变 化 Fig 1 The expression of p - PKB protein and glucose utilization after treatment of dexamethasone 表 达 分 化 成 熟 的 3T3 - L1 脂 肪 细 胞 经 100 nmol / L DXM 处 理 48 h 建 立 胰 岛 素 抵 抗 模 型 ,	O O O O O O O B-Drug I-Drug I-Drug E-Drug O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy B-Test E-Test O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Amount I-Amount I-Amount O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O
+可 以 看 到 AQP7 转 录 水 平 明 显 减 少 ,	O O O O O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+约 降 至 正 常 对 照 组 的 1 / 3 ( 图 2A ) ;	O O O O O O O O O O O O O O O O O
+同 时 蛋 白 水 平 大 致 下 降 到 正 常 水 平 的 50 % ( 图 2B ) ;	O O O O O O O O O O O O O O O O O O O O O O O
+因 此 在 胰 岛 素 抵 抗 状 态 下 AQP7 转 录 水 平 和 蛋 白 水 平 出 现 同 步 下 降 ,	O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O O O O O O O O O
+与 PKB 磷 酸 化 水 平 变 化 趋 势 一 致 。	O O O O O O O O O O O O O O
+三 、 Ad - AQP7 转 染 胰 岛 素 抵 抗 脂 肪 细 胞 对 AQP7 蛋 白 和 甘 油 释 放 水 平 的 影 响 DXM 干 预 48 h 后 AQP7 表 达 下 降 ,	O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease B-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Test I-Test E-Test O B-Test I-Test I-Test I-Test I-Test E-Test O O O O O O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+而 转 染 空 载 腺 病 毒 组 无 明 显 改 变 ,	O O O O O O O O O O O O O O O
+但 转 染 Ad - AQP7 腺 病 毒 72 h 之 后 发 现 AQP7 蛋 白 水 平 表 达 增 加 ( 图 3A ) ;	O O O O O O O O O O O O O O O B-Test I-Test E-Test O O O O O O O O O O O
+检 测 培 养 基 中 的 甘 油 浓 度 发 现 ,	O O O O O O O B-Test E-Test O O O O O
+肾 上 腺 素 刺 激 的 甘 油 释 放 趋 势 与 AQP7 变 化 一 致 ,	O O O O O O O O O O O O O O O O O O O O
+即 DXM 作 用 后 甘 油 输 出 受 阻 ,	O O O O O O O O O O O O
+脂 肪 分 解 能 力 下 降 ,	O O O O O O O O O
+培 养 基 中 甘 油 释 放 减 少 ,	O O O O O O O O O O O
+转 染 Ad - AQP7 腺 病 毒 后 甘 油 水 平 增 加 ,	O O O O O O O O O O O O O O O O
+旨 在 表 明 随 着 AQP7 表 达 恢 复 ,	O O O O O O O O O O O O
+其 甘 油 运 输 能 力 也 同 步 增 强 ,	O O O O O O O O O O O O O
+有 利 于 脂 肪 的 分 解 ( 图 3B ) 。	O O O O O O O O O O O O O
+四 、 Ad - AQP7 转 染 胰 岛 素 抵 抗 脂 肪 细 胞 对 PKB 磷 酸 化 蛋 白 和 葡 萄 糖 代 谢 变 化 的 影 响 进 一 步 观 察 胰 岛 素 抵 抗 的 脂 肪 细 胞 随 着 AQP7 表 注 :	O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O
+AQP7 :	O O
+水 通 道 蛋 白 7 Aquaglyceroporin 7 ;	O O O O O O O O O
+组 间 相 比 Comparison between 2 groups ,	O O O O O O O O O
+aP < 0 . 01 图 2 脂 肪 细 胞 胰 岛 素 抵 抗 状 态 下 AQP7 mRNA 和 蛋 白 水 平 Fig 2 The expression of p - PKB mRNA and protein in the insulin resistance of adipocytes 注 :	O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+DXM :	O O
+地 塞 米 松 Dexamethasone ( 100 nmol / L ) ;	B-Drug I-Drug I-Drug E-Drug O O O O O O O O
+AQP7 :	O O
+水 通 道 蛋 白 7 Aquaglyceroporin 7 ;	O O O O O O O O O
+vs Con [ DXM ( - ) ] ,	O O O O O O O O O
+aP < 0 . 05 ;	O O O O O O
+vs Con [ DXM ( + ) ] ,	O O O O O O O O O
+bP < 0 . 05 图 3 Ad - AQP7 腺 病 毒 转 染 脂 肪 细 胞 后 AQP7 蛋 白 和 甘 油 释 放 水 平 变 化 Fig 3 The levels of AQP7 protein and glycerol concentration after transfected with adenoviruses 注 :	O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O O O O O O
+DXM :	O O
+地 塞 米 松 Dexamethasone ( 100 nmol / L ) ;	B-Drug I-Drug I-Drug E-Drug O O O O O O O O
+INS :	O O
+胰 岛 素 Insulin ( 100 nmol / L ) ;	O O O O O O O O O O O
+PKB :	O O
+蛋 白 激 酶 B Protein kinase B ;	O O O O O O O O O
+AQP7 :	O O
+水 通 道 蛋 白 7 Aquaglyceroporin 7 ;	O O O O O O O O O
+vs Con [ DXM ( - ) ] ,	O O O O O O O O O
+aP < 0 . 05 ;	O O O O O O
+vs Con [ DXM ( + ) ] ,	O O O O O O O O O
+bP < 0 . 05 图 4 AQP7 腺 病 毒 转 染 之 后 p - PKB 蛋 白 和 葡 萄 糖 代 谢 变 化 Fig 4 The expression of p - PKB protein and glucose utilization after transfected with adenoviruses 达 的 升 高 是 否 有 利 于 改 善 胰 岛 素 抵 抗 。	O O O O O O O O O O O O O O O B-Test E-Test O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O
+可 以 看 出 ,	O O O O O
+转 染 AQP7 腺 病 毒 之 后 p - PKB 水 平 较 胰 岛 素 抵 抗 组 明 显 提 高 ,	O O O O O O O O B-Test E-Test O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O
+并 且 培 养 基 中 葡 萄 糖 的 消 耗 量 也 随 着 AQP7 表 达 的 增 加 而 增 加 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O
+亦 即 表 明 葡 萄 糖 代 谢 能 力 也 得 到 增 强 ( 图 4 ) 。	O O O O O O O O O O O O O O O O O O O O O
+讨 论 迄 今 为 止 ,	O O O O O O O
+在 哺 乳 动 物 中 已 发 现 13 种 水 通 道 蛋 白 ,	O O O O O O O O O O O O O O O O O
+作 为 在 脂 肪 组 织 大 量 表 达 并 具 有 甘 油 转 运 功 能 的 AQP7 ,	O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O
+逐 渐 引 起 人 们 的 重 视 并 成 为 研 究 热 点 。	O O O O O O O O O O O O O O O O O
+对 AQP7 基 因 敲 除 小 鼠 的 研 究 发 现 ,	O O O O O O O O O O O O O O
+缺 乏 AQP7 基 因 表 达 的 小 鼠 虽 然 没 有 出 现 糖 耐 量 异 常 ,	O O B-Test I-Test E-Test O O O O O O O O O O O O O O O O O
+但 胰 岛 体 积 减 小 并 出 现 高 胰 岛 素 血 症 [ 8 ] ;	O B-Anatomy E-Anatomy O O O O O O O B-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O
+另 外 Hibuse 等 [ 9 ] 研 究 显 示 ,	O O O O O O O O O O O O
+敲 除 AQP7 基 因 的 小 鼠 表 现 出 与 年 龄 相 关 的 肥 胖 表 型 ,	O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O B-Disease E-Disease O O O
+进 一 步 发 现 是 由 于 脂 肪 细 胞 内 甘 油 激 酶 的 活 性 增 强 使 蓄 积 的 甘 油 重 新 酯 化 形 成 甘 油 三 酯 ,	O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O O O B-Test I-Test I-Test E-Test O
+以 致 最 终 引 起 肥 胖 的 发 生 。	O O O O O O B-Disease E-Disease O O O O
+不 仅 如 此 ,	O O O O O
+AQP7 基 因 敲 除 小 鼠 还 存 在 与 肥 胖 相 关 的 严 重 的 胰 岛 素 抵 抗 [ 10 ] 。	B-Anatomy I-Anatomy E-Anatomy O O O O O O O O B-Disease E-Disease O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O
+对 人 体 不 同 来 源 脂 肪 组 织 的 研 究 发 现 ,	O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O
+AQP7 的 表 达 存 在 区 域 性 分 布 差 异 。	O O O O O O O O O O O O O O
+正 常 体 重 受 试 者 皮 下 脂 肪 组 织 AQP7 mRNA 表 达 高 于 内 脏 脂 肪 组 织 ,	O O B-Test E-Test O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O
+与 生 理 条 件 下 皮 下 脂 肪 分 解 脂 肪 能 力 的 效 应 更 强 相 符 [ 11 ] ;	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+但 肥 胖 症 患 者 内 脏 脂 肪 中 AQP7 表 达 水 平 异 常 增 加 [ 12 ,	O B-Disease E-Disease O O O O O O O O O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O
+13 ] ,	O O O
+并 且 在 肥 胖 伴 2 型 糖 尿 病 患 者 中 这 种 现 象 更 明 显 [ 14 - 16 ] ,	O O O B-Disease E-Disease O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O O O O O
+究 其 原 因 可 能 与 AQP7 代 偿 性 上 调 增 强 脂 肪 分 解 能 力 从 而 减 少 脂 肪 组 织 在 内 脏 的 堆 积 ,	O O O O O O O O O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O
+有 助 于 改 善 胰 岛 素 抵 抗 。	O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O
+上 述 来 自 动 物 和 人 体 的 研 究 结 果 显 示 AQP7 的 表 达 与 胰 岛 素 的 敏 感 性 密 切 相 关 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+可 以 推 测 AQP7 缺 失 导 致 脂 肪 细 胞 中 甘 油 堆 积 引 起 肥 胖 的 发 生 ,	O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O B-Disease E-Disease O O O O
+而 AQP7 表 达 升 高 可 以 促 进 甘 油 向 胞 外 转 运 ,	O O O O O O O O O O O O O O O O O O
+减 小 脂 肪 细 胞 的 体 积 从 而 达 到 减 轻 体 重 、 增 强 胰 岛 素 敏 感 性 的 目 的 。	O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O B-Test E-Test O O O O O O O O O O O O O
+因 此 本 研 究 通 过 DXM 建 立 3T3 - L1 脂 肪 细 胞 胰 岛 素 抵 抗 模 型 ,	O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy B-Disease I-Disease I-Disease I-Disease E-Disease O O O
+构 建 并 转 染 AQP7 重 组 腺 病 毒 用 以 评 估 AQP7 表 达 对 胰 岛 素 敏 感 性 的 影 响 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+PKB 作 为 磷 脂 酰 肌 醇 - 3 - 激 酶 ( PI - 3K ) 信 号 通 路 中 的 关 键 分 子 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+可 以 介 导 葡 萄 糖 转 运 等 多 种 生 物 学 效 应 ,	O O O O O O O O O O O O O O O O O O
+故 可 作 为 评 价 胰 岛 素 敏 感 性 的 一 个 重 要 指 标 [ 17 ] 。	O O O O O O O O O O O O O O O O O O O O O O O
+动 物 实 验 结 果 显 示 在 机 体 胰 岛 素 抵 抗 时 白 色 脂 肪 组 织 、 肝 脏 和 骨 骼 肌 在 胰 岛 素 刺 激 下 PKB 磷 酸 化 水 平 明 显 减 少 [ 18 ,	O O O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Anatomy E-Anatomy O B-Anatomy I-Anatomy E-Anatomy O B-Anatomy I-Anatomy E-Anatomy O O O B-Test I-Test I-Test E-Test O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O
+19 ] 。	O O O
+本 实 验 以 DXM 作 用 分 化 成 熟 的 3T3 - L1 脂 肪 细 胞 48h ,	O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O
+发 现 在 PKB 磷 酸 化 水 平 减 少 、 葡 萄 糖 利 用 下 降 的 同 时 AQP7 水 平 也 随 之 下 降 ,	O O O B-Test I-Test I-Test E-Test O O B-Test_Value E-Test_Value O O O O O O O O O O O O O O O O O B-Test_Value E-Test_Value O
+甘 油 释 放 受 阻 ,	O O O O O O O
+这 与 之 前 报 道 地 塞 米 松 可 引 起 AQP7 mRNA 下 调 结 果 一 致 [ 20 ] 。	O O O O O O B-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O
+与 之 相 比 ,	O O O O O
+有 文 献 报 道 具 有 典 型 代 谢 综 合 征 表 现 的 大 鼠 模 型 内 脏 脂 肪 AQP7 蛋 白 表 达 水 平 下 降 [ 21 ] ,	O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O B-Anatomy E-Anatomy O O B-Test I-Test E-Test O O O O O O O O O O
+另 有 段 玉 敏 等 [ 22 ] 观 察 到 自 发 2 型 糖 尿 病 大 鼠 随 着 肥 胖 和 糖 尿 病 病 情 加 重 ,	O O O O O O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O B-Disease E-Disease O B-Disease I-Disease E-Disease O O O O O
+皮 下 和 肾 周 脂 肪 组 织 AQP7 mRNA 表 达 呈 先 升 高 后 下 降 趋 势 ,	B-Anatomy E-Anatomy O B-Anatomy E-Anatomy B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O
+与 血 甘 油 变 化 一 致 ,	O B-Test I-Test E-Test O O O O O
+推 测 在 肥 胖 早 期 AQP7 代 偿 性 增 加 以 减 少 脂 肪 细 胞 的 体 积 ,	O O O B-Disease E-Disease B-Level E-Level O B-Test_Value I-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O
+后 期 表 达 减 少 因 而 导 致 了 脂 肪 的 积 聚 促 进 了 肥 胖 的 发 展 ,	O O O O O O O O O O O B-Anatomy E-Anatomy O O O O O O B-Disease E-Disease O O O O
+由 此 可 以 看 出 ,	O O O O O O O
+AQP7 的 表 达 与 胰 岛 素 敏 感 性 密 切 相 关 ,	O O O O O O O O O O O O O O O O
+AQP7 的 减 少 可 能 会 导 致 胰 岛 素 抵 抗 的 发 生 。	O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O
+如 果 可 以 选 择 性 增 加 AQP7 的 表 达 ,	O O O O O O O O O O O O O O
+有 望 在 肥 胖 治 疗 方 面 发 挥 重 要 作 用 。	O O O B-Disease E-Disease O O O O O O O O O O O
+Kong 等 [ 23 ] 发 现 羧 甲 基 甲 壳 素 ( carboxymethyl schitin ) 作 用 3T3 - L1 脂 肪 细 胞 ,	O O O O O O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O
+在 AQP7 表 达 升 高 的 同 时 脂 肪 分 解 能 力 增 强 ;	O O O O O O O O O O O O O O O O O O
+同 时 也 有 报 道 使 用 胰 岛 素 增 敏 剂 可 以 增 强 AQP7 基 因 的 表 达 [ 24 ] ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+从 而 推 测 可 能 通 过 高 表 达 AQP7 抑 制 脂 肪 细 胞 的 肥 大 从 而 起 到 改 善 胰 岛 素 抵 抗 的 作 用 。	O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O
+本 研 究 通 过 利 用 腺 病 毒 载 体 高 表 达 AQP7 ,	O O O O O O O O O O O O O O O O O
+不 仅 可 以 促 进 脂 滴 的 水 解 ,	O O O O O O O O O O O O
+增 加 甘 油 的 释 放 ,	O O O O O O O O
+还 可 提 高 p - PKB 水 平 ,	O O O O B-Test E-Test O O O O
+改 善 葡 萄 糖 代 谢 能 力 ,	O O O O O O O O O O
+从 而 揭 示 了 AQP7 通 过 调 节 脂 肪 细 胞 甘 油 的 通 透 性 影 响 甘 油 三 酯 的 积 聚 ,	O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O B-Test I-Test I-Test E-Test O O O O
+进 而 发 挥 改 善 胰 岛 素 抵 抗 的 作 用 。	O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O
+AQP7 作 为 脂 肪 细 胞 的 甘 油 输 出 通 道 蛋 白 ,	O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O
+本 研 究 发 现 在 地 塞 米 松 处 理 的 胰 岛 素 抵 抗 模 型 组 细 胞 中 ,	O O O O O O B-Drug I-Drug I-Drug E-Drug O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O
+甘 油 释 放 受 阻 ,	O O O O O O O
+转 染 AQP7 腺 病 毒 后 不 仅 在 正 常 分 化 组 随 着 AQP7 表 达 升 高 引 起 PKB 磷 酸 化 水 平 的 上 调 ,	O O O O O O O O O O O O O O O O O O O O O O O O B-Test I-Test I-Test E-Test O O O B-Test_Value E-Test_Value O
+而 且 高 表 达 AQP7 可 以 恢 复 地 塞 米 松 处 理 组 细 胞 PKB 磷 酸 化 水 平 ,	O O O O O O O O O O B-Drug I-Drug I-Drug E-Drug O O O O O B-Test I-Test I-Test E-Test O O O
+增 强 葡 萄 糖 代 谢 水 平 ,	O O O O O O O O O O
+从 而 表 明 AQP7 的 表 达 与 胰 岛 素 信 号 转 导 通 路 的 关 系 。	O O O O O O O O O O O O O O O O O O O O O O
+综 上 所 述 可 以 推 断 ,	O O O O O O O O O
+在 胰 岛 素 抵 抗 状 态 下 AQP7 表 达 下 降 ,	O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+而 高 表 达 AQP7 可 能 通 过 提 高 PKB 磷 酸 化 水 平 改 善 胰 岛 素 抵 抗 ,	O O O O O O O O O O O B-Test I-Test I-Test E-Test O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O
+本 研 究 为 进 一 步 阐 明 AQP7 与 脂 肪 代 谢 的 相 关 性 研 究 奠 定 了 良 好 的 实 验 基 础 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+并 对 疾 病 的 基 因 治 疗 具 有 一 定 的 指 导 意 义 。	O O O O O O O O O O O O O O O O O O O
+内 分 泌 代 谢 论 坛 病 科 ,	O O O O O O O O O O
+上 海 市 内 分 泌 代 谢 病 研 究 所 ,	O O O O O O O O O O O O O
+上 海 市 内 分 泌 代 谢 病 临 床 医 学 中 心 糖 尿 病 发 病 机 制 和 治 疗 的 新 观 念 :	O O O O O O O O O O O O O O O B-Disease I-Disease E-Disease O O O O O O O O O O O O
+胰 升 糖 素 中 心 论 刘 建 民 [ 提 要 ] 糖 尿 病 的 发 病 机 制 正 从 过 去 的 “ 胰 岛 素 中 心 论 冶 、“ 胰 岛 素 、 胰 升 糖 素 双 激 素 论 冶 向 最 新 提 出 的 “ 胰 升 糖 素 中 心 论 冶 模 式 转 变 。	O O O O O O O O O O O O O O B-Disease I-Disease E-Disease O O O O O O O O O O O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O O O O O O O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O O O O O
+胰 升 糖 素 过 高 可 能 对 胰 岛 素 不 足 时 的 糖 代 谢 紊 乱 起 着 更 重 要 的 作 用 。	B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O
+抑 制 胰 升 糖 素 信 号 途 径 有 望 成 为 糖 尿 病 新 的 治 疗 途 径 。	O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O B-Disease I-Disease E-Disease O O O O O O O
+[ 关 键 词 ] 糖 尿 病 ;	O O O O O O O O O
+发 病 机 制 ;	O O O O O
+治 疗 ;	O O O
+胰 升 糖 素 New concept in the pathogenesis of diabetes :	O O O O O O O O O O O O
+glucagonocentric model LIU Jian - min . Department of Endocrine and Metabolic Diseases ,	O O O O O O O O O O O O O O
+Shanghai Clinical Center for Endocrine and Metabolic Diseases ,	O O O O O O O O O
+Shanghai Institute of Endocrine and Metabolic Diseases ,	O O O O O O O O
+Ruijin Hospital ,	O O O
+Shanghai Jiaotong University School of Medicine ,	O O O O O O O
+Shanghai 200025 ,	O O O
+China [ Summary ] The concept for the pathogenesis of diabetes is now changing from previous " insulinocentric model " and " insulin / glucagon bihormonal model " to a recent " glucagonocentric model " . Glucagon excess rather than insulin deficiency may play a more important role in mediating the glucose derangement during insulin insufficiency . Antagonizing glucagon signaling pathway may become a potential therapeutic modality in diabetes . [ Key words ] Diabetes mellitus ;	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+Pathogenesis ;	O O
+Management ;	O O
+Glucagon ( Chin J Endocrinol Metab ,	O O O O O O O
+2013 ,	O O
+29 :	O O
+446 - 447 ) 一 、 糖 尿 病 发 病 机 制 的 模 式 演 变 糖 尿 病 是 胰 岛 β 细 胞 功 能 受 损 不 能 分 泌 足 够 的 胰 岛 素 和 ( 或 ) 胰 岛 素 抵 抗 的 结 果 。	O O O O O O B-Disease I-Disease E-Disease O O O O O O O O O B-Disease I-Disease E-Disease O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O O O O O O O O O O O O O O O O B-Reason I-Reason I-Reason I-Reason E-Reason O O O O
+自 从 上 世 纪 20 年 代 加 拿 大 科 学 家 Banting、Best、Macleod 和 Collip 从 动 物 胰 腺 胰 岛 提 取 胰 岛 素 并 成 功 用 于 治 疗 1 型 糖 尿 病 后 [ 1 ] ,	O O O O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O B-Drug I-Drug E-Drug O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O
+在 近 90 年 的 历 史 中 ,	O O O O O O O O O
+“ 胰 岛 素 中 心 论 冶 无 论 是 在 理 论 和 实 践 中 都 被 公 认 为 是 糖 尿 病 最 核 心 的 发 病 机 制 。	O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O O O O O O O O O O O O O O O O B-Disease I-Disease E-Disease O O O O O O O O O
+然 而 ,	O O O
+人 们 对 疾 病 的 探 索 从 来 不 会 因 为 一 个 成 功 理 论 的 出 现 而 停 滞 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+相 对 胰 岛 素 而 言 ,	O O B-Anatomy I-Anatomy E-Anatomy O O O
+胰 升 糖 素 是 胰 岛 α 细 胞 分 泌 的 对 抗 性 激 素 ,	B-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O
+通 过 促 进 糖 原 分 解 和 糖 异 生 刺 激 肝 糖 产 生 ( HGP ) ,	O O O O O O O O O O O O O O O O O O O O O O
+同 时 也 能 在 空 腹 或 低 血 糖 状 态 下 抑 制 糖 原 合 成 。	O O O O O O O O B-Symptom I-Symptom E-Symptom O O O O O O O O O O
+基 础 胰 升 糖 素 浓 度 决 定 着 全 身 50 % ~ 70 % 的 葡 萄 糖 产 生 量 [ 2 ] 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+事 实 上 从 上 世 纪 70 年 代 以 后 ,	O O O O O O O O O O O O O
+人 们 就 已 经 认 识 到 无 论 是 1 型 还 是 2 型 糖 尿 病 ,	O O O O O O O O O O O B-Disease E-Disease O O B-Disease I-Disease I-Disease I-Disease E-Disease O
+都 存 在 着 胰 升 糖 素 的 分 泌 和 反 应 异 常 [ 3 - 6 ] ,	O O O O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom E-Symptom O O O O O O
+高 水 平 的 胰 升 糖 素 至 少 和 胰 岛 素 一 样 ,	O O O O B-Test I-Test I-Test E-Test O O O B-Test I-Test E-Test O O O
+同 样 对 糖 尿 病 的 发 生 起 着 关 键 性 的 作 用 ,	O O O B-Disease I-Disease E-Disease O O O O O O O O O O O O
+即 双 激 素 模 式 的 血 糖 调 节 。	O O O O O O O B-Test E-Test O O O
+但 是 对 胰 岛 α 细 胞 的 研 究 反 复 表 明 并 强 烈 提 示 胰 升 糖 素 及 其 信 号 途 径 对 糖 尿 病 的 发 生 可 能 起 着 比 胰 岛 素 更 为 至 关 重 要 的 作 用 ,	O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O B-Disease I-Disease E-Disease O O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O
+即 胰 升 糖 素 过 高 、 而 非 胰 岛 素 不 足 是 导 致 高 血 糖 的 主 要 病 因 ,	O O O O O O O O O O O O O O O O O O B-Symptom I-Symptom E-Symptom O O O O O O
+胰 升 糖 素 中 心 论 的 观 点 由 此 应 运 而 生 [ 7 ,	B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O O O O O O O O O O O O
+8 ] 。	O O O
+二 、 胰 升 糖 素 中 心 论 的 主 要 依 据 早 先 就 有 研 究 显 示 给 糖 尿 病 狗 或 1 型 糖 尿 病 患 者 输 注 生 长 抑 素 抑 制 胰 升 糖 素 分 泌 后 ,	O O O O O O O O O O O O O O O O O O O O O O O B-Disease I-Disease E-Disease O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O B-Drug I-Drug I-Drug E-Drug O O O O O O O O O O
+即 使 在 少 用 甚 至 停 用 胰 岛 素 的 情 况 下 ,	O O O O O O O O O B-Drug I-Drug E-Drug O O O O O
+也 能 降 低 高 血 糖 ,	O O O O B-Symptom I-Symptom E-Symptom O
+而 外 源 性 输 注 胰 升 糖 素 则 恢 复 高 血 糖 [ 9 ,	O O O O B-Method E-Method B-Drug I-Drug I-Drug E-Drug O O O B-Symptom I-Symptom E-Symptom O O O
+10 ] 。	O O O
+这 些 结 果 第 一 次 对 “ 胰 岛 素 中 心 论 冶 提 出 了 质 疑 。	O O O O O O O O O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O O O O O O
+最 近 几 年 ,	O O O O O
+随 着 各 种 基 因 敲 除 动 物 模 型 的 应 用 ,	O O O O O O O O O O O O O O O O
+人 们 对 胰 升 糖 素 在 胰 岛 素 不 足 时 的 作 用 有 了 更 清 晰 直 接 的 认 识 。	O O O B-Drug I-Drug I-Drug E-Drug O B-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O O O O O O O O O O O O O O O
+动 物 研 究 表 明 缺 乏 胰 升 糖 素 受 体 ( Gcgr - / - ) 的 小 鼠 空 腹 和 餐 后 血 糖 低 于 Gcgr + / + 或 野 生 型 小 鼠 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O B-Test I-Test I-Test E-Test O O O O O O O O O O O O O
+其 糖 耐 量 更 好 ,	O B-Test I-Test E-Test O O O
+胰 岛 素 敏 感 性 更 高 [ 11 - 13 ] 。	O O O O O O O O O O O O O O
+给 db / db 小 鼠 、ob / ob 小 鼠 、Zuker 糖 尿 病 肥 胖 大 鼠 腹 腔 内 注 射 Gcgr 反 义 寡 核 苷 酸 ;	O O O O O O O O O O O O B-Disease I-Disease E-Disease B-Disease E-Disease O O O O O O O O O O O O O O O
+给 非 糖 尿 病 或 四 氧 嘧 啶 诱 导 的 “1 型 糖 尿 病 冶 或 “2 型 糖 尿 病 冶 兔 注 射 胰 升 糖 素 单 克 隆 抗 体 均 能 改 善 糖 耐 量 、 提 高 胰 岛 素 敏 感 性 ,	O O B-Disease I-Disease E-Disease O B-Drug I-Drug I-Drug E-Drug O O O O I-Disease I-Disease I-Disease E-Disease O O O I-Disease I-Disease I-Disease E-Disease O O B-Method E-Method B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O B-Test I-Test E-Test O O O O O O O O O O
+降 低 血 糖 [ 14 - 16 ] 。	O O B-Test E-Test O O O O O O
+在 胰 腺 上 敲 除 调 控 内 分 泌 祖 细 胞 向 α 细 胞 分 化 的 转 录 因 子 Arx 后 ,	O B-Anatomy E-Anatomy O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O
+小 鼠 的 空 腹 血 糖 下 降 、 糖 耐 量 改 善 ,	O O O B-Test I-Test I-Test E-Test B-Test_Value E-Test_Value O B-Test I-Test I-Test I-Test E-Test O
+不 容 易 出 现 链 脲 佐 菌 素 ( STZ ) 诱 导 的 高 血 糖 [ 17 ] 。	O O O O O O O O O O O O O O O O B-Symptom I-Symptom E-Symptom O O O O
+最 意 外 的 是 ,	O O O O O O
+Gcgr - / - 小 鼠 即 使 在 注 射 双 倍 剂 量 STZ 几 乎 丧 失 全 部 β 细 胞 的 情 况 下 ,	O O O O O O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O
+并 不 会 出 现 糖 尿 病 或 任 何 与 胰 岛 素 缺 乏 有 关 的 临 床 和 生 化 改 变 ,	O O O O O B-Disease I-Disease E-Disease O O O O O O O O O O O O O O O O O O O O
+其 空 腹 血 糖 、 口 服 和 腹 腔 糖 耐 量 试 验 结 果 都 正 常 ,	O B-Test I-Test I-Test E-Test O O O O O O B-Test I-Test I-Test I-Test E-Test O O O B-Test_Value E-Test_Value O
+也 没 有 出 现 像 STZ 处 理 后 Gcgr + / + 小 鼠 那 样 的 高 水 平 血 浆 β - 羟 丁 酸 ,	O O O O O O O O O O O O O O O O O O O B-Test_Value I-Test_Value E-Test_Value B-Test I-Test I-Test I-Test I-Test I-Test E-Test O
+而 野 生 型 小 鼠 在 β 细 胞 破 坏 后 就 死 于 酮 症 酸 中 毒 [ 18 ] 。	O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O
+这 些 重 要 的 新 发 现 使 人 们 意 识 到 至 少 在 小 鼠 中 ,	O O O O O O O O O O O O O O O O O O O O O
+过 去 通 常 认 为 的 因 胰 岛 素 缺 乏 而 造 成 的 各 种 代 谢 表 型 实 际 上 很 可 能 是 胰 升 糖 素 ( 信 号 ) 过 高 的 后 果 ,	O O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O
+就 糖 尿 病 发 病 机 制 而 言 ,	O B-Disease I-Disease E-Disease O O O O O O O
+有 理 由 将 “ 胰 岛 素 中 心 论 冶 转 为 “ 胰 升 糖 素 中 心 论 冶 。	O O O O O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O O O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O
+虽 然 有 人 会 提 出 全 胰 腺 切 除 也 会 造 成 糖 尿 病 ,	O O O O O O O B-Operation I-Operation I-Operation I-Operation E-Operation O O O O B-Disease I-Disease E-Disease O
+但 这 并 不 能 成 为 高 胰 升 糖 素 血 症 不 具 备 致 糖 尿 病 性 的 理 由 ,	O O O O O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O B-Disease I-Disease E-Disease O O O O O
+因 为 胰 升 糖 素 也 还 可 以 在 胃 肠 道 ,	O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O B-Anatomy I-Anatomy E-Anatomy O
+如 胃 和 十 二 指 肠 等 非 胰 腺 组 织 产 生 [ 19 ] 。	O B-Anatomy O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O
+最 新 研 究 发 现 几 乎 完 全 敲 除 胰 岛 α 细 胞 的 小 鼠 仍 然 保 留 有 正 常 的 胰 升 糖 素 功 能 ,	O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O
+这 更 支 持 了 这 一 观 点 [ 20 ] 。	O O O O O O O O O O O O O
+三 、 胰 升 糖 素 拮 抗 剂 的 研 发 与 存 在 的 问 题 胰 升 糖 素 对 糖 代 谢 关 键 性 的 调 控 作 用 不 仅 提 高 了 人 们 对 糖 尿 病 发 病 机 制 的 认 识 ,	O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O B-Disease I-Disease E-Disease O O O O O O O O
+同 时 也 促 使 人 们 研 发 各 类 新 型 胰 升 糖 素 拮 抗 剂 以 治 疗 糖 尿 病 [ 21 ] 。	O O O O O O O O O O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O B-Disease I-Disease E-Disease O O O O
+当 然 目 前 已 经 在 广 泛 应 用 的 降 糖 药 物 ,	O O O O O O O O O O O O O O O O O
+如 外 源 性 胰 岛 素 、 磺 脲 类 、 胰 升 糖 素 样 肽 1 ( GLP - 1 ) 受 体 激 动 剂 和 二 肽 基 肽 酶 4 ( DPP - 4 ) 抑 制 剂 都 有 部 分 抑 制 胰 升 糖 素 的 作 用 。	O B-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O
+诚 然 ,	O O O
+临 床 前 期 和 2 期 临 床 试 验 显 示 胰 升 糖 素 拮 抗 剂 确 能 降 低 血 糖 ,	O O O O O O O O O O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O B-Test E-Test O
+但 不 良 反 应 较 多 ,	O O O O O O O O
+例 如 高 血 压 和 肝 酶 升 高 等 。	O O B-SideEff I-SideEff E-SideEff O B-SideEff I-SideEff I-SideEff E-SideEff O O
+因 此 针 对 ( 胰 升 糖 素 ) 信 号 途 径 中 更 下 游 的 靶 点 而 不 仅 仅 是 ( 胰 升 糖 素 ) 受 体 本 身 研 发 新 型 制 剂 或 许 更 有 临 床 优 势 [ 22 ] 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+最 近 发 现 胰 升 糖 素 - CaMK 域 ( 钙 / 钙 调 素 依 赖 性 激 酶 2 ) - MK2 ( p38MAPK - 活 化 蛋 白 激 酶 2 ) 途 径 对 HGP 起 着 关 键 性 作 用 [ 23 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+24 ] 。	O O O
+研 发 并 优 化 CaMK 域 和 MK2 抑 制 剂 用 于 ob / ob 小 鼠 和 糖 尿 病 动 物 的 研 究 已 取 得 初 步 满 意 结 果 ,	O O O O O O O O O O O O O O O O O O O O B-Disease I-Disease E-Disease O O O O O O O O O O O O O O O
+有 望 成 为 新 的 糖 尿 病 治 疗 手 段 。	O O O O O O B-Disease I-Disease E-Disease O O O O O
+虽 然 胰 升 糖 素 是 糖 尿 病 发 病 机 制 中 不 可 或 缺 的 重 要 环 节 ,	O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Disease I-Disease E-Disease O O O O O O O O O O O O O O O
+但 拮 抗 胰 升 糖 素 受 体 不 可 避 免 地 会 造 成 α 细 胞 增 生 ,	O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O
+这 是 否 会 引 发 胰 升 糖 素 瘤 是 需 要 高 度 关 注 的 [ 18 ] 。	O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O
+此 外 在 Gcgr - / - 小 鼠 中 观 察 到 因 糖 异 生 减 少 而 出 现 血 乳 酸 升 高 ,	O O O O O O O O O O O O O O O O O O O O O O O B-Test E-Test B-Test_Value E-Test_Value O
+这 是 否 会 诱 发 乳 酸 酸 中 毒 也 是 人 们 担 心 的 [ 18 ] 。	O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O
+对 这 类 新 制 剂 的 另 一 个 顾 虑 是 现 在 还 不 清 楚 今 后 一 旦 糖 尿 病 患 者 采 用 这 种 治 疗 ,	O O O O O O O O O O O O O O O O O O O O O O O B-Disease I-Disease E-Disease O O O O O O O O O
+是 否 会 加 重 其 原 本 已 经 受 损 的 对 低 血 糖 的 反 应 [ 25 ] 。	O O O O O O O O O O O O O O B-Symptom I-Symptom E-Symptom O O O O O O O
+总 之 ,	O O O
+越 来 越 多 的 证 据 表 明 糖 尿 病 发 病 机 制 正 在 向 “ 胰 升 糖 素 为 中 心 冶 转 变 。	O O O O O O O O O B-Disease I-Disease E-Disease O O O O O O O O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O O O
+研 发 针 对 胰 升 糖 素 信 号 途 径 的 药 物 将 为 糖 尿 病 治 疗 掀 开 新 的 一 页 。	O O O O O O O O O O O O O O O O O B-Disease I-Disease E-Disease O O O O O O O O O
+病 例 报 告 基 金 项 目 :	O O O O O O O O O
+山 东 省 医 学 科 学 院 科 研 基 金 面 上 项 目 ( 201207 ) 郭 振 奎 、 刘 延 杰 、 李 娜 、 季 虹 、 荣 海 钦 ) 青 少 年 起 病 的 成 人 型 糖 尿 病 一 家 系 报 告 王 亚 超 郭 振 奎 刘 延 杰 李 娜 季 虹 荣 海 钦 Report of a pedigree with patients of maturity onset diabetes of the young WANG Ya - chao ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+GUO Zhen - kui ,	O O O O O
+LIU Yan - jie ,	O O O O O
+LI Na ,	O O O
+JI Hong ,	O O O
+RONG Hai - qin . Shandong Institute of Endocrine and Metabolic Diseases ,	O O O O O O O O O O O O O
+Jinan University Shandong Academy of Medical Sciences ,	O O O O O O O O
+Jinan 250062 ,	O O O
+China 青 少 年 起 病 的 成 人 型 糖 尿 病 ( maturity onset diabetes of the young ,	O O O O O O O B-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O
+MODY ) 是 一 种 呈 常 染 色 体 显 性 遗 传 特 点 的 单 基 因 突 变 糖 尿 病 ,	O O O O O O O O O O O O O O O O O B-Reason I-Reason I-Reason I-Reason E-Reason B-Disease I-Disease E-Disease O
+主 要 由 于 胰 岛 β 细 胞 中 葡 萄 糖 刺 激 的 胰 岛 素 分 泌 缺 陷 所 致 。	O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O O O
+迄 今 已 报 道 13 种 MODY 亚 型 ,	O O O O O O O O O O O
+其 中 MODY5 由 肝 细 胞 核 转 录 因 子 1β ( HNF1β ) 基 因 突 变 引 起 [ 1 ,	O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O
+2 ] ,	O O O
+临 床 表 型 复 杂 多 样 ,	O O O O O O O O O
+最 常 见 为 肾 囊 肿 和 糖 尿 病 ,	O O O O B-Disease I-Disease E-Disease O B-Disease I-Disease E-Disease O
+又 称 RCAD 综 合 征 ( renal cysts and diabetes syndrome ,	O O B-Disease I-Disease I-Disease E-Disease O O O O O O O
+RCAD syndrome ) [ 3 ] 。	O O O O O O O
+本 研 究 针 对 一 个 糖 尿 病 合 并 肝 、 肾 囊 肿 家 系 ,	O O O O O O O B-Disease I-Disease E-Disease O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O
+对 其 部 分 成 员 进 行 临 床 分 析 及 基 因 检 测 ,	O O O O O O O O O O O O O O O O O O
+现 报 告 如 下 。	O O O O O O
+1 . 家 系 :	O O O O O
+该 家 系 有 三 代 糖 尿 病 家 族 史 ( 图 1 ) ,	O O O O O O B-Disease I-Disease E-Disease O O O O O O O O
+共 有 9 人 确 诊 为 糖 尿 病 ,	O O O O O O O B-Disease I-Disease E-Disease O
+其 中 8 人 诊 断 年 龄 小 于 45 岁 ,	O O O O O O O O O O O O O
+最 小 诊 断 年 龄 27 岁 。	O O O O O O O O O
+2 . 先 证 者 :	O O O O O O
+女 性 ,	O O O
+62 岁 ,	O O O
+汉 族 。	O O O
+确 诊 2 型 糖 尿 病 21 年 ,	O O B-Disease I-Disease I-Disease I-Disease E-Disease B-Duration E-Duration O
+使 用 胰 岛 素 治 疗 5 年 。	O O B-Drug I-Drug E-Drug O O B-Duration E-Duration O
+查 体 :	O O O
+身 高 165 cm ,	B-Test E-Test B-Test_Value O O
+体 重 74 kg ,	B-Test E-Test B-Test_Value O O
+血 压 160 / 90 mm Hg ( 1 mm Hg = 0 . 133 kPa ) ,	B-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O O O O O O O O O O
+心 肺 正 常 ,	B-Symptom I-Symptom I-Symptom E-Symptom O
+肝 脾 不 大 ,	B-Symptom I-Symptom I-Symptom E-Symptom O
+双 侧 足 背 动 脉 搏 动 减 弱 。	O O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O
+实 验 室 检 查 :	O O O O O O
+HBA1C 7 . 20 % ( 正 常 参 考 范 围 4 % ~ 6 % ,	O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O O O O O O O O O O O
+下 同 ) ;	O O O O
+空 腹 血 糖 7 . 51 mmol / L ;	B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+肝 、 肾 功 能 正 常 ;	B-Test I-Test I-Test I-Test E-Test B-Test_Value E-Test_Value O
+甘 油 三 酯 1 . 99 mmol / L ,	B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+总 胆 固 醇 4 . 82 mmol / L ,	B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+低 密 度 脂 蛋 白 胆 固 醇 ( LDL - C ) 2 . 94 mmol / L ;	B-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O B-Test E-Test O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+尿 微 量 白 蛋 白 ( MALB ) 6 . 0 mg / L ( 0 ~ 30 ) ;	B-Test I-Test I-Test I-Test I-Test E-Test O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O O O O O
+腹 部 超 声 :	B-Test I-Test I-Test E-Test O
+肝 左 叶 囊 肿 1 . 67 cm×1 . 44 cm、 右 肾 囊 肿 2 . 19 cm×2 . 03 cm ( 图 2 ) 。	B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O O O O
+眼 科 检 查 :	B-Test I-Test I-Test E-Test O
+糖 尿 病 视 网 膜 病 变 ( I 期 ) ,	B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O O O
+白 内 障 ( 双 ) 。	B-Test_Value I-Test_Value E-Test_Value O O O O
+3 . 先 证 者 妹 妹 ( 域 7 ) :	O O O O O O O O O O O O
+58 岁 ,	O O O
+糖 尿 病 史 8 年 ,	B-Disease I-Disease E-Disease O B-Duration E-Duration O
+未 系 统 治 疗 。	O O O O O O
+身 高 168 cm ,	B-Test E-Test B-Test_Value O O
+体 重 67 kg ,	B-Test E-Test B-Test_Value O O
+血 压 160 / 85 mm Hg ,	B-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+化 验 :	O O O
+HBA1C 7 . 7 % ;	O O O B-Test_Value E-Test_Value O
+空 腹 血 糖 8 . 30 mmol / L ,	B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+肝 、 肾 功 正 常 ;	B-Test I-Test I-Test E-Test B-Test_Value E-Test_Value O
+甘 油 三 酯 2 . 32 mmol / L ,	B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+总 胆 固 醇 6 . 62 mmol / L ,	B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+LDL - C 4 . 46 mmol / L ;	B-Test E-Test O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+尿 MALB 699 . 24 mg / L ;	B-Test O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+腹 部 超 声 :	B-Test I-Test I-Test E-Test O
+脂 肪 肝 。	B-Test_Value I-Test_Value E-Test_Value O
+4 . 先 证 者 弟 弟 ( 域 13 ) :	O O O O O O O O O O O O
+50 岁 ,	O O O
+8 年 前 查 体 时 发 现 糖 尿 病 ,	B-Duration I-Duration E-Duration O O O O O B-Disease I-Disease E-Disease O
+现 发 展 为 糖 尿 病 肾 病 、 尿 毒 症 ,	O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O B-Disease I-Disease E-Disease O
+间 断 血 液 透 析 治 疗 。	O O B-Treatment I-Treatment I-Treatment E-Treatment O O O
+身 高 182 cm ,	B-Test E-Test B-Test_Value O O
+体 重 93 kg ,	B-Test E-Test B-Test_Value O O
+血 压 180 / 100 mm Hg ;	B-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+血 尿 素 氮 29 . 3 mmol / L ,	O B-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+肌 酐 1 411 μmol / L ,	B-Test E-Test O O O O O O
+空 腹 血 糖 6 . 83 mmol / L。 腹 部 超 声 未 见 脏 器 囊 肿 表 现 。	B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+5 . 先 证 者 侄 女 ( 33 ) :	O O O O O O O O O O O
+患 有 先 天 性 智 力 发 育 不 全 ,	O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O
+未 能 配 合 研 究 ;	O O O O O O O
+其 同 胞 妹 ( 34 ) 发 育 未 见 异 常 。	O O O O O O O O O O O O O O
+6 . 先 证 者 之 子 ( 35 ) :	O O O O O O O O O O O
+32 岁 ,	O O O
+体 重 指 数 30 . 70 kg / m2 ,	B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+血 压 180 / 100 mm Hg。 空 腹 血 糖 4 . 51 mmol / L ,	B-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value O B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+甘 油 三 酯 4 . 26 mmol / L ,	B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+总 胆 固 醇 5 . 07 mmol / L ,	B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+肝 、 肾 功 能 无 异 常 。	B-Test I-Test I-Test I-Test E-Test B-Test_Value I-Test_Value E-Test_Value O
+腹 部 超 声 :	B-Test I-Test I-Test E-Test O
+轻 度 脂 肪 肝 。	B-Test_Value I-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+7 . 先 证 者 外 甥 女 ( 36 ) :	O O O O O O O O O O O O
+33 岁 ,	O O O
+体 重 指 数 19 . 72 kg / m2 ,	B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+血 压 135 / 90 mm Hg。 空 腹 血 糖 5 . 54 mmol / L ,	B-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value O B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+肝 、 肾 功 能 及 血 脂 正 常 。	B-Test I-Test I-Test I-Test E-Test O B-Test E-Test B-Test_Value E-Test_Value O
+8 . 先 证 者 外 甥 女 ( 38 ) :	O O O O O O O O O O O O
+27 岁 ,	O O O
+体 重 指 数 23 . 88 kg / m2 ,	B-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+妊 图 1 三 代 糖 尿 病 家 系 图 注 :	O O O O O O O O O O O O O
+( A ) 肝 左 叶 ;	O O O O O O O
+( B ) 右 肾 ( 寅 囊 肿 ) 图 2 先 证 者 腹 部 超 声 注 :	O O O O O O O O O O O O O O O O O O O O O
+( A ) 正 常 序 列 ;	O O O O O O O O
+( B ) 突 变 序 列 图 3 HNF1β 基 因 错 义 点 突 变 c . 1861C > T ( CTT 寅 TTT ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+S547F ) 娠 6 个 月 时 确 诊 为 妊 娠 糖 尿 病 ,	O O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O
+饮 食 控 制 及 胰 岛 素 治 疗 ,	O O O O O B-Drug I-Drug E-Drug O O O
+胎 儿 出 生 体 重 为 3 . 1 kg。 采 集 部 分 家 系 成 员 静 脉 血 各 5 ml ,	O O O O B-Test E-Test O B-Test_Value I-Test_Value I-Test_Value O O O O O O O O O O O O O O O O
+提 取 基 因 组 DNA ,	O O O O O O O
+应 用 PCR 技 术 对 HNF1β 基 因 序 列 扩 增 并 测 序 分 析 。	O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O
+发 现 2 例 糖 尿 病 患 者 ( 域 5、 域 13 ) 携 带 HNF1β 基 因 8 号 外 显 子 杂 合 错 义 突 变 c . 1861C > T ( 图 3 ) ;	O O O O B-Disease I-Disease E-Disease O O O O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O O
+其 余 患 者 未 发 现 此 变 异 。	O O O O O O O O O O O
+讨 论 HNF1β 基 因 位 于 第 17 号 染 色 体 长 臂 ( 17q12 ) ,	O O B-Anatomy I-Anatomy E-Anatomy O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O
+含 9 个 外 显 子 ,	O O O O O O O
+所 编 码 蛋 白 由 557 个 氨 基 酸 构 成 ,	O O O O O O O O O O O O O O
+包 含 3 个 功 能 区 :	O O O O O O O O
+二 聚 体 区 、DNA 结 合 区 、 转 录 活 化 区 [ 4 ] 。	O O O O O O O O O O O O O O O O O O
+HNF1β 是 许 多 肝 脏 基 因 表 达 的 转 录 因 子 ,	O O O O B-Anatomy E-Anatomy O O O O O O O O O O
+也 广 泛 表 达 于 肾 脏 、 胰 腺 、 卵 巢 、 睾 丸 、 肺 脏 、 食 管 及 胃 肠 道 。	O O O O O O B-Anatomy E-Anatomy O B-Anatomy E-Anatomy O B-Anatomy E-Anatomy O B-Anatomy E-Anatomy O B-Anatomy E-Anatomy O B-Anatomy E-Anatomy O B-Anatomy I-Anatomy E-Anatomy O
+HNF1β 中 所 有 功 能 区 突 变 都 可 能 导 致 MODY5 的 发 生 ,	O O O O O O O O O O O O O O O O O O O
+最 常 见 的 突 变 位 于 DNA 结 合 区 [ 5 ,	O O O O O O O O O O O O O O O
+6 ] 。	O O O
+本 组 在 本 糖 尿 病 家 系 成 员 中 检 出 2 例 携 带 HNF1β 基 因 突 变 患 者 ,	O O O O B-Disease I-Disease E-Disease O O O O O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O
+为 HNF1β 基 因 转 录 活 化 区 存 在 杂 合 错 义 突 变 c . 1861C > T ,	O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O
+C 碱 基 转 换 为 T ,	O O O O O O O O
+此 突 变 使 547 位 的 丝 氨 酸 变 为 苯 丙 氨 酸 ( S547F ) 。	O O O O O O O O O O O O O O O O O O O O
+该 突 变 在 西 方 人 群 中 尚 未 见 报 道 。	O O O O O O O O O O O O O O O
+2 例 基 因 突 变 患 者 均 在 41 岁 时 确 诊 糖 尿 病 ,	O O O O O O O O O O O O O O O B-Disease I-Disease E-Disease O
+先 证 者 糖 尿 病 合 并 肝 、 肾 囊 肿 ,	O O O B-Disease I-Disease E-Disease O O B-Disease I-Disease I-Disease I-Disease E-Disease O
+其 弟 患 糖 尿 病 却 无 脏 器 囊 肿 ,	O O O B-Disease I-Disease E-Disease O O B-Disease I-Disease I-Disease E-Disease O
+但 糖 尿 病 肾 病 进 展 较 快 ,	O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O
+最 终 发 展 为 尿 毒 症 。	O O O O O B-Disease I-Disease E-Disease O
+S547F 突 变 在 同 一 家 系 其 他 糖 尿 病 患 者 中 未 能 发 现 ,	O O O O O O O O O O B-Disease I-Disease E-Disease O O O O O O O O
+提 示 该 家 系 遗 传 基 因 和 临 床 表 型 均 存 在 异 质 性 和 复 杂 性 。	O O O O O O O O O O O O O O O O O O O O O O O O O
+临 床 上 糖 尿 病 合 并 脏 器 囊 肿 者 并 不 少 见 ,	O O O B-Disease I-Disease E-Disease O O B-Disease I-Disease I-Disease E-Disease O O O O O O
+以 合 并 肾 囊 肿 居 多 ,	O O O B-Disease I-Disease E-Disease O O O
+肝 囊 肿 次 之 ,	B-Disease I-Disease E-Disease O O O
+其 他 还 发 现 有 脾 囊 肿 ,	O O O O O O B-Disease I-Disease E-Disease O
+胰 腺 、 甲 状 腺 、 卵 巢 囊 肿 等 。	B-Disease E-Disease O B-Disease I-Disease E-Disease O B-Disease I-Disease I-Disease E-Disease O O
+对 此 类 患 者 特 别 是 有 糖 尿 病 家 族 史 者 ,	O O O O O O O O O B-Disease I-Disease E-Disease O O O O O
+应 首 先 考 虑 MODY5 的 诊 断 可 能 ,	O O O O O O O O O O O O
+条 件 许 可 时 宜 行 基 因 诊 断 加 以 明 确 。	O O O O O O O O O O O O O O O O
+本 研 究 从 分 子 水 平 确 诊 一 个 MODY5 家 系 ,	O O O O O O O O O O O O O O O O
+由 于 样 本 量 小 ,	O O O O O O O
+有 待 扩 大 规 模 进 一 步 深 入 探 讨 核 实 。	O O O O O O O O O O O O O O O O
+内 分 泌 新 闻 Betatrophin——— 打 开 糖 尿 病 治 疗 的 另 一 扇 大 门 ?	O O O O O O O O B-Disease I-Disease E-Disease O O O O O O O O O
+陈 刚 黄 延 玲 糖 尿 病 已 经 成 为 人 类 健 康 的 主 要 威 胁 ,	O O O O O B-Disease I-Disease E-Disease O O O O O O O O O O O O O O
+无 数 的 科 学 家 、 医 学 家 致 力 于 糖 尿 病 发 病 机 制 及 治 疗 方 法 的 研 究 ,	O O O O O O O O O O O O O B-Disease I-Disease E-Disease O O O O O O O O O O O O O
+糖 尿 病 治 疗 新 药 层 出 不 穷 ,	B-Disease I-Disease E-Disease O O O O O O O O O
+但 是 无 论 是 改 善 胰 岛 素 的 敏 感 性 还 是 促 进 胰 岛 素 的 分 泌 ,	O O O O O O O O O O O O O O O O O O O O O O O O O
+抑 或 保 护 残 存 的 β 细 胞 等 手 段 ,	O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O
+虽 然 能 在 一 定 程 度 上 和 一 定 时 期 内 达 到 血 糖 的 控 制 ,	O O O O O O O O O O O O O O O O O B-Test E-Test O O O O
+但 都 不 能 触 及 糖 尿 病 发 病 的 最 主 要 机 制 ——— 胰 岛 β 细 胞 数 量 相 对 不 足 ,	O O O O O O B-Disease I-Disease E-Disease O O O O O O O O O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O
+因 此 患 者 期 望 的 终 极 目 标 ——— 治 愈 糖 尿 病 ,	O O O O O O O O O O O O O O B-Disease I-Disease E-Disease O
+似 乎 只 能 是 可 望 不 可 及 的 。	O O O O O O O O O O O O
+然 而 ,	O O O
+2013 年 4 月 25 日 在 线 发 表 的 《 细 胞 》 杂 志 中 ,	O O O O O O O O O O O O O O O O O O O
+来 自 哈 佛 干 细 胞 研 究 中 心 的 Melton 及 Peng 等 [ 1 ] 的 一 篇 文 章 犹 如 一 道 曙 光 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+给 糖 尿 病 治 疗 带 来 了 新 的 希 望 。	O B-Disease I-Disease E-Disease O O O O O O O O O O
+既 往 的 研 究 结 果 表 明 ,	O O O O O O O O O O
+大 部 分 新 的 β 细 胞 通 过 简 单 的 自 我 复 制 产 生 ,	O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O
+在 胚 胎 和 初 生 阶 段 经 过 一 个 迅 速 的 扩 展 期 后 ,	O O O O O O O O O O O O O O O O O O O O
+在 成 年 啮 齿 类 动 物 和 人 类 中 β 细 胞 的 复 制 极 其 缓 慢 ( 每 日 分 裂 < 0 . 5 % ) 。	O O O O O O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O
+然 而 ,	O O O
+胰 腺 的 β 细 胞 在 一 些 生 理 刺 激 ,	B-Anatomy E-Anatomy O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O
+包 括 妊 娠 ,	O O B-Symptom E-Symptom O
+高 血 糖 、 胰 腺 损 伤 和 外 周 胰 岛 素 抵 抗 等 情 况 下 ,	B-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O O O O O
+胰 岛 β 细 胞 可 以 重 新 获 得 提 高 他 们 复 制 速 度 的 能 力 。	B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O
+是 什 么 物 质 介 导 了 β 细 胞 复 制 速 率 的 提 高 ?	O O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O
+其 促 复 制 速 度 增 加 的 机 制 是 什 么 ?	O O O O O O O O O O O O O O O
+这 些 便 是 Melton 及 其 研 究 团 队 探 索 的 关 键 。	O O O O O O O O O O O O O O O O O
+在 Melton 的 研 究 中 ,	O O O O O O O
+他 们 建 立 了 一 种 新 的 胰 岛 素 抵 抗 小 鼠 模 型 ,	O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O
+在 该 模 型 中 β 细 胞 复 制 可 以 被 迅 速 诱 导 。	O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O
+通 过 该 模 型 ,	O O O O O O
+他 们 发 现 了 编 码 一 种 分 泌 性 蛋 白 的 基 因 ,	O O O O O O O O O O O O O O O O O O
+该 基 因 在 肝 脏 及 脂 肪 组 织 中 表 达 ,	O O O O B-Anatomy E-Anatomy O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O
+他 们 称 该 基 因 为 betatrophin ,	O O O O O O O O O
+其 编 码 的 蛋 白 可 以 显 著 而 特 异 性 地 促 进 胰 岛 β 细 胞 增 生 及 β 细 胞 数 量 的 增 加 从 而 改 善 糖 耐 量 。	O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O
+其 研 究 结 果 主 要 分 为 以 下 几 个 部 分 。	O O O O O O O O O O O O O O O O
+一 、 胰 岛 素 受 体 拮 抗 剂 可 以 引 起 胰 岛 素 抵 抗 和 胰 岛 β 细 胞 增 生 当 肝 脏 中 胰 岛 素 通 路 被 阻 断 ,	O O O O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O B-Anatomy E-Anatomy O O O O O O O O O O
+胰 岛 β 细 胞 数 量 扩 增 并 伴 有 胰 岛 素 分 泌 的 代 偿 性 增 加 。	B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O
+为 了 研 究 调 控 该 类 型 的 胰 岛 β 细 胞 代 偿 性 反 应 的 信 号 ,	O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O
+他 们 建 立 了 一 种 新 的 严 重 胰 岛 素 抵 抗 的 药 理 学 模 型 ,	O O O O O O O O O B-Level E-Level B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O
+利 用 渗 透 泵 给 成 年 小 鼠 注 射 不 同 剂 量 的 可 以 与 胰 岛 素 受 体 结 合 并 拮 抗 胰 岛 素 信 号 通 路 的 多 肽 - S961。 并 通 过 Ki67 和 胰 岛 素 免 疫 荧 光 的 方 法 分 析 接 受 不 同 剂 量 S961 组 的 β 细 胞 增 生 率 。	O O O O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Test I-Test I-Test I-Test I-Test E-Test O
+S961 的 处 理 可 引 起 小 鼠 胰 岛 素 抵 抗 及 血 糖 升 高 及 β 细 胞 显 著 增 生 ,	O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O B-Test E-Test O O O B-Anatomy I-Anatomy E-Anatomy O O O O O
+并 且 该 效 应 是 即 刻 的 和 剂 量 依 赖 性 的 。	O O O O O O O O O O O O O O O O O
+细 胞 周 期 调 节 因 子 的 定 量 PCR 分 析 显 示 ,	O O O O O O O O O O O O O O O O O
+在 接 受 S961 治 疗 的 胰 岛 中 ,	O O O O O O O B-Anatomy E-Anatomy O O
+许 多 细 胞 周 期 素 ( 细 胞 周 期 素 A1、A2、B1、B2、E1 和 F ) ,	O O O O O O O O O O O O O O O O O O
+CDKs ( CDK1 和 CDK2 ) 和 E2Fs ( E2F1 和 E2F2 ) 增 加 ,	O O O O O O O O O O O O O O O O
+而 细 胞 周 期 抑 制 因 子 ( Cdkn1a ,	O O O O O O O O O O O O
+Cdkn1b 和 Cdkn2b ) 表 达 下 降 。	O O O O O O O O O
+在 最 高 剂 量 组 ,	O O O O O O O
+S961 治 疗 可 以 引 起 β 细 胞 复 制 数 量 约 12 倍 的 增 加 ,	O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O
+该 速 率 大 大 超 出 了 既 往 报 道 的 药 理 学 治 疗 效 果 。	O O O O O O O O O O O O O O O O O O O O O
+通 过 S961 处 理 所 引 起 的 增 生 对 胰 岛 β 细 胞 具 有 高 度 特 异 性 。	O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O
+在 对 照 组 和 S961 治 疗 组 动 物 间 其 他 类 型 胰 岛 细 胞 ,	O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O
+包 括 其 他 内 分 泌 细 胞 、 外 分 泌 细 胞 和 导 管 细 胞 与 及 肝 细 胞 、 白 色 脂 肪 或 棕 色 脂 肪 细 胞 在 细 胞 增 生 速 率 上 均 无 显 著 差 异 。	O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O B-Anatomy I-Anatomy E-Anatomy O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O
+二 、 Betatrophin 在 肝 脏 及 脂 肪 组 织 中 富 集 ,	O O O O B-Anatomy E-Anatomy O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O
+其 表 达 与 胰 岛 β 细 胞 的 高 增 生 速 率 相 关 为 了 明 确 S961 处 理 后 引 起 β 细 胞 增 生 的 可 能 介 质 ,	O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O
+该 研 究 还 通 过 基 因 芯 片 对 与 代 谢 调 节 有 关 的 组 织 ( 肝 脏 、 白 色 脂 肪 、 骨 骼 肌 ) 中 基 因 的 表 达 进 行 了 分 析 。	O O O O O O O O O O O O O O O O O O O O O O B-Anatomy E-Anatomy O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O
+基 因 芯 片 分 析 的 结 果 指 向 了 同 一 个 基 因 ,	O O O O O O O O O O O O O O O O O O
+即 Betatrophin。 S961 治 疗 后 Betatrophin 表 达 上 调 ,	O O O O O O B-Test I-Test E-Test B-Test_Value E-Test_Value O
+在 肝 脏 约 为 4 倍 ,	O B-Anatomy E-Anatomy O O B-Test_Value E-Test_Value O
+白 色 脂 肪 约 为 3 倍 ,	B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O B-Test_Value E-Test_Value O
+但 其 在 骨 骼 肌 和 胰 岛 β 表 达 无 明 显 改 变 。	O O O B-Anatomy I-Anatomy E-Anatomy O B-Anatomy I-Anatomy O O O O O O O O O
+Betatropin 基 因 编 码 一 种 198 个 氨 基 酸 的 分 泌 蛋 白 ( 既 往 在 小 鼠 基 因 中 的 注 释 为 Gm6484 和 蛋 白 EG624219 ;	B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+在 人 类 基 因 的 注 释 为 C19orf80 及 肝 细 胞 癌 相 关 蛋 白 TD26 ) 。	O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O
+该 基 因 有 4 个 外 显 子 并 位 于 另 一 个 基 因 ———Dock6 反 义 链 的 内 含 子 区 域 内 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+在 人 类 ,	O O O O
+Betatrophin 主 要 在 肝 脏 表 达 ,	O O O O B-Anatomy E-Anatomy O O O
+其 Betatrophin mRNA 表 达 水 平 较 其 他 组 织 高 出 250 倍 。	O O O O O O O O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+通 过 蛋 白 质 印 迹 的 方 法 Betatrophin 在 人 类 肝 脏 中 也 可 以 检 测 到 。	O O O O O O O O O O O O O O B-Anatomy E-Anatomy O O O O O O O O
+注 射 胰 岛 素 受 体 拮 抗 剂 S961 ,	O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug O O
+可 以 引 起 胰 岛 β 细 胞 显 著 的 增 生 并 引 起 肝 脏 Betatrophin 表 达 上 调 6 倍 及 白 色 脂 肪 组 织 中 表 达 上 调 4 倍 。	O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O B-Anatomy E-Anatomy O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+在 小 鼠 2 型 糖 尿 病 模 型 中 ,	O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O
+β 细 胞 数 量 增 加 ,	B-Anatomy I-Anatomy E-Anatomy O O O O O
+Betatrophin 的 mRNA 在 肝 脏 表 达 上 调 ,	O O O O B-Anatomy E-Anatomy O O B-Test_Value E-Test_Value O
+在 ob / ob 和 db / db 小 鼠 中 分 别 上 调 3 倍 和 4 倍 。	O O O O O O O O O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O B-Test_Value E-Test_Value O
+β 细 胞 复 制 速 率 在 妊 娠 过 程 中 可 增 加 20 倍 。	B-Anatomy I-Anatomy E-Anatomy O O O O O B-Symptom E-Symptom O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+特 异 性 的 通 过 白 喉 毒 素 消 耗 β 细 胞 也 可 以 引 起 β 细 胞 复 制 的 增 加 。	O O O O O O B-Drug I-Drug I-Drug E-Drug O O B-Anatomy I-Anatomy E-Anatomy O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O
+但 这 种 处 理 方 式 并 不 能 刺 激 Betatrophin mRNA 在 肝 脏 表 达 的 增 加 。	O O O O O O O O O O O O O O O B-Anatomy E-Anatomy O O O O O O
+这 些 结 果 表 明 Betatrophin 的 表 达 与 胰 岛 β 细 胞 的 代 偿 性 增 生 有 关 ,	O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O
+其 增 生 为 应 对 生 理 挑 战 的 反 应 ,	O O O O O O O O O O O O O O
+而 非 急 性 损 伤 后 的 再 生 。	O O O O O O O O O O O
+三 、 Betatrophin 在 诱 导 β 细 胞 增 生 上 具 有 显 著 性 和 特 异 性 ,	O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O
+且 不 引 起 胰 岛 素 抵 抗 。	O O O B-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O
+为 了 明 确 Betatrophin 是 否 可 以 促 进 胰 腺 β 细 胞 的 增 生 ,	O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O
+他 们 通 过 静 脉 高 压 注 射 的 方 法 将 Betatrophin 表 达 载 体 注 射 到 肝 脏 。	O O O O B-Method I-Method I-Method I-Method I-Method E-Method O O O O O O O O O O O O B-Anatomy E-Anatomy O
+5 % ~ 10 % 的 肝 细 胞 在 注 射 后 表 达 Betatrophin ,	O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O
+并 且 这 种 表 达 至 少 持 续 8 天 。	O O O O O O O O O O O O O
+在 注 射 编 码 Betatrophin 的 质 粒 后 ,	O O O O O O O O O O O
+β 细 胞 的 复 制 显 著 增 加 。	B-Anatomy I-Anatomy E-Anatomy O O O O O O O O
+β 细 胞 增 生 率 在 注 射 了 Betatrophin 的 动 物 的 平 均 水 平 为 4 . 6 % ,	B-Anatomy I-Anatomy E-Anatomy O O O O B-Method E-Method O O O O O O O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+较 对 照 组 ( GFP 注 射 ) 增 加 17 倍 ,	O O O O O O O O O O O O O O
+个 别 动 物 复 制 速 率 可 以 高 达 8 . 8 % ( 大 约 33 倍 的 增 加 ) 。	O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O O O O O O O O
+动 物 注 射 Betatrophin 后 β 细 胞 的 增 生 可 以 通 过 β 细 胞 核 标 志 物 Nkx6 . 1 和 其 他 细 胞 分 裂 标 志 的 免 疫 染 色 来 证 实 。	O O B-Method E-Method O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O O O O O O
+与 对 照 组 小 鼠 相 比 ,	O O O O O O O O O
+Betatrophin 注 射 小 鼠 胰 岛 中 细 胞 周 期 抑 制 因 子 ( Cdkn1a 和 Cdkn2a ) 表 达 下 降 。	O B-Method E-Method O O B-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O
+在 所 有 被 观 察 的 胰 岛 中 均 能 见 到 β 细 胞 的 增 生 。	O O O O O O O B-Anatomy E-Anatomy O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O
+其 增 生 速 率 如 此 显 著 ,	O O O O O O O O O O
+以 至 于 可 以 在 低 倍 镜 下 简 单 的 通 过 免 疫 染 色 便 可 以 很 容 易 的 辨 别 胰 岛 和 复 制 的 β 细 胞 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Anatomy E-Anatomy O O O O B-Anatomy I-Anatomy E-Anatomy O
+Betatrophin 注 射 后 的 小 鼠 的 β 细 胞 的 高 增 生 速 率 可 以 使 β 细 胞 数 明 显 增 加 ,	O B-Method E-Method O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O B-Test I-Test E-Test O O O O O O
+β 细 胞 团 体 积 显 著 扩 大 。	B-Test I-Test E-Test O O O O O O O O
+在 8 天 后 ,	O B-Duration I-Duration E-Duration O
+Betatrophin 注 射 小 鼠 的 总 胰 岛 β 细 胞 面 积 较 对 照 组 增 加 3 倍 ,	O B-Method E-Method O O O B-Test I-Test I-Test I-Test I-Test E-Test O O O O O O O O O O O
+胰 腺 的 胰 岛 素 总 含 量 也 增 加 ( 约 2 倍 ) 。	B-Anatomy E-Anatomy O B-Test I-Test I-Test I-Test I-Test E-Test O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value E-Test_Value O O
+而 且 Betatrophin 表 达 所 致 的 复 制 的 增 加 对 β 细 胞 具 有 特 异 性 。	O O O O O O O O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O
+Betatrophin 在 其 他 胰 腺 细 胞 类 型 ( 外 分 泌 、 导 管 及 非 β 细 胞 的 内 分 泌 细 胞 ) 或 其 他 器 官 ( 肝 脏 、 白 色 脂 肪 及 棕 色 脂 肪 ) 中 几 乎 没 有 复 制 增 加 的 效 应 。	O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O B-Anatomy E-Anatomy O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O
+为 了 衡 量 复 制 后 的 β 细 胞 功 能 ,	O O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O
+我 们 从 对 照 组 和 Betatrophin 注 射 小 鼠 中 分 离 了 胰 岛 并 实 行 了 葡 萄 糖 刺 激 的 胰 岛 素 分 泌 ( GSIS ) 分 析 。	O O O O O O O O B-Method E-Method O O O O O O B-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O O
+从 Betatrophin 注 射 小 鼠 组 分 离 的 胰 岛 的 GSIS 与 从 对 照 组 小 鼠 ( GFP 注 射 ) 无 明 显 区 别 ,	O O B-Method E-Method O O O O O O B-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O
+这 表 明 接 受 Betatrophin 注 射 后 增 生 的 β 细 胞 可 以 获 得 正 常 的 β 细 胞 功 能 。	O O O O O O B-Method E-Method O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O
+同 时 ,	O O O
+他 们 还 进 行 了 糖 耐 量 检 测 ,	O O O O O O B-Test I-Test E-Test O O O
+试 验 数 据 表 明 在 Betatrophin 注 射 组 小 鼠 空 腹 血 糖 水 平 较 低 而 且 与 对 照 组 相 比 糖 耐 量 改 善 。	O O O O O O O O B-Method E-Method O O O B-Test I-Test I-Test E-Test O O O B-Test_Value O O O O O O O O B-Test I-Test E-Test B-Level E-Level O
+此 外 ,	O O O
+为 了 明 确 Betatrophin 的 促 胰 岛 β 细 胞 复 制 作 用 是 否 与 其 增 加 胰 岛 素 抵 抗 有 关 ,	O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O B-Reason I-Reason I-Reason I-Reason E-Reason O O O
+研 究 还 进 行 了 胰 岛 素 耐 受 试 验 ,	O O O O O O B-Test I-Test I-Test I-Test I-Test I-Test E-Test O
+与 可 引 起 明 显 胰 岛 素 抵 抗 的 S961 ( 10 nmol / 周 ) 处 理 组 相 比 ,	O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O O O
+Betatrophin 和 对 照 组 小 鼠 在 胰 岛 素 耐 受 试 验 上 无 显 著 差 异 。	O O O O O O O O B-Test I-Test I-Test I-Test I-Test I-Test E-Test O O O O O O O
+上 述 数 据 表 明 ,	O O O O O O O
+Betatrophin 具 有 高 效 的 、 特 异 性 的 促 进 胰 腺 β 细 胞 复 制 的 作 用 而 同 时 又 不 引 起 胰 岛 素 抵 抗 。	O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O
+Betatrophin 的 发 现 犹 如 一 枚 重 磅 炮 弹 ,	O O O O O O O O O O O O O
+引 起 了 糖 尿 病 治 疗 领 域 的 巨 大 震 撼 ,	O O O B-Disease I-Disease E-Disease O O O O O O O O O O
+不 仅 对 于 2 型 糖 尿 病 的 治 疗 ,	O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O
+对 于 胰 岛 干 细 胞 移 植 与 及 1 型 糖 尿 病 治 疗 均 有 重 大 意 义 ,	O O B-Treatment I-Treatment I-Treatment I-Treatment I-Treatment I-Treatment E-Treatment O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O
+正 如 原 文 中 所 说 的 ,	O O O O O O O O O
+将 开 启 糖 尿 病 治 疗 的 另 一 扇 大 门 。	O O O B-Disease I-Disease E-Disease O O O O O O O O O
+尽 管 这 一 新 的 激 素 的 具 体 作 用 机 制 和 潜 在 的 风 险 还 未 明 确 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O
+许 多 的 未 知 领 域 还 需 要 进 一 步 的 研 究 与 探 索 ,	O O O O O O O O O O O O O O O O O O O O
+但 是 这 一 发 现 无 疑 给 治 愈 糖 尿 病 带 来 了 新 的 希 望 ,	O O O O O O O O O O O B-Disease I-Disease E-Disease O O O O O O O O
+Betatrophin 也 许 将 成 为 糖 尿 病 治 疗 史 上 的 罗 塞 塔 石 碑 ,	O O O O O O B-Disease I-Disease E-Disease O O O O O O O O O O O
+激 励 并 指 引 更 多 的 内 分 泌 科 学 家 朝 着 这 个 方 向 不 断 努 力 ,	O O O O O O O O O O O O O O O O O O O O O O O O O
+使 糖 尿 病 治 疗 获 得 突 破 性 进 展 。	O B-Disease I-Disease E-Disease O O O O O O O O O O
+综 述 张 尧 、 吕 朝 阳 、 于 明 香 ) ;	O O O O O O O O O O O O O O
+570311 海 口 ,	O O O O
+海 南 省 农 垦 总 院 内 分 泌 科 ( 陈 显 英 ) 白 细 胞 介 素 2 受 体 拮 抗 剂 对 器 官 移 植 受 体 糖 代 谢 的 影 响 何 顺 梅 张 尧 陈 显 英 吕 朝 阳 于 明 香 [ 提 要 ] 新 型 的 抗 排 异 药 物 IL - 2 受 体 拮 抗 剂 ,	O O O O O O O O O O O O O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O B-Operation I-Operation I-Operation E-Operation O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O
+包 括 巴 利 昔 单 抗 和 达 利 珠 单 抗 已 被 广 泛 用 于 降 低 器 官 移 植 后 急 性 排 斥 反 应 ,	O O B-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O
+其 对 器 官 移 植 受 体 糖 代 谢 的 影 响 也 日 益 受 到 关 注 ,	O O B-Operation I-Operation I-Operation E-Operation O O O O O O O O O O O O O O O O
+然 而 其 确 切 作 用 尚 存 争 议 。	O O O O O O O O O O O O
+移 植 后 新 发 糖 尿 病 是 对 移 植 术 后 移 植 物 存 活 及 受 者 长 期 生 存 产 生 重 大 影 响 的 代 谢 并 发 症 之 一 。	B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+现 有 研 究 中 ,	O O O O O O
+部 分 报 道 IL - 2Ra 可 改 善 移 植 受 体 糖 代 谢 状 态 ,	O O O O B-Drug E-Drug O O O O O O O O O O O O O O
+部 分 显 示 其 对 移 植 受 体 糖 代 谢 呈 负 面 影 响 ,	O O O O O O O O O O O O O O O O O O O
+也 有 部 分 提 示 其 对 移 植 受 体 糖 代 谢 无 明 显 影 响 。	O O O O O O O O O O O O O O O O O O O O O
+IL - 2Ra 对 移 植 受 体 糖 代 谢 的 影 响 及 其 确 切 机 制 尚 需 进 一 步 研 究 加 以 探 讨 。	B-Drug E-Drug O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+[ 关 键 词 ] 白 细 胞 介 素 2 受 体 ;	O O O O O O O O O O O O O O
+拮 抗 剂 ;	O O O O
+器 官 移 植 ;	B-Operation I-Operation I-Operation E-Operation O
+糖 尿 病 The influence of interleukin - 2 receptor antagonists exerted on organ transplant recipients HE Shun - mei * ,	O O O O O O O O O O O O O O O O O O O O O O
+Zhang Yao ,	O O O
+Chen Xian - ying ,	O O O O O
+L 譈 Zhao - yang ,	O O O O O O
+YU Ming - xiang . * Department of Endocrinology ,	O O O O O O O O O O
+Zhongshan Hospital ,	O O O
+Fudan University ,	O O O
+Shanghai 200032 ,	O O O
+China [ Summary ] Interleukin - 2 receptor antagonist ( IL - 2Ra ,	O O O O O O O O O O O O O O
+ie ,	O O
+basiliximab and daclizumab ) ,	O O O O O
+a new antibody agent ,	O O O O O
+is widely employed in lowering the risk of acute rejection after organ transplantation ,	O O O O O O O O O O O O O O
+but it meanwhile causes increasing concerns on the effect it exerts on glucose metabolism in transplant recipients ,	O O O O O O O O O O O O O O O O O O
+and so far the exact effect still remains controversial . New onset diabetes after transplantation ( NODAT ) is one of the most influential metabolic complications affecting graft survival and patients 忆 long - term outcomes . Some of the current researches indicate that IL - 2Ra may improve glucose metabolism in the transplant recipients ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+some show just the opposite ,	O O O O O O
+yet others show no effects . Hence further investigations focusing this aspect are needed . [ Key words ] Interleukin - 2 receptor ;	O O O O O O O O O O O O O O O O O O O O O O O O
+Antagonists ;	O O
+Organ transplantation ;	O O O
+Diabetes mellitus ( Chin J Endocrinol Metab ,	O O O O O O O O
+2013 ,	O O
+29 :	O O
+540 - 543 ) 自 20 世 纪 60 年 代 以 来 ,	O O O O O O O O O O O O O O
+器 官 移 植 取 得 了 突 飞 猛 进 的 发 展 ,	B-Operation I-Operation I-Operation E-Operation O O O O O O O O O O O
+目 前 器 官 移 植 仍 处 于 免 疫 抑 制 剂 时 代 ,	O O B-Operation I-Operation I-Operation E-Operation O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O
+但 由 于 糖 皮 质 激 素 、 钙 调 磷 酸 酶 抑 制 剂 ( calcineurin inhibitor ,	O O O B-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O
+CNI ) 等 经 典 免 疫 抑 制 剂 存 在 多 种 不 良 反 应 ,	O O O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O
+医 学 界 一 直 在 尝 试 引 进 新 型 免 疫 抑 制 剂 或 者 优 化 免 疫 抑 制 方 案 ,	O O O O O O O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O
+以 期 在 减 少 移 植 后 排 斥 反 应 的 同 时 减 少 免 疫 抑 制 剂 的 不 良 反 应 、 提 高 器 官 存 活 率 、 提 高 患 者 的 生 存 率 及 生 活 质 量 ,	O O O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+其 中 包 括 单 克 隆 抗 体 制 剂 的 应 用 。	O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O
+目 前 单 克 隆 抗 体 制 剂 已 被 广 泛 用 于 实 体 器 官 移 植 围 手 术 期 的 诱 导 治 疗 ,	O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O B-Operation I-Operation I-Operation E-Operation O O O O O O O O O O
+作 为 急 性 排 斥 反 应 的 预 防 性 治 疗 [ 1 ,	O O B-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O
+2 ] 。	O O O
+白 细 胞 介 素 2 ( interleukin 2 ) 受 体 拮 抗 剂 ( IL - 2 receptor antagonist ,	B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O
+IL - 2Ra ) ,	B-Drug E-Drug O O O
+亦 称 为 抗 CD25 单 克 隆 抗 体 ,	O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O
+为 目 前 常 用 的 抑 制 性 抗 体 之 一 ,	O O O O O O O O O O O O O O
+常 用 的 包 括 巴 利 昔 单 抗 ( Basiliximab ,	O O O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O
+Bas ) 和 达 利 珠 单 抗 ( Daclizumab ,	O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O
+Dac ) 两 种 。	O O O O O
+移 植 后 新 发 糖 尿 病 ( new onset diabetes after transplantation ,	B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O
+NODAT ) 是 器 官 移 植 后 严 重 的 代 谢 并 发 症 ,	O O O B-Operation I-Operation I-Operation E-Operation O O O B-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O
+对 受 者 远 期 生 活 造 成 许 多 不 良 影 响 ,	O O O O O O O O O O O O O O O O
+包 括 心 血 管 并 发 症 发 病 率 增 加 且 发 病 时 间 提 前 、 发 生 排 斥 反 应 、 感 染 风 险 增 加 、 移 植 物 功 能 丧 失 、 死 亡 率 增 加 等 ,	O O B-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O O
+是 影 响 移 植 患 者 长 期 生 存 率 及 生 活 质 量 的 重 要 因 素 之 一 。	O O O O O O O O O O O O O O O O O O O O O O O O O
+现 有 研 究 发 现 ,	O O O O O O O
+移 植 后 新 发 糖 尿 病 的 发 病 与 多 种 因 素 有 关 ,	B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O
+如 :	O O
+年 龄 、 术 前 糖 代 谢 状 态 、 供 肝 脂 肪 含 量 、 术 后 免 疫 抑 制 治 疗 等 [ 1 ,	B-Reason E-Reason O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O B-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O O O O
+3 ] 。	O O O
+既 往 研 究 中 已 公 认 免 疫 抑 制 剂 如 糖 皮 质 激 素 、 钙 调 磷 酸 酶 抑 制 剂 是 移 植 后 新 发 糖 尿 病 的 独 立 危 险 因 素 ,	O O O O O O O O B-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O
+其 机 制 虽 尚 不 清 楚 ,	O O O O O O O O O
+但 多 项 研 究 表 明 均 与 IL - 2 信 号 通 路 有 关 。	O O O O O O O O O O O O O O O O O O O
+随 着 IL - 2Ra 应 用 于 移 植 领 域 ,	O O B-Drug I-Drug O O O O O O O O O
+其 对 实 体 器 官 移 植 受 糖 代 谢 状 态 有 何 影 响 ,	O O O O B-Operation I-Operation I-Operation E-Operation O O O O O O O O O O O
+近 年 已 有 相 关 研 究 ,	O O O O O O O O O
+我 们 对 本 院 2001 年 4 月 至 2008 年 12 月 438 例 肝 移 植 患 者 所 做 的 调 查 研 究 显 示 ,	O O O O O O O O O O O O O O O O B-Operation I-Operation E-Operation O O O O O O O O O O O O
+使 用 IL - 2 受 体 拮 抗 剂 ( OR = 0 . 427 ,	O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O
+P < 0 . 01 ) 可 降 低 移 植 后 糖 尿 病 患 病 风 险 [ 4 ,	O O O O O O O O O B-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O
+5 ] 。	O O O
+鉴 于 移 植 患 者 群 体 的 扩 增 及 应 用 IL - 2Ra 的 患 者 数 量 大 幅 增 加 ,	O O B-Disease E-Disease O O O O O O O O O O B-Drug E-Drug O O O O O O O O O O O
+为 进 一 步 探 讨 IL - 2Ra 对 移 植 受 体 糖 代 谢 状 态 的 影 响 及 可 能 机 制 ,	O O O O O O B-Drug E-Drug O O B-Disease E-Disease O O O O O O O O O O O O O O O O
+本 文 就 此 论 题 作 一 综 述 。	O O O O O O O O O O O
+一 、 IL - 2R 两 种 单 克 隆 抗 体 的 结 构 特 点 两 种 IL - 2Ra 均 能 与 在 活 化 的 而 不 是 静 息 的 淋 巴 细 胞 上 表 达 的 IL - 2R 的 α 亚 基 ( CD25 或 Tac 亚 基 ) 特 异 性 结 合 。	O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O B-Drug E-Drug O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O O O O O O O O
+巴 利 昔 单 抗 是 人 鼠 嵌 合 型 单 克 隆 抗 体 ,	B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O
+由 含 人 重 链 与 轻 链 可 变 区 基 因 表 达 质 粒 的 鼠 骨 髓 瘤 细 胞 系 编 码 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+并 选 择 性 结 合 灵 长 类 IL - 2Rα 亚 基 ( CD25 或 Tac 亚 基 ) 的 抗 体 分 子 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+由 鼠 源 性 抗 IL - 2R 单 克 隆 抗 体 RTF2 的 可 变 区 与 人 源 性 IgG1 的 重 链 恒 定 区 及 资 轻 链 构 成 ( IgG1 资 ) 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+其 化 学 本 质 是 糖 蛋 白 ,	O O O O O O O O O O
+根 据 氨 基 酸 序 列 计 算 其 分 子 量 ,	O O O O O O O O O O O O O O
+约 为 144 kDa。 达 利 珠 单 抗 为 美 国 食 品 和 药 品 管 理 署 ( FDA ) 1997 年 通 过 的 首 个 人 源 化 单 克 隆 抗 体 药 物 。	O O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O O O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O
+达 利 珠 单 抗 应 用 基 因 工 程 技 术 利 用 寡 核 苷 酸 合 成 。	B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O O O
+达 利 珠 单 抗 源 自 鼠 抗 Tac 单 克 隆 抗 体 ,	B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O
+将 鼠 的 抗 原 结 合 位 点 即 鼠 源 CDRs ( complementarity determining regions ) 及 某 些 FWRs ( framework regions ) 的 关 键 残 基 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+嫁 接 到 人 的 IgG1 恒 定 区 结 构 域 以 及 Eu 骨 髓 瘤 抗 体 的 可 变 区 而 成 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+其 序 列 90 % 来 自 人 ,	O O O O O O O O O
+10 % 来 自 鼠 ,	O O O O O O
+分 子 量 约 为 144 kDa。 与 原 鼠 单 克 隆 抗 Tac 抗 体 相 比 达 利 珠 单 抗 亲 和 力 稍 低 ,	O O O O O O O O O O O O O O O O O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O
+但 免 疫 原 性 低 ,	O O O O O O O
+抑 制 能 力 强 并 且 半 衰 期 长 [ 6 ] 。	O O O O O O O O O O O O O O O
+二 、 选 择 IL - 2R 作 为 临 床 治 疗 靶 点 的 原 因 IL - 2 与 IL - 2Rα 亚 基 ( CD25 或 Tac 亚 基 ) 相 互 作 用 介 导 的 淋 巴 细 胞 活 化 在 免 疫 防 御 的 激 活 中 起 关 键 作 用 ,	O O O O B-Drug E-Drug O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O O
+是 同 源 移 植 排 斥 中 细 胞 免 疫 应 答 的 重 要 途 径 。	O O O O O O O O O O O O O O O O O O O O
+IL - 2Ra 特 异 性 阻 断 活 化 的 T 淋 巴 细 胞 表 面 的 IL - 2Rα 亚 基 ( CD25 或 Tac 亚 基 ) ,	B-Drug E-Drug O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O O O O O O O
+通 过 竞 争 性 地 与 受 体 结 合 ,	O O O O O O O O O O O O
+拮 抗 IL - 2 与 其 受 体 结 合 所 介 导 的 细 胞 增 殖 ,	O O B-Anatomy E-Anatomy O O O O O O O O O O O O O O O O
+并 且 能 使 活 化 的 细 胞 表 面 受 体 表 达 下 调 ,	O O O O O O O O O O O O O O O O O O
+因 此 具 有 免 疫 抑 制 作 用 并 起 治 疗 作 用 。	O O O O O O O O O O O O O O O O O
+选 择 IL - 2Rα 作 为 临 床 治 疗 的 靶 点 主 要 原 因 :	O O B-Drug E-Drug O O O O O O O O O O O O O O O
+( 1 ) IL - 2R 与 IL - 2 的 结 合 启 动 IL - 2 / IL - 2Rαβγc 复 合 体 的 形 成 ,	O O O B-Drug E-Drug O O O O O O O O O O O O O O O O O O O O O O O O
+从 而 激 活 IL - 2 信 号 通 路 ;	O O O O O O O O O O O O
+( 2 ) IL - 2Rα 可 以 特 异 性 与 IL - 2 结 合 ;	O O O B-Drug E-Drug O O O O O O O O O O O O O
+( 3 ) IL - 2Rα 在 静 息 T、B 细 胞 不 表 达 ,	O O O B-Anatomy E-Anatomy O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O
+而 在 活 化 T 细 胞 及 移 植 排 斥 反 应 、 某 些 自 身 免 疫 病 及 T 细 胞 性 白 血 病 的 异 常 T 细 胞 表 面 可 大 量 表 达 [ 6 ,	O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O B-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O B-Disease I-Disease I-Disease I-Disease E-Disease O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O
+7 ] 。	O O O
+三 、 IL - 2Ra 对 移 植 受 体 糖 代 谢 状 态 的 影 响 目 前 IL - 2Ra 对 移 植 受 体 糖 代 谢 状 态 的 影 响 尚 无 统 一 意 见 。	O O B-Drug E-Drug O O B-Operation E-Operation O O O O O O O O O O O O B-Drug E-Drug O O O O O O O O O O O O O O O O O O O O O
+1 . IL - 2Ra 对 移 植 受 体 糖 代 谢 呈 正 面 影 响 :	O O B-Drug E-Drug O O O O O O O O O O O O O O O
+Boillot 等 [ 8 ] 所 进 行 的 肝 移 植 多 中 心 随 机 临 床 研 究 中 ,	O O O O O O O O O B-Operation I-Operation E-Operation O O O O O O O O O O O
+将 698 例 受 试 者 按 1 :	O O O O O O O O O
+1 比 例 随 机 分 成 两 组 ( 351 例 :	O O O O O O O O O O O O O
+347 例 ) ,	O O O O
+一 组 使 用 他 克 莫 司 + 达 利 珠 单 抗 无 激 素 方 案 ( 达 利 珠 单 抗 作 诱 导 治 疗 ) ,	O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O
+另 一 组 使 用 他 克 莫 司 + 激 素 双 重 治 疗 方 案 ( 无 诱 导 治 疗 ) ,	O O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O
+移 植 后 3 个 月 时 糖 尿 病 发 生 率 :	O O O O O O O B-SideEff I-SideEff E-SideEff O O O O
+达 利 珠 单 抗 诱 导 治 疗 组 较 他 克 莫 司 无 诱 导 治 疗 组 低 ( 5 . 7 % 对 15 . 3 % ,	B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O B-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O O O O
+P < 0 . 001 ) ,	O O O O O O O
+两 组 高 血 糖 发 生 率 则 比 较 接 近 ( 11 . 7 % 对 13 . 0 % ) 。	O O B-SideEff I-SideEff E-SideEff O O O O O O O O O O O O O O O O O O O O
+Kato 等 [ 9 ] 对 存 在 丙 型 肝 炎 病 毒 ( HCV ) 感 染 的 原 位 肝 移 植 患 者 进 行 的 研 究 分 两 期 进 行 ,	O O O O O O O O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O O O B-Operation I-Operation E-Operation O O O O O O O O O O O O O
+总 体 分 无 激 素 组 与 应 用 激 素 组 :	O O O O B-Drug E-Drug O O O O B-Drug E-Drug O O
+无 激 素 组 第 一 期 采 用 他 克 莫 司 + 达 利 珠 单 抗 方 案 ,	O B-Drug E-Drug O O O O O O B-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug E-Drug O O O
+第 二 期 采 用 他 克 莫 司 + MMF + 达 利 珠 单 抗 方 案 ,	O O O O O B-Drug I-Drug I-Drug E-Drug O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O
+激 素 组 第 一 期 采 用 他 克 莫 司 + 激 素 方 案 ,	O O O O O O O O B-Drug I-Drug I-Drug E-Drug O B-Drug E-Drug O O O
+第 二 期 采 用 他 克 莫 司 + MMF + 激 素 方 案 。	O O O O O B-Drug I-Drug I-Drug E-Drug O O O B-Drug E-Drug O O O
+随 访 3 个 月 时 ,	O O O O O O O
+两 组 新 发 糖 尿 病 分 别 为 10 % 对 45 % ( P = 0 . 003 ) ,	O O O O B-SideEff I-SideEff E-SideEff O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O O O O O O
+加 用 达 利 珠 单 抗 的 无 激 素 方 案 组 远 低 于 应 用 激 素 组 。	O O B-Drug I-Drug I-Drug I-Drug E-Drug O O B-Drug E-Drug O O O O O O O O B-Drug E-Drug O O
+Humar 等 [ 10 ] 进 行 的 试 验 也 是 针 对 伴 HCV 感 染 的 肝 移 植 患 者 ,	O O O O O O O O O O O O O O B-Disease I-Disease I-Disease E-Disease O B-Operation I-Operation E-Operation O O O
+免 疫 抑 制 方 案 分 别 为 他 克 莫 司 + MMF + 巴 利 昔 单 抗 + 激 素 ( 早 期 终 止 ) 方 案 及 他 克 莫 司 + MMF + 激 素 ( 维 持 ) 方 案 ,	O O O O O O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O B-Method I-Method I-Method E-Method O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O B-Method E-Method O O O O
+观 察 6 个 月 时 ,	O O B-Duration I-Duration E-Duration O O
+应 用 IL - 2Ra + 激 素 早 期 终 止 方 案 组 NODAT 发 生 率 明 显 低 于 对 照 组 ( 12 % 对 32 % ,	O O B-Drug I-Drug I-Drug I-Drug I-Drug E-Drug B-Method I-Method I-Method E-Method O O O O B-Test I-Test E-Test O O O O O O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+P = 0 . 004 ) 。	O O O O O O O
+Rostaing 等 [ 11 ] 进 行 的 多 中 心 平 行 对 照 试 验 中 ,	O O O O O O O O O O O O O O O O O O O
+将 538 例 肾 移 植 患 者 1 :	O O O B-Operation I-Operation E-Operation O O O O
+1 配 对 分 组 ( 260 例 :	O O O O O O O O O
+278 例 ) ,	O O O O
+分 别 给 予 达 利 珠 单 抗 + 他 克 莫 司 + MMF 或 激 素 + 他 克 莫 司 + MMF 方 案 ,	O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O
+观 察 6 个 月 时 胰 岛 素 依 赖 型 新 发 糖 尿 病 发 生 率 分 别 为 0 . 4 % 对 5 . 4 % ( P = 0 . 003 ) ,	O O B-Duration I-Duration E-Duration O O O O O O O B-SideEff I-SideEff I-SideEff I-SideEff E-SideEff O O O O O O O O O O O O O O O O O O O O O O O
+高 血 糖 发 生 率 IL - 2Ra 组 有 低 于 激 素 组 的 趋 势 ,	B-SideEff I-SideEff E-SideEff O O O B-Drug E-Drug O O O O O B-Drug E-Drug O O O O O
+但 未 达 到 统 计 学 差 异 ( 13 . 1 % 对 15 . 8 % ) 。	O O O O O O O O O O O O O O O O O O O O O
+Penfornis 等 [ 12 ] 所 进 行 的 研 究 中 ,	O O O O O O O O O O O O O
+肾 移 植 后 6 个 月 ,	B-Operation I-Operation E-Operation O B-Duration I-Duration E-Duration O
+他 克 莫 司 + MMF + 激 素 组 其 NODAT 发 病 率 高 于 他 克 莫 司 + MMF + 达 利 珠 单 抗 组 ( 5 . 4 % 对 0 . 4 % ,	B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O
+P = 0 . 001 ) ,	O O O O O O O
+且 在 肝 移 植 的 研 究 中 呈 现 类 似 结 果 。	O O B-Operation I-Operation E-Operation O O O O O O O O O O O
+2011 年 ,	O O O
+Goralczyk 等 [ 13 ] 进 行 的 系 统 综 述 显 示 ,	O O O O O O O O O O O O O O O
+10 项 研 究 中 应 用 IL - 2Ra 方 案 的 患 者 中 ,	O O O O O O O B-Drug E-Drug O O O O O O O O
+NODAT 发 生 率 较 低 ( RR = 0 . 56 ,	O O O O O O O O O O O O O
+95 % CI 0 . 39 ~ 0 . 82 ,	O O O O O O O O O O O
+P = 0 . 002 ) 。	O O O O O O O
+本 组 对 703 例 在 本 院 进 行 的 肝 移 植 患 者 进 行 了 为 期 5 年 的 随 访 观 察 ,	O O O O O O O O O O O B-Operation I-Operation E-Operation O O O O O O O O O O O O O O O
+术 前 非 糖 尿 病 组 ( 438 例 ) 受 试 者 根 椐 术 后 1 个 月 空 腹 血 糖 分 为 移 植 后 糖 尿 病 ( post - transplant diabetes mellitus ,	O O O B-Disease I-Disease E-Disease O O O O O O O O O O O O O O O B-Test I-Test I-Test E-Test O O B-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O
+PTDM ) 组 与 非 PTDM 组 ( 140 例 :	O O O O O O O O O O O
+298 例 ) ,	O O O O
+两 组 分 别 有 37 例 和 121 例 加 用 IL - Ra 进 行 免 疫 诱 导 ,	O O O O O O O O O O O O B-Drug E-Drug O O O O O O O O
+单 因 素 分 析 显 示 IL - 2 受 体 拮 抗 剂 与 PTDM 显 著 相 关 ( P = 0 . 004 ) ,	O O O O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O
+多 因 素 logistic 分 析 显 示 使 用 IL - 2 受 体 拮 抗 剂 可 降 低 PTDM 患 病 风 险 ( OR = 0 . 427 ,	O O O O O O O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O
+P = 0 . 000 6 ) [ 4 ,	O O O O O O O O O O
+5 ] 。	O O O
+2 . IL - 2Ra 对 移 植 受 体 糖 代 谢 呈 负 面 影 响 :	O O B-Drug E-Drug O O B-Disease E-Disease O O O O O O O O O O O
+Lib 佼 rio 等 [ 14 ] 的 研 究 显 示 ,	O O O O O O O O O O O O O
+肾 移 植 后 早 期 终 止 激 素 治 疗 方 案 中 ,	B-Operation I-Operation E-Operation O B-Level E-Level O O B-Drug E-Drug O O O O O O
+接 受 IL - 2Ra 治 疗 组 NODAT 发 病 率 高 于 接 受 抗 胸 腺 球 蛋 白 治 疗 组 ( 26 . 9 % 对 9 . 5 % ,	O O B-Drug E-Drug O O O O O O O O O O O O B-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O
+P = 0 . 006 ) 。	O O O O O O O
+Aaseb 尴 等 [ 15 ] 进 行 的 单 中 心 回 顾 性 研 究 中 ,	O O O O O O O O O O O O O O O O O O O
+接 受 巴 利 昔 单 抗 诱 导 治 疗 的 非 糖 尿 病 肾 移 植 患 者 比 不 接 受 巴 利 昔 单 抗 诱 导 治 疗 的 患 者 早 期 NODAT、IGT、IFG 的 发 生 率 高 :	O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O B-Disease I-Disease E-Disease B-Operation I-Operation E-Operation O O O O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O O
+以 激 素 / MMF / CsA 为 基 础 的 免 疫 抑 制 治 疗 方 案 ,	O B-Drug E-Drug O O O O O O O O O O O O O O O O O
+采 用 巴 利 昔 单 抗 进 行 诱 导 治 疗 组 NODAT 发 生 率 高 达 50 . 1 % ,	O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O O O O
+未 接 受 巴 利 昔 单 抗 诱 导 治 疗 组 NODAT 发 生 率 为 36 . 9 % ,	O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O
+IGT 发 生 率 为 24 . 6 % 与 19 . 2 % ,	O O O O O O O O O O O O O O O
+空 腹 血 糖 受 损 ( IFG ) 发 生 率 分 别 为 4 % 和 3 % ( P = 0 . 017 ) ,	B-SideEff I-SideEff I-SideEff I-SideEff I-SideEff E-SideEff O O O O O O O O O O O O O O O O O O O O O O
+单 变 量 分 析 OR 值 为 1 . 81 ,	O O O O O O O O O O O O
+双 变 量 分 析 将 排 斥 反 应 作 为 巴 利 昔 单 抗 的 独 立 干 扰 因 素 加 以 校 正 后 所 得 OR 值 为 2 . 00 ( P = 0 . 008 ) ,	O O O O O O O O O O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+提 示 巴 利 昔 单 抗 促 进 移 植 后 糖 代 谢 紊 乱 的 发 生 ,	O O B-Drug I-Drug I-Drug I-Drug E-Drug O O B-SideEff I-SideEff I-SideEff I-SideEff I-SideEff I-SideEff I-SideEff E-SideEff O O O O
+尤 其 是 移 植 后 糖 尿 病 的 发 生 。	O O O B-SideEff I-SideEff I-SideEff I-SideEff I-SideEff E-SideEff O O O O
+Bayes 等 [ 16 ] 所 进 行 的 试 验 也 提 示 IL - 2Ra 应 用 组 ,	O O O O O O O O O O O O O O B-Drug E-Drug O O O O O
+NODAT 发 病 率 明 显 升 高 ( 44 . 7 % 对 22 . 2 % ,	O O O O O O O O O O O O O O O O O O O
+P = 0 . 041 ) 。	O O O O O O O
+此 外 亦 有 动 物 实 验 研 究 显 示 ,	O O O O O O O O O O O O O
+IL - 2Ra 的 应 用 与 严 重 胰 岛 炎 及 糖 尿 病 的 发 生 有 关 [ 7 ] 。	B-Drug E-Drug O O O O O B-SideEff I-SideEff I-SideEff I-SideEff E-SideEff O B-SideEff I-SideEff E-SideEff O O O O O O O O O
+3 . IL - 2Ra 对 移 植 受 体 糖 代 谢 无 明 显 影 响 :	O O B-Drug E-Drug O O O O O O O O O O O O O O O
+Sheashaa 等 [ 17 ] 的 研 究 显 示 ,	O O O O O O O O O O O
+对 肾 移 植 患 者 的 10 年 随 访 中 ,	O B-Operation I-Operation E-Operation O O O O O O O O O
+应 用 巴 利 昔 单 抗 组 NODAT 的 发 病 率 并 无 增 加 ,	O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O
+并 将 此 研 究 中 两 组 NODAT 发 病 率 的 差 别 主 要 归 于 激 素 应 用 的 差 异 。	O O O O O O O O O O O O O O O O O O O B-Drug E-Drug O O O O O O
+Vitko 等 [ 18 ] 对 肾 移 植 患 者 进 行 的 多 中 心 平 行 对 照 试 验 中 ,	O O O O O O B-Operation I-Operation E-Operation O O O O O O O O O O O O O O O O
+他 克 莫 司 + 巴 利 昔 单 抗 组 、 他 克 莫 司 + MMF 组 、 他 克 莫 司 + MMF + 激 素 组 3 组 NODAT 的 发 生 率 分 别 为 1 . 4 % 、7 . 1 % 、4 . 6 % ,	B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O O O O O O O O O O
+高 血 糖 发 生 率 分 别 为 9 . 8 % 、7 . 9 % 、 10 . 9 % ;	B-SideEff I-SideEff E-SideEff O O O O O O O O O O O O O O O O O O O O
+3 组 间 均 无 统 计 学 差 异 ,	O O O O O O O O O O O
+但 IL - 2Ra 组 糖 代 谢 紊 乱 发 生 率 呈 降 低 趋 势 。	O B-Drug E-Drug O O B-SideEff I-SideEff I-SideEff I-SideEff E-SideEff O O O O O O O O O
+Becker 等 [ 19 ] 针 对 肝 移 植 患 者 进 行 的 研 究 中 ,	O O O O O O O B-Operation I-Operation E-Operation O O O O O O O O O
+他 克 莫 司 + 达 利 珠 单 抗 组 305 名 受 试 者 糖 尿 病 发 生 率 为 9 . 5 % ,	B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O B-SideEff I-SideEff E-SideEff O O O O O O O O O
+高 血 糖 发 生 率 为 18 . 0 % ,	B-SideEff I-SideEff E-SideEff O O O O O O O O O
+他 克 莫 司 + MMF 组 297 名 受 试 者 糖 尿 病 发 生 率 为 11 . 0 % ,	B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O B-SideEff I-SideEff E-SideEff O O O O O O O O O
+高 血 糖 发 生 率 为 19 . 2 % ,	B-SideEff I-SideEff E-SideEff O O O O O O O O O
+两 组 无 统 计 学 差 异 ,	O O O O O O O O O
+同 样 加 用 IL - 2Ra 组 糖 代 谢 紊 乱 发 生 率 较 加 用 MMF 组 呈 降 低 趋 势 。	O O O O B-Drug E-Drug O O B-SideEff I-SideEff I-SideEff I-SideEff E-SideEff O O O O O O O O O O O O O O
+Klintmalm 等 [ 20 ] 进 行 的 随 机 多 中 心 试 验 将 伴 HCV 感 染 的 肝 移 植 患 者 分 为 3 个 试 验 组 :	O O O O O O O O O O O O O O O O B-Symptom I-Symptom I-Symptom E-Symptom O B-Operation I-Operation E-Operation O O O O O O O O O O
+他 克 莫 司 + 激 素 、 他 克 莫 司 + MMF + 激 素 、 他 克 莫 司 + MMF + 达 利 珠 单 抗 ,	B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O
+随 访 2 年 时 NODAT 发 生 率 分 别 为 29 . 8 % ,	O O O O O O O O O O O O O O O O O
+32 . 8 % ,	O O O O O
+18 . 6 % ,	O O O O O
+均 > 15 % ,	O O O O O
+且 各 组 间 无 统 计 学 差 异 ,	O O O O O O O O O O O
+但 IL - 2Ra 组 NODAT 发 生 率 同 样 呈 下 降 趋 势 。	O B-Drug E-Drug O O O O O O O O O O O O O O
+Otero 等 [ 21 ] 对 首 次 接 受 肝 移 植 的 患 者 所 进 行 的 前 瞻 随 机 开 放 试 验 中 ,	O O O O O O O O O O B-Operation I-Operation E-Operation O O O O O O O O O O O O O O O O O
+改 良 组 ( 达 利 珠 单 抗 + MMF + 他 克 莫 司 ) 与 标 准 组 ( 激 素 + 他 克 莫 司 ) 比 较 ,	O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O
+2 年 时 NODAT 发 生 率 ( 13 . 9 % vs 7 . 7 % ) 及 高 血 糖 发 生 率 ( 21 . 5 % vs 23 . 1 % ) 均 无 统 计 学 差 异 。	O O O O O O O O O O O O O O O O O O O B-SideEff I-SideEff E-SideEff O O O O O O O O O O O O O O O O O O O O O O
+祝 清 国 等 [ 22 ] 对 肾 移 植 高 危 受 者 ( 包 括 :	O O O O O O O O B-Operation I-Operation E-Operation O O O O O O O O
+供 肾 者 年 龄 超 过 50 岁 ,	O O O O O O O O O O
+肾 脏 冷 缺 血 时 间 超 过 24h ,	B-Anatomy E-Anatomy O O O O O O O O O
+再 次 移 植 和 致 敏 受 者 ,	O O O O O O O O O O
+糖 尿 病 受 者 ,	B-Disease I-Disease E-Disease O O O
+儿 童 受 者 ,	O O O O O
+非 洲 裔 受 者 ,	O O O O O O
+组 织 相 容 性 抗 原 六 抗 原 错 配 受 者 等 ) 进 行 的 研 究 显 示 ,	O O O O O O O O O O O O O O O O O O O O O O O O
+CsA 或 他 克 莫 司 + MMF + 激 素 三 联 免 疫 抑 制 方 案 基 础 上 加 用 或 者 不 加 用 IL - 2Ra ,	O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O O O O O B-Drug E-Drug O O
+随 访 至 1 年 时 两 组 间 高 血 糖 发 生 率 并 无 统 计 学 差 异 。	O O O O O O O O O B-SideEff I-SideEff E-SideEff O O O O O O O O O O O
+到 目 前 为 止 ,	O O O O O O
+尚 缺 乏 以 NODAT 或 移 植 受 体 血 糖 状 态 为 主 要 研 究 终 点 的 大 型 临 床 试 验 ,	O O O O O O B-Test I-Test I-Test I-Test I-Test E-Test O O O O O O O O O O O O O O O O O
+且 以 往 的 研 究 中 NODAT 的 定 义 与 诊 断 标 准 并 不 统 一 ,	O O O O O O O O O O O O O O O O O O O O O
+筛 查 试 验 也 无 统 一 规 定 ,	O O O O O O O O O O O
+故 有 关 IL - 2Ra 对 移 植 受 体 血 糖 及 NODAT 发 生 的 影 响 ,	O O O B-Drug E-Drug O O O O O O B-Test E-Test O O O O O O O O
+尚 需 进 一 步 研 究 。	O O O O O O O O
+四 、 IL - 2Ra 对 移 植 受 体 糖 代 谢 状 态 可 能 的 影 响 机 制 1 . 减 少 术 后 急 性 排 斥 反 应 :	O O B-Drug E-Drug O O O O O O O O O O O O O O O O O O O O O O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O
+Hjelmesaeth 等 [ 23 ] 报 道 NODAT 的 发 生 与 术 后 发 生 急 性 排 斥 反 应 有 关 。	O O O O O O O O O O O O B-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O O O
+术 后 急 性 排 斥 反 应 是 严 重 的 机 体 应 激 反 应 ,	B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O
+血 糖 升 高 则 是 应 激 反 应 的 一 种 表 现 。	B-Symptom I-Symptom I-Symptom E-Symptom O O B-Disease I-Disease I-Disease E-Disease O O O O O O
+大 量 文 献 报 道 免 疫 诱 导 方 案 可 减 少 急 性 排 斥 反 应 的 发 生 ,	O O O O O O O O O O O O O O O B-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O
+从 而 抑 制 血 糖 升 高 。	O O O O B-Symptom I-Symptom I-Symptom E-Symptom O
+2 . 减 少 糖 皮 质 激 素 与 免 疫 抑 制 剂 的 用 量 :	O O O O B-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O
+早 期 大 量 使 用 糖 皮 质 激 素 及 免 疫 抑 制 剂 为 NODAT 的 重 要 危 险 因 素 [ 1 ] ,	B-Level E-Level B-Amount E-Amount O O B-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O
+而 IL - 2Ra 的 应 用 可 减 少 肾 移 植 后 免 疫 抑 制 剂 的 负 担 ,	O B-Drug I-Drug O O O O O O O B-Operation I-Operation E-Operation O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O
+通 过 减 少 糖 皮 质 激 素 、CNIs 等 药 物 的 用 量 [ 23 ,	O O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O
+24 ] 从 而 减 少 其 不 良 反 应 ,	O O O O O O O O O O O O
+包 括 减 少 其 对 糖 代 谢 的 不 良 影 响 。	O O O O O O B-SideEff I-SideEff E-SideEff O O O O O O
+3 . 抑 制 Treg 亚 群 :	O O O O O O O O
+Treg 亚 群 ( CD25 + CD4 + FOXP3 + T 细 胞 ) 是 抑 制 性 T 细 胞 的 一 种 功 能 亚 群 ,	O O O O O O O O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O O
+具 有 免 疫 抑 制 作 用 和 免 疫 无 能 性 ,	O O O O O O O O O O O O O O O
+在 维 持 自 身 免 疫 耐 受 及 调 控 一 系 列 自 身 免 疫 性 疾 病 的 发 生 中 起 重 要 作 用 [ 7 ,	O O O O O O O O O O O O O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O
+15 ,	O O
+25 ] 。	O O O
+剔 除 小 鼠 体 内 Treg 细 胞 可 导 致 自 身 免 疫 性 疾 病 的 出 现 [ 7 ] 。	O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O
+IL - 2 对 于 维 持 外 周 血 中 Treg 细 胞 数 量 及 功 能 、 预 防 自 身 免 疫 性 疾 病 起 重 要 作 用 [ 26 ,	B-Anatomy E-Anatomy O O O O O B-Anatomy I-Anatomy E-Anatomy O B-Test I-Test E-Test O O O O O O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O
+27 ] 。	O O O
+应 用 IL - 2Ra 中 和 正 常 小 鼠 体 内 的 IL - 2 ,	O O B-Drug E-Drug O O O O O O O O O O B-Anatomy E-Anatomy O O
+可 导 致 自 身 免 疫 性 疾 病 ,	O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O
+与 剔 除 Treg 细 胞 相 似 。	O O O B-Anatomy I-Anatomy E-Anatomy O O O
+目 前 认 为 T 细 胞 尤 其 是 Treg 亚 群 在 T1DM 的 免 疫 异 常 发 生 机 制 中 起 作 用 ,	O O O O B-Anatomy I-Anatomy E-Anatomy O O O B-Anatomy I-Anatomy E-Anatomy O O O B-Reason I-Reason I-Reason E-Reason O O O O O O O O O
+对 具 有 糖 尿 病 倾 向 的 非 肥 胖 性 糖 尿 病 小 鼠 ( nonobese diabetic mice ,	O O O B-Disease I-Disease E-Disease O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O
+NOD mice ,	O O O
+对 自 身 免 疫 性 糖 尿 病 有 易 感 性 ) ,	O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O
+中 和 其 体 内 的 IL - 2 可 导 致 包 括 胰 岛 炎 在 内 的 多 种 器 官 特 异 性 自 身 免 疫 性 疾 病 产 生 [ 7 ] 。	O O O O O O B-Anatomy E-Anatomy O O O O O O B-Disease I-Disease E-Disease O O O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O
+另 有 动 物 显 示 ,	O O O O O O O
+应 用 IL - 2 类 似 物 可 防 止 糖 尿 病 的 发 生 [ 28 ] 。	O O B-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O B-Disease I-Disease E-Disease O O O O O O O
+因 而 ,	O O O
+从 理 论 上 讲 ,	O O O O O O
+抑 制 Treg 亚 群 对 胰 岛 有 负 面 影 响 ,	O O B-Anatomy I-Anatomy E-Anatomy O B-Anatomy E-Anatomy O O O O O O
+IL - 2Ra 对 Treg 亚 群 的 抑 制 作 用 可 对 移 植 后 机 体 的 糖 代 谢 状 态 产 生 不 良 影 响 。	B-Drug E-Drug O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O B-Disease E-Disease O O O O O O O O O O O O O O O O
+这 或 许 是 Lib 佼 rio 与 Bayes 的 研 究 中 NODAT 发 生 率 升 高 的 原 因 。	O O O O O O O O O O O O O O O O O O O O O O O
+但 上 述 机 制 均 为 动 物 实 验 研 究 结 果 ,	O O O O O O O O O O O O O O O O
+IL - 2Ra 对 人 体 移 植 后 糖 代 谢 影 响 的 机 制 仍 需 要 更 多 、 更 长 期 的 跟 踪 研 究 来 证 实 。	B-Drug E-Drug O O O O B-SideEff I-SideEff I-SideEff I-SideEff I-SideEff E-SideEff O O O O O O O O O O O O O O O O O O O O O O O
+五 、 结 论 与 展 望 综 上 所 述 ,	O O O O O O O O O O O O
+目 前 常 用 的 IL - 2Ra 有 两 种 :	O O O O O B-Drug E-Drug O O O O O
+巴 利 昔 单 抗 和 达 利 珠 单 抗 。	B-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug E-Drug O
+IL - 2Ra 用 于 器 官 移 植 围 手 术 期 诱 导 治 疗 ,	B-Drug E-Drug O O O B-Operation I-Operation I-Operation E-Operation O O O O O O O O O
+可 减 少 移 植 后 糖 皮 质 激 素 及 免 疫 抑 制 剂 用 量 ,	O O O B-Operation E-Operation O B-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug E-Drug O O O
+同 时 减 少 移 植 后 急 性 排 斥 反 应 的 发 生 。	O O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O
+目 前 IL - 2Ra 对 移 植 受 体 糖 代 谢 的 影 响 尚 存 争 议 ,	O O B-Drug E-Drug O O B-SideEff I-SideEff I-SideEff I-SideEff I-SideEff I-SideEff E-SideEff O O O O O O O O
+国 内 外 针 对 IL - 2Ra 对 移 植 后 机 体 糖 代 谢 状 态 的 影 响 研 究 较 少 ,	O O O O O B-Drug E-Drug O O B-SideEff I-SideEff I-SideEff I-SideEff I-SideEff I-SideEff I-SideEff I-SideEff I-SideEff E-SideEff O O O O O O O O
+对 NODAT 发 生 的 影 响 尚 无 统 一 认 识 ,	O O O O O O O O O O O O O O
+影 响 机 制 尚 不 明 确 ,	O O O O O O O O O
+仍 待 进 一 步 深 入 研 究 。	O O O O O O O O O O
+增 录 6a - 1 内 分 泌 疾 病 管 理 继 续 教 育 分 泌 代 谢 病 院 区 2012 年 ATA / AACE《 成 人 甲 减 的 诊 治 指 南 》 解 读 褚 晓 秋 刘 超 最 近 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+美 国 甲 状 腺 学 会 ( ATA ) 和 临 床 内 分 泌 医 师 学 会 ( AACE ) 在 《 甲 状 腺 》 ( 《Thyroid》 ) 杂 志 上 联 合 发 表 了 《 成 人 甲 减 的 诊 治 指 南 》 ( 以 下 简 称 指 南 ) [ 1 ] 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+本 文 对 指 南 进 行 部 分 解 读 。	O O O O O O O O O O O O
+一 、 流 行 病 学 和 病 因 学 研 究 1 . 流 行 病 学 :	O O O O O O O O O O O O O O O O O O O
+根 据 甲 状 腺 功 能 减 低 的 程 度 分 为 临 床 甲 减 和 亚 临 床 甲 减 ,	O O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O O O O O B-Disease I-Disease I-Disease E-Disease O B-Disease I-Disease I-Disease I-Disease E-Disease O
+对 于 亚 临 床 甲 减 ,	O O B-Disease I-Disease I-Disease I-Disease E-Disease O
+以 往 文 献 报 道 在 各 国 普 通 人 群 中 的 患 病 率 为 4 % ~ 10 % 。	O O O O O O O O O O O O O O O O O O O O O O O O O
+美 国 国 家 健 康 与 营 养 检 验 调 查 ( NHANES 3 ) 了 美 国 1988 年 至 1994 年 大 于 12 岁 未 经 过 筛 选 的 人 群 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+发 现 采 用 4 . 5 mIU / L 为 TSH 值 的 正 常 上 限 ,	O O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O O O O O O O O
+亚 临 床 和 临 床 甲 减 的 患 病 率 分 别 为 4 . 3 % 和 0 . 3 % 。	B-Disease I-Disease E-Disease O B-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O O O O O O
+而 在 科 罗 拉 多 健 康 人 群 的 甲 状 腺 疾 病 患 病 率 调 查 中 ,	O O O O O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O
+以 5 . 0 mIU / L 为 TSH 值 的 正 常 上 限 ,	O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O O O O O O O O
+亚 临 床 和 临 床 甲 减 的 患 病 率 分 别 为 8 . 5 % 和 0 . 4 % 。	B-Disease I-Disease E-Disease O B-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O O O O O O
+在 弗 雷 明 汉 的 研 究 中 ,	O O O O O O O O O O
+大 于 60 岁 的 人 群 中 有 5 . 9 % 的 女 性 和 2 . 3 % 的 男 性 的 TSH 超 过 10 mIU / L ,	O O O O O O O O O O O O O O O O O O O O O O O O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+其 中 ,	O O O
+39 % 伴 有 低 T4 血 症 。	O O O O B-Disease I-Disease I-Disease E-Disease O
+在 英 国 Whickham 调 查 中 ,	O O O O O O O O
+9 . 3 % 的 女 性 和 1 . 2 % 的 男 性 的 TSH 超 过 10 mIU / L。 2 . 病 因 学 :	O O O O O O O O O O O O O O O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O O O O O
+根 据 病 变 发 生 的 部 位 甲 减 分 为 原 发 性 甲 减 、 中 枢 性 甲 减 、 甲 状 腺 激 素 抵 抗 综 合 征 三 大 类 。	O O O O O O O O O B-Disease E-Disease O O B-Disease I-Disease I-Disease I-Disease E-Disease O B-Disease I-Disease I-Disease I-Disease E-Disease O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O
+由 于 垂 体 下 丘 脑 肿 瘤 ( 包 括 颅 咽 管 瘤 ) 、 炎 症 反 应 ( 淋 巴 性 或 肉 芽 肿 性 垂 体 炎 ) 或 出 血 性 坏 死 ( 席 汉 综 合 征 ) 或 垂 体 下 丘 脑 疾 病 的 外 科 及 放 射 性 治 疗 等 原 因 引 起 TSH 生 成 不 足 时 会 发 生 中 枢 性 甲 减 。	O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O B-Disease I-Disease I-Disease E-Disease O O B-Disease I-Disease I-Disease E-Disease O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O B-Disease I-Disease I-Disease I-Disease E-Disease O B-Disease I-Disease I-Disease I-Disease E-Disease O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O B-Operation E-Operation O B-Treatment I-Treatment I-Treatment I-Treatment E-Treatment O O O O O B-Reason I-Reason I-Reason I-Reason E-Reason O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O
+原 发 性 甲 减 通 常 发 生 于 甲 亢 同 位 素 或 手 术 治 疗 后 、 慢 性 自 身 免 疫 性 甲 状 腺 炎 ( AITDs ) 、 甲 状 腺 癌 、 良 性 甲 状 腺 结 节 性 疾 病 、 非 甲 状 腺 相 关 的 头 颈 部 恶 性 肿 瘤 的 放 射 照 射 治 疗 后 ,	B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O B-Treatment I-Treatment I-Treatment I-Treatment E-Treatment O B-Operation I-Operation I-Operation E-Operation O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O B-Disease I-Disease I-Disease E-Disease O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O B-Anatomy I-Anatomy E-Anatomy O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O B-Treatment I-Treatment I-Treatment I-Treatment I-Treatment E-Treatment O O
+这 类 甲 减 占 全 部 甲 减 的 95 % 以 上 。	O O B-Disease E-Disease O O O B-Disease E-Disease O O O O O O
+《 指 南 》 指 出 ,	O O O O O O O
+在 全 世 界 范 围 内 环 境 中 碘 缺 乏 仍 是 造 成 甲 状 腺 机 能 减 退 最 常 见 的 原 因 ,	O O O O O O O O O O B-Reason I-Reason E-Reason O O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O
+而 在 一 些 碘 比 较 充 裕 的 地 区 导 致 甲 减 的 最 主 要 原 因 则 为 AITDs ,	O O O O O O O O O O O O O O B-Disease E-Disease O O O O O O O O O O
+其 在 女 性 中 的 发 病 率 要 比 男 性 高 5 ~ 10 倍 。	O O O O O O O O O O O O O O O O O O O
+诊 断 AITDs 的 要 点 之 一 为 抗 甲 状 腺 自 身 抗 体 滴 度 的 升 高 ,	O O O O O O O O O B-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+主 要 包 括 甲 状 腺 球 蛋 白 抗 体 ( TgAb ) 、 甲 状 腺 过 氧 化 酶 抗 体 ( TPOAb ) 以 及 促 甲 状 腺 激 素 受 体 抗 体 ( TRAb ) 。	O O O O B-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O O O O B-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O O O O O B-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O O O O
+许 多 AITDs 患 者 在 生 化 上 甲 状 腺 机 能 为 正 常 ,	O O O O O O O O O B-Test I-Test I-Test I-Test E-Test O B-Test_Value E-Test_Value O
+但 有 约 75 % 的 患 者 抗 甲 状 腺 自 身 抗 体 滴 度 是 升 高 的 。	O O O O O O O O B-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test B-Test_Value I-Test_Value I-Test_Value I-Test_Value E-Test_Value O O
+曾 有 报 道 ,	O O O O O
+这 些 抗 体 通 常 为 持 久 性 存 在 ,	O O O O O O O O O O O O O
+自 发 性 消 失 的 情 况 鲜 有 发 生 。	O O O O O O O O O O O O O
+NHANES 3 中 ,	O O O O
+TgAb 的 阳 性 检 出 率 为 10 . 4 % ,	O O O O O O O O O O O O O
+TPOAb 为 11 . 3 % ,	O O O O O O O
+这 些 抗 体 在 女 性 中 较 为 普 遍 ,	O O O O O O O O O O O O O
+且 随 着 年 龄 的 增 长 也 愈 发 多 见 。	O O O O O O O O O O O O O O
+在 亚 临 床 甲 减 患 者 中 ,	O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O
+TPOAb 滴 度 升 高 的 表 现 有 助 于 提 示 向 临 床 甲 减 发 展 的 趋 势 ,	O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O O O O O O O B-Disease I-Disease I-Disease E-Disease O O O O O O
+如 伴 有 TPOAb 阳 性 的 每 年 为 4 . 3 % ,	O O O O B-Test_Value E-Test_Value O O O O O O O O O
+而 不 伴 有 TPOAb 升 高 的 每 年 为 2 . 6 % 。	O O O O O B-Test_Value E-Test_Value O O O O O O O O O
+在 其 他 自 身 免 疫 性 疾 病 ( 如 1 型 糖 尿 病 、Addison 病 等 ) 、 染 色 体 异 常 的 疾 病 ( 如 Turner 综 合 征 ) 以 及 服 用 锂 、 干 扰 素 、 胺 碘 酮 及 过 量 碘 的 患 者 中 ,	O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O B-Disease I-Disease I-Disease I-Disease E-Disease O E-Disease O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O B-Disease I-Disease I-Disease E-Disease O O O O O B-Drug O B-Drug I-Drug E-Drug O B-Drug I-Drug E-Drug O O O B-Drug O O O O O
+TPOAb 能 够 对 于 甲 减 的 发 展 提 供 预 见 性 的 信 息 。	O O O O O B-Disease E-Disease O O O O O O O O O O O O
+此 外 ,	O O O
+当 患 者 反 复 流 产 及 不 孕 、 不 育 时 ,	O O O B-Disease I-Disease I-Disease E-Disease O B-Disease E-Disease O B-Disease E-Disease O O
+应 该 检 查 TPOAb。 对 于 怀 孕 前 患 Graves 病 经 放 射 性 碘 治 疗 或 甲 状 腺 切 除 术 后 目 前 服 用 甲 状 腺 激 素 治 疗 甲 减 的 妊 娠 妇 女 ,	O O O O O O O O O O O B-Disease E-Disease O B-Treatment I-Treatment I-Treatment I-Treatment I-Treatment E-Treatment O B-Operation I-Operation I-Operation I-Operation I-Operation E-Operation O O O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O B-Disease E-Disease O O O O O O
+应 该 检 测 TRAb 水 平 ,	O O O O O O O O
+因 为 高 滴 度 的 TRAb 与 婴 幼 儿 Graves 病 发 病 率 高 有 很 大 关 系 ,	O O B-Test_Value I-Test_Value E-Test_Value O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O
+而 且 ,	O O O
+在 妊 娠 中 晚 期 时 检 测 TRAb 最 有 价 值 ,	O O O O O O O O O O O O O O O
+如 果 妊 娠 前 3 个 月 已 经 发 现 TRAb 升 高 ,	O O O O O O O O O O O O O B-Test_Value E-Test_Value O
+应 该 在 怀 孕 20 ~ 26 周 再 次 复 查 。	O O O O O O O O O O O O O O
+二 、 甲 减 的 诊 断 与 筛 查 1 . 病 史 、 症 状 及 体 格 检 查 :	O O B-Disease E-Disease O O O O O O O O O O O O O O O O O O O
+详 细 地 询 问 病 史 有 助 于 本 病 的 诊 断 。	O O O O O O O O O O O O O O O O
+如 甲 状 腺 手 术 、 甲 亢 放 射 性 碘 治 疗 ;	O B-Operation I-Operation I-Operation I-Operation E-Operation O B-Treatment I-Treatment I-Treatment I-Treatment I-Treatment I-Treatment I-Treatment E-Treatment O
+Graves 病 、 桥 本 甲 状 腺 炎 病 史 和 家 族 史 等 。	B-Disease E-Disease O B-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O
+本 病 发 病 隐 匿 ,	O O O O O O O
+病 程 较 长 ,	O O O O O
+不 少 患 者 缺 乏 特 异 症 状 和 体 征 。	O O O O O O O O O O O O O O
+症 状 主 要 表 现 以 代 谢 率 减 低 和 交 感 神 经 兴 奋 性 下 降 为 主 ,	O O O O O O O B-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O O O
+病 情 轻 的 早 期 患 者 可 以 没 有 特 异 症 状 。	O O O O O O O O O O O O O O O O O
+典 型 表 现 为 畏 增 录 6a - 2 寒 、 乏 力 、 手 足 肿 胀 感 、 嗜 睡 、 记 忆 力 减 退 、 少 汗 、 关 节 疼 痛 、 体 重 增 加 、 声 音 改 变 、 便 秘 、 女 性 月 经 紊 乱 或 者 月 经 过 多 、 不 孕 等 。	O O O O O B-Symptom O O O O O B-Symptom O B-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O O B-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom E-Symptom O O
+《 指 南 》 指 出 ,	O O O O O O O
+要 注 意 临 床 上 较 为 少 见 但 提 示 典 型 的 严 重 甲 减 的 特 征 有 腕 管 综 合 征 、 睡 眠 呼 吸 暂 停 、 垂 体 增 生 伴 有 或 不 伴 有 高 泌 乳 素 血 症 和 溢 乳 ,	O O O O O O O O O O O O O O O O B-Level E-Level B-Disease E-Disease O O O O B-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom E-Symptom O O O O O O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom E-Symptom O
+另 外 ,	O O O
+在 重 度 甲 减 出 现 几 周 后 可 能 会 出 现 低 钠 血 症 。	O B-Level E-Level B-Disease E-Disease O O O O O O O O O O B-Symptom I-Symptom I-Symptom E-Symptom O
+而 根 据 声 音 改 变 或 测 定 踝 反 射 迟 缓 时 间 等 主 观 和 客 观 体 征 来 评 估 甲 减 严 重 程 度 的 方 法 ,	O O O O O O O O B-Test I-Test I-Test I-Test E-Test O O O O O O O O O O O O O O O B-Disease E-Disease O O O O O O O O
+因 为 缺 乏 高 效 的 灵 敏 性 和 特 异 性 ,	O O O O O O O O O O O O O O O
+已 被 灵 敏 且 更 客 观 的 甲 状 腺 功 能 实 验 室 检 测 所 取 代 。	O O O O O O O O O B-Test I-Test I-Test I-Test I-Test I-Test E-Test O O O O O O O
+2 . 甲 状 腺 功 能 的 检 测 :	O O B-Test I-Test I-Test I-Test E-Test O O O O
+血 清 促 甲 状 腺 激 素 ( TSH ) 和 总 T4 ( TT4 ) 、 游 离 T4 ( FT4 ) 是 诊 断 甲 减 的 第 一 线 指 标 。	O O B-Test I-Test I-Test I-Test I-Test E-Test O O O O B-Test O O O O O B-Test I-Test O O O O O O O B-Disease E-Disease O O O O O O O
+而 对 于 既 往 血 清 学 TSH 长 时 间 降 低 的 甲 亢 患 者 ,	O O O O O O O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value E-Test_Value O B-Disease E-Disease O O O
+经 抗 甲 状 腺 药 物 治 疗 、 外 科 手 术 、 同 位 素 治 疗 后 出 现 甲 减 的 情 况 ,	O B-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O B-Operation I-Operation I-Operation E-Operation O B-Treatment I-Treatment I-Treatment I-Treatment E-Treatment O O O B-Disease E-Disease O O O O
+FT4 的 评 估 是 基 础 的 检 查 。	O O O O O O O O O O O
+由 于 TT4 的 水 平 会 受 结 合 率 改 变 的 影 响 ,	O O O O O O O O O O O O O O O O O
+目 前 对 于 甲 功 的 评 估 FT4 的 测 定 已 逐 渐 取 代 了 TT4。 但 在 妊 娠 期 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O
+由 于 血 清 蛋 白 的 变 化 ,	O O O O O O O O O O
+FT4 可 能 会 偏 低 ,	O O O O B-Test_Value E-Test_Value O
+TT4 的 测 定 予 以 推 荐 ,	O O O O O O O O O
+而 且 其 参 考 范 围 会 比 非 妊 娠 期 高 1 . 5 倍 。	O O O O O O O O O O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+对 于 服 用 左 旋 甲 状 腺 素 片 ( L - T4 ) 的 甲 减 患 者 的 监 测 ,	O O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug E-Drug O O O B-Disease E-Disease O O O O O O
+应 该 在 使 用 药 物 之 前 对 FT4 进 行 评 估 ,	O O O O O O O O O O O O O O O O
+因 为 在 服 用 L - T4 之 后 FT4 会 一 过 性 上 升 20 % 左 右 。	O O O O O B-Drug E-Drug O O O O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O O O
+一 项 小 型 研 究 表 明 ,	O O O O O O O O O
+TT4 水 平 在 用 药 后 1 h 高 于 基 线 水 平 ,	O O O O O O O O O O O O O O O O
+2 . 5 h 后 达 峰 ;	O O O O O O O O
+而 FT4 水 平 在 3 . 5 h 后 达 峰 ,	O O O O O O O O O O O O O
+并 且 始 终 超 过 基 线 水 平 达 9 h。 血 清 学 T3 的 测 定 ,	O O O O O O O O O O O O O O O O O O O O O
+无 论 是 总 T3 还 是 游 离 T3 均 受 限 于 甲 减 病 程 ,	O O O B-Test O O O B-Test I-Test O O O O O B-Disease E-Disease O O O
+因 为 通 过 对 TSH 的 升 高 以 及 2 型 碘 甲 腺 氨 酸 脱 碘 酶 的 上 调 而 使 现 存 的 甲 状 腺 组 织 功 能 过 度 刺 激 ,	O O O O O O O B-Test_Value E-Test_Value O O B-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test I-Test E-Test O O O O O O O O B-Anatomy I-Anatomy I-Anatomy I-Anatomy E-Anatomy O O O O O O O
+血 清 T3 的 水 平 通 常 表 现 为 正 常 。	O O O O O O O O O O O B-Test_Value E-Test_Value O
+此 外 ,	O O O
+非 甲 状 腺 病 态 综 合 征 患 者 的 T3 水 平 也 会 降 低 ,	B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O B-Test_Value E-Test_Value O
+所 以 ,	O O O
+其 不 作 为 诊 断 原 发 性 甲 减 的 必 备 指 标 。	O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O
+血 清 TSH 的 测 定 是 诊 断 甲 功 异 常 最 敏 感 的 方 法 ,	O O O O O O O O O B-Disease I-Disease I-Disease E-Disease O O O O O O O
+在 甲 状 腺 功 能 异 常 早 期 ,	O B-Disease I-Disease I-Disease I-Disease E-Disease O O B-Level E-Level O
+尤 其 在 FT4 还 未 检 测 出 异 常 时 ,	O O O O O O O O O O O O O
+TSH 首 先 出 现 变 化 。	O O O O O O O O
+血 清 TSH 值 也 是 原 发 性 甲 减 替 代 治 疗 最 可 靠 的 终 点 以 及 甲 状 腺 癌 抑 制 治 疗 的 主 要 评 估 方 式 。	O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O B-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O O
+TSH 水 平 每 日 均 会 有 所 变 化 ,	O O O O O O O O O O O O
+通 常 会 在 均 值 50 % 左 右 上 波 动 。	O O O O O O O O O O O O O O
+而 最 近 更 多 的 报 告 显 示 ,	O O O O O O O O O O O
+在 对 不 同 个 体 连 续 的 观 测 中 ,	O O O O O O O O O O O O O
+一 天 中 同 一 时 段 的 变 异 率 达 40 % 。	O O O O O O O O O O O O O O O
+在 一 天 中 ,	O O O O O
+傍 晚 的 血 清 TSH 水 平 趋 于 最 低 ,	O O O O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+而 在 睡 眠 期 血 清 TSH 水 平 趋 于 最 高 。	O O O O O O O O O O B-Test_Value I-Test_Value I-Test_Value E-Test_Value O
+鉴 于 这 一 点 ,	O O O O O O
+在 正 常 范 围 40 % ~ 50 % 波 动 的 情 况 下 ,	O O O O O O O O O O O O O O O O O
+血 清 TSH 的 波 动 未 必 能 反 映 出 甲 状 腺 变 化 的 状 态 。	O O O O O O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O
+根 据 NHANES3 ,	O O O O
+在 排 除 那 些 存 在 甲 状 腺 疾 病 或 甲 状 腺 肿 以 及 正 在 服 用 甲 状 腺 药 物 后 ,	O O O O O O O B-Disease I-Disease I-Disease I-Disease E-Disease O B-Disease I-Disease I-Disease E-Disease O O O O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O
+在 非 妊 娠 状 态 、 实 验 室 指 标 未 提 示 存 在 甲 亢 或 甲 减 、 未 检 测 出 TgAb 或 TPOAb 异 常 升 高 、 未 服 用 雌 激 素 、 雄 激 素 或 锂 的 健 康 人 群 中 所 获 得 TSH 的 正 常 上 限 值 为 4 . 12 mIU / L ,	O O O O O O O O O O O O O O O O O B-Disease E-Disease O B-Disease E-Disease O O O O O O O O O O O O O O O O B-Drug I-Drug E-Drug O B-Drug I-Drug E-Drug O B-Drug O O O O O O O O O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+此 结 果 在 随 后 Hanford 甲 状 腺 疾 病 研 究 中 被 证 实 。	O O O O O O B-Disease I-Disease I-Disease E-Disease O O O O O O O O O
+另 外 ,	O O O
+此 正 常 上 限 值 应 以 年 龄 为 基 础 ,	O O O O O O O O O O O O O O
+种 族 、 性 别 也 应 考 虑 在 其 中 ,	O O O O O O O O O O O O O
+并 且 ,	O O O
+不 可 以 应 用 于 碘 缺 乏 地 区 。	O O O O O O O O O O O O
+在 老 年 个 体 中 ( 超 过 80 岁 ) ,	O O O O O O O O O O O O O
+有 23 . 9 % TSH 值 普 遍 在 2 . 5 ~ 4 . 5 mIU / L ,	O O O O O O O O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O
+有 12 % 个 体 TSH 值 在 4 . 5 mIU / L 以 上 。	O O O O O O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O O
+因 此 ,	O O O
+随 着 年 龄 的 增 长 ,	O O O O O O O O
+TSH 的 正 常 参 考 值 范 围 则 可 适 当 放 宽 。	O O O O O O O O O O O O O O O O
+3 . 筛 查 :	O O O O O
+ATA 建 议 在 大 于 35 岁 的 成 人 中 筛 查 甲 减 ,	O O O O O O O O O O O O O O B-Disease E-Disease O
+以 后 每 5 年 检 测 一 次 ;	O O O O O O O O O O
+AACE 则 建 议 老 年 人 ( 具 体 年 龄 未 指 定 ) 常 规 检 测 TSH ,	O O O O O O O O O O O O O O O O O O O O O O
+尤 其 是 女 性 ;	O O O O O O
+美 国 家 庭 医 师 协 会 建 议 在 大 于 60 岁 的 无 症 状 人 群 中 常 规 筛 查 ;	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+美 国 内 科 医 师 协 会 建 议 在 大 于 50 岁 的 女 性 中 筛 查 。	O O O O O O O O O O O O O O O O O O O O O O
+而 伦 敦 皇 家 学 院 的 医 师 和 美 国 预 防 服 务 部 均 不 建 议 在 成 人 中 常 规 筛 查 甲 减 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Disease E-Disease O
+虽 然 目 前 对 于 甲 减 的 筛 查 各 专 家 委 员 会 仍 未 达 成 共 识 ,	O O O O O O B-Disease E-Disease O O O O O O O O O O O O O O O O
+但 如 果 患 者 有 以 下 情 况 要 重 视 甲 减 的 筛 查 :	O O O O O O O O O O O O O B-Disease E-Disease O O O O
+( 1 ) 有 自 身 免 疫 性 疾 病 ,	O O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O
+如 1 型 糖 尿 病 、 肾 上 腺 皮 质 功 能 减 退 、 恶 性 贫 血 、 斑 秃 、 白 癜 风 等 ;	O B-Disease I-Disease I-Disease I-Disease E-Disease O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O B-Disease I-Disease I-Disease E-Disease O B-Disease E-Disease O B-Disease I-Disease E-Disease O O
+( 2 ) 有 自 身 免 疫 性 甲 状 腺 炎 、 既 往 甲 状 腺 功 能 异 常 、 甲 状 腺 手 术 、 甲 亢 放 射 性 碘 治 疗 或 非 甲 状 腺 相 关 的 头 颈 部 恶 性 肿 瘤 的 放 射 照 射 治 疗 史 等 ;	O O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O B-Operation I-Operation I-Operation I-Operation E-Operation O B-Treatment I-Treatment I-Treatment I-Treatment I-Treatment I-Treatment I-Treatment E-Treatment O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O B-Treatment I-Treatment I-Treatment I-Treatment I-Treatment E-Treatment O O O
+( 3 ) 有 精 神 病 病 史 ;	O O O O B-Disease I-Disease E-Disease O O O
+( 4 ) 有 倦 怠 乏 力 、 体 重 增 加 、 皮 肤 改 变 、 便 秘 、 月 经 失 调 、 高 血 压 、 高 血 脂 、 心 律 失 常 、 心 衰 、 痴 呆 、 不 明 原 因 的 肌 病 等 临 床 表 现 ;	O O O O B-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom E-Symptom O B-Symptom E-Symptom O B-Symptom E-Symptom O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O O O O O O
+( 5 ) 有 胺 碘 酮 或 锂 等 用 药 史 。	O O O O B-Drug I-Drug E-Drug O B-Drug O O O O O
+三 、 甲 减 的 治 疗 甲 状 腺 激 素 替 代 治 疗 :	O O B-Disease E-Disease O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O
+( 1 ) 治 疗 时 机 和 人 群 :	O O O O O O O O O O O
+目 前 一 致 认 为 ,	O O O O O O O
+对 于 原 发 性 甲 减 患 者 ,	O O B-Disease I-Disease I-Disease I-Disease E-Disease O O O
+当 TSH > 10 mIU / L 时 应 该 治 疗 ,	O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O O O O O
+但 对 于 TSH 在 4 . 5 ~ 10 mIU / L 之 间 的 患 者 ,	O O O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O O O O O
+其 治 疗 的 获 益 目 前 尚 不 确 定 。	O O O O O O O O O O O O O
+对 于 TSH 在 2 . 5 ~ 4 . 5 mIU / L 之 间 者 ,	O O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O O O
+已 有 大 量 的 研 究 证 实 ,	O O O O O O O O O O
+治 疗 对 动 脉 粥 样 硬 化 的 危 险 因 素 如 高 脂 血 症 、 内 皮 功 能 损 伤 、 血 管 内 膜 增 厚 等 有 获 益 作 用 。	O O O B-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O B-Reason I-Reason I-Reason E-Reason O B-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O B-Reason I-Reason I-Reason I-Reason I-Reason E-Reason O O O O O O O
+然 而 ,	O O O
+目 前 还 没 有 临 床 数 据 来 支 持 是 否 应 该 治 疗 此 类 患 者 。	O O O O O O O O O O O O O O O O O O O O O O O
+但 怀 孕 的 时 候 可 能 要 例 外 ,	O O O O O O O O O O O O
+因 为 怀 孕 损 伤 的 几 率 较 大 ,	O O B-Disease E-Disease O O O O O O O O
+有 文 献 报 道 ,	O O O O O O
+TSH 在 2 . 5 ~ 5 . 0 mIU / L 之 间 抗 甲 状 腺 抗 体 阴 性 的 女 性 中 ,	O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O B-Test I-Test I-Test I-Test I-Test E-Test B-Test_Value E-Test_Value O O O O O
+孕 期 前 20 周 自 然 流 产 及 后 20 周 死 胎 的 几 率 增 加 。	O O O O O B-Disease I-Disease I-Disease E-Disease O O O O B-Disease E-Disease O O O O O O
+( 2 ) 药 物 选 择 :	O O O O O O O O
+自 从 1970 年 ,	O O O O O
+有 文 献 记 载 外 周 T4 向 T3 转 换 时 可 产 生 有 生 物 学 活 性 的 T3 以 来 ,	O O O O O O O O O O O O O O O O O O O O O O O O O O O
+L - T4 单 药 治 疗 就 成 为 治 疗 甲 减 的 主 流 ,	B-Drug E-Drug O O O O O O O O O O B-Disease E-Disease O O O O
+替 代 了 既 往 使 用 干 甲 状 腺 片 和 其 他 形 式 如 L - T4 联 合 左 三 碘 甲 状 腺 氨 酸 ( L - T3 ) 的 治 疗 模 式 。	O O O O O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O B-Drug E-Drug O O O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O B-Drug E-Drug O O O O O O O O
+1999 年 发 表 的 一 项 研 究 报 道 了 L - T4 和 L - T3 联 合 用 药 的 好 处 ,	O O O O O O O O O O O O B-Drug E-Drug O O B-Drug E-Drug O B-Method I-Method I-Method E-Method O O O O
+随 后 大 量 的 研 究 引 用 了 这 一 结 果 ,	O O O O O O O O O O O O O O O
+并 再 次 验 证 了 两 药 联 合 的 优 势 ,	O O O O O O O O O O O O O O
+但 没 有 证 实 这 一 用 法 在 提 高 认 知 力 和 情 绪 方 面 比 单 用 L - T4 的 优 势 。	O O O O O O O O O O O O O O O O O O O O O B-Method E-Method B-Drug E-Drug O O O O O
+( 3 ) 治 疗 剂 量 :	O O O O O O O O
+临 床 上 常 用 患 者 体 重 来 计 算 L - T4 的 日 剂 量 ,	O O O O O O O B-Test E-Test O O O B-Drug E-Drug O O O O O O
+《 指 南 》 推 荐 ,	O O O O O O O
+成 人 L - T4 替 代 治 疗 每 日 所 需 剂 量 大 约 1 . 6 增 录 6a - 3 μg / kg。 尽 管 老 年 患 者 对 L - T4 的 吸 收 效 率 较 低 ,	O O B-Drug E-Drug O O O O O B-Frequency E-Frequency O O O O O O B-Amount I-Amount I-Amount I-Amount I-Amount I-Amount I-Amount I-Amount I-Amount I-Amount O O O O O O O O B-Drug E-Drug O O O O O O O O O
+但 因 其 体 重 减 轻 ,	O O O B-Test E-Test B-Test_Value E-Test_Value O
+故 其 所 需 的 剂 量 相 较 于 年 轻 患 者 每 kg 体 重 减 少 20 % ~ 25 % 。	O O O O O O O O O O O O O O B-Amount I-Amount I-Amount I-Amount I-Amount I-Amount I-Amount I-Amount I-Amount I-Amount E-Amount O
+妊 娠 期 甲 状 腺 激 素 的 需 要 量 增 加 25 % ~ 30 % ,	B-Disease E-Disease O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O B-Amount I-Amount I-Amount I-Amount I-Amount I-Amount E-Amount O
+而 产 后 激 素 水 平 恢 复 至 基 线 水 平 。	O O O O O O O O O O O O O O O
+亚 临 床 甲 减 的 患 者 所 需 的 剂 量 较 少 ,	B-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O O O O
+25 ~ 75 μg / d 通 常 足 够 达 到 甲 状 腺 机 能 正 常 水 平 ,	B-Amount I-Amount I-Amount I-Amount I-Amount O O O O O O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O
+那 些 高 TSH 值 的 患 者 往 往 需 要 更 大 的 替 代 剂 量 。	O O B-Test_Value O O O O O O O O O O O O O O O O O
+一 个 随 机 对 照 试 验 中 ,	O O O O O O O O O O
+根 据 TSH 水 平 指 定 左 甲 状 腺 素 片 剂 量 为 :	O O O O O O O B-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O O O
+25 μg ( TSH 4 . 0 ~ 8 . 0 mIU / L ) ,	B-Amount O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O
+50 μg ( TSH 8 ~ 12 mIU / L ) ,	B-Amount O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O
+75 μg ( TSH > 12 mIU / L ) ,	B-Amount O O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value O O O
+2 个 月 后 为 了 达 到 正 常 甲 状 腺 机 能 只 需 极 少 的 剂 量 调 整 。	B-Duration I-Duration E-Duration O O O O O B-Test I-Test I-Test I-Test I-Test I-Test E-Test O O O O O O O O O O
+另 外 ,	O O O
+治 疗 起 始 的 剂 量 和 达 到 完 全 替 代 剂 量 所 需 时 间 要 根 据 患 者 的 年 龄 、 体 重 和 心 脏 状 态 来 确 定 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-Test E-Test O O O O O O O O O
+年 轻 、 体 质 好 的 成 人 开 始 治 疗 时 即 可 选 用 足 量 替 代 治 疗 量 。	O O O O O O O O O O O O O O O O O O O O O O O O O O
+而 对 于 年 龄 大 于 50 ~ 60 岁 的 患 者 ,	O O O O O O O O O O O O O O O
+无 论 甲 减 的 程 度 ,	O O B-Disease E-Disease O O O O
+如 无 冠 心 病 ( CHD ) 依 据 ,	O O B-Disease I-Disease E-Disease O O O O O O
+则 以 50 μg / d 的 剂 量 起 始 治 疗 ;	O O B-Amount I-Amount I-Amount O O O O O O O O O
+如 已 知 有 冠 心 病 的 患 者 ,	O O O O B-Disease I-Disease E-Disease O O O O
+常 规 的 起 始 剂 量 减 少 到 12 . 5 ~ 25 μg / d。 对 于 心 绞 痛 为 初 发 症 状 者 ,	O O O O O O O O O O B-Amount I-Amount I-Amount I-Amount I-Amount I-Amount I-Amount O O O B-Disease I-Disease E-Disease O B-Level I-Level I-Level E-Level O O
+需 密 切 关 注 临 床 变 化 ,	O O O O O O O O O O
+心 绞 痛 症 状 可 能 会 限 制 甲 状 腺 功 能 的 正 常 达 标 。	B-Disease I-Disease E-Disease O O O O O O O B-Test I-Test I-Test I-Test E-Test O O O O O O
+然 而 ,	O O O
+冠 状 动 脉 粥 样 硬 化 性 心 脏 病 的 最 佳 治 疗 方 案 ,	B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O O O O O O
+需 要 考 虑 到 足 够 的 L - T4 剂 量 以 降 低 血 清 TSH 水 平 及 而 无 心 绞 痛 再 发 。	O O O O O O O O B-Drug E-Drug O O O O O O O O O O O O O O B-Disease I-Disease E-Disease O O O
+对 于 需 要 立 即 实 施 急 诊 冠 状 动 脉 旁 路 移 植 术 的 不 稳 定 型 心 绞 痛 或 左 冠 状 动 脉 主 干 闭 塞 患 者 ,	O O O O O O O O B-Operation I-Operation I-Operation I-Operation I-Operation I-Operation I-Operation I-Operation I-Operation I-Operation E-Operation O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O B-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease I-Disease E-Disease O O O
+即 使 有 中 重 度 甲 减 ,	O O O B-Level I-Level E-Level B-Disease E-Disease O
+手 术 也 是 可 以 安 全 实 施 的 。	O O O O O O O O O O O O
+但 对 于 可 择 期 手 术 的 患 者 ,	O O O O O O O O O O O O
+应 在 甲 状 腺 机 能 恢 复 正 常 后 进 行 。	O O B-Anatomy I-Anatomy E-Anatomy O O O O O O O O O O
+( 4 ) 服 药 方 法 :	O O O O O O O O
+对 于 服 药 方 法 ,	O O O O O O O
+2007 年 《 中 国 甲 状 腺 诊 治 指 南 》 推 荐 [ 2 ] ,	O O O O O O O O O O O O O O O O O O O
+理 想 服 药 方 法 是 餐 前 服 用 ,	O O O O O O O B-Method I-Method I-Method E-Method O
+与 其 他 药 物 的 服 用 时 间 间 隔 4 h 以 上 ,	O B-Method I-Method I-Method I-Method I-Method I-Method I-Method I-Method I-Method I-Method I-Method I-Method I-Method I-Method E-Method O
+因 为 有 些 药 物 和 食 物 会 影 响 L - T4 的 吸 收 和 代 谢 ,	O O O O O O O O O O O O B-Drug E-Drug O O O O O O O O
+如 肠 道 吸 收 不 良 及 氢 氧 化 铝 、 碳 酸 钙 、 消 胆 胺 、 硫 糖 铝 、 硫 酸 亚 铁 、 食 物 纤 维 添 加 剂 影 响 小 肠 对 L - T4 的 吸 收 ;	O B-Symptom I-Symptom I-Symptom I-Symptom I-Symptom E-Symptom O B-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug E-Drug O B-Drug I-Drug E-Drug O B-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug I-Drug I-Drug I-Drug E-Drug O O B-Anatomy E-Anatomy O B-Drug E-Drug O O O O O
+苯 巴 比 妥 、 苯 妥 英 钠 、 卡 马 西 平 、 利 福 平 、 异 烟 肼 、 洛 伐 他 汀 、 胺 碘 酮 、 舍 曲 林 、 氯 喹 等 药 物 可 以 加 速 L - T4 的 清 除 。	B-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug E-Drug O B-Drug I-Drug E-Drug O B-Drug I-Drug I-Drug E-Drug O B-Drug I-Drug E-Drug O B-Drug I-Drug E-Drug O B-Drug E-Drug O O O O O O O B-Drug E-Drug O O O O O
+所 以 ,	O O O
+如 果 甲 减 患 者 同 时 服 用 这 些 药 物 时 需 要 增 加 L - T4 用 量 。	O O B-Disease E-Disease O O O O O O O O O O O O O O O B-Drug E-Drug O O O O
+但 我 国 指 南 对 餐 前 多 久 服 药 为 好 没 有 明 确 说 法 。	O O O O O O O O O O O O O O O O O O O O O
+最 近 一 项 研 究 显 示 ,	O O O O O O O O O
+早 餐 后 30 min 服 用 L - T4 不 如 最 后 一 顿 饭 4 h 后 服 用 效 果 好 。	B-Method I-Method I-Method I-Method O O O B-Drug E-Drug O O O B-Method I-Method I-Method I-Method I-Method I-Method I-Method E-Method O O O O O O
+另 一 项 研 究 显 示 ,	O O O O O O O O
+在 早 餐 前 60 min 服 药 优 于 最 后 一 顿 饭 后 2 h 内 服 用 ,	O B-Method I-Method I-Method I-Method I-Method I-Method E-Method O O B-Method I-Method I-Method I-Method I-Method I-Method I-Method I-Method E-Method O O O
+而 后 者 又 比 早 餐 后 20 min 效 果 更 佳 。	O O O O O B-Method I-Method I-Method I-Method O O O O O O
+但 是 ,	O O O
+这 两 个 研 究 没 有 确 定 在 早 餐 前 60 min 和 在 临 睡 前 晚 饭 后 4 h 空 腹 服 药 哪 一 种 更 好 。	O O O O O O O O O O B-Method I-Method I-Method I-Method O O O B-Method I-Method I-Method I-Method I-Method I-Method I-Method I-Method I-Method I-Method I-Method E-Method O O O O O O
+虽 然 L - T4 在 餐 前 30 ~ 60 min 服 药 吸 收 更 好 ,	O O B-Drug E-Drug O O B-Method I-Method I-Method I-Method I-Method I-Method I-Method E-Method O O O O O
+但 临 床 上 需 要 我 们 指 导 患 者 ,	O O O O O O O O O O O O O
+提 高 其 坚 持 早 餐 前 30 ~ 60 min 服 药 的 依 从 性 。	O O O O O B-Method I-Method I-Method I-Method I-Method I-Method I-Method I-Method E-Method O O O O O
+( 5 ) 监 测 指 标 :	O O O O O O O O
+非 妊 娠 患 者 治 疗 目 标 是 使 TSH 达 到 正 常 范 围 ,	O O O O O O O O O O O O O O O O O O O
+建 议 采 用 NHANES 3 研 究 所 获 得 的 参 考 范 围 ,	O O O O O O O O O O O O O O O O O
+亦 即 0 . 45 ~ 4 . 12 mIU / L。 L - T4 初 始 治 疗 4 ~ 8 周 后 ,	O O B-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value I-Test_Value O B-Drug E-Drug O O O O O B-Duration I-Duration I-Duration E-Duration O O
+应 根 据 血 清 TSH 水 平 来 调 整 下 一 步 用 药 的 剂 量 。	O O O O O O O O O O O O O O O O O O O O
+当 使 用 初 始 治 疗 剂 量 为 50 μg 或 者 75 μg 的 L - T4 时 ,	O O O O O O O O O O B-Amount O O O B-Amount O O B-Drug E-Drug O O O
+TSH 水 平 可 能 在 1 个 月 内 下 降 ,	O O O O O O B-Duration I-Duration E-Duration O B-Test_Value E-Test_Value O
+但 TSH 达 到 稳 态 可 能 需 要 8 周 或 更 长 的 时 间 来 调 整 L - T4 剂 量 。	O O O O O O O O O O B-Duration I-Duration I-Duration I-Duration I-Duration I-Duration I-Duration E-Duration O O O B-Drug E-Drug O O O O
+20 % 的 甲 状 腺 激 素 治 疗 文 献 报 道 了 L - T4 剂 量 的 调 整 应 逐 步 加 量 ,	O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O B-Drug E-Drug O O O O O O O B-Method I-Method I-Method E-Method O
+通 常 初 始 增 加 剂 量 为 12 . 5 ~ 25 μg / d ,	O O O O O O O O O B-Amount I-Amount I-Amount I-Amount I-Amount I-Amount I-Amount O O
+有 时 为 了 达 到 目 标 TSH 水 平 需 要 更 小 的 调 整 剂 量 以 避 免 过 度 治 疗 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+甲 状 腺 激 素 治 疗 过 量 最 主 要 的 不 良 反 应 是 对 心 血 管 及 骨 骼 的 影 响 ,	B-Drug I-Drug I-Drug I-Drug E-Drug O O O O O O O O O O O O O O B-SideEff I-SideEff E-SideEff O B-SideEff I-SideEff I-SideEff I-SideEff E-SideEff O
+也 可 能 导 致 情 感 障 碍 。	O O O O O B-SideEff I-SideEff I-SideEff E-SideEff O
+老 年 人 对 房 颤 极 为 敏 感 ,	O O O O B-Disease E-Disease O O O O O
+而 绝 经 后 女 性 持 续 接 受 固 定 量 的 甲 状 腺 激 素 可 能 加 速 骨 量 丢 失 。	O O O O O O O O O O O O O O B-Drug I-Drug I-Drug I-Drug E-Drug O O O O B-SideEff I-SideEff I-SideEff E-SideEff O
+大 部 分 专 家 认 为 ,	O O O O O O O O
+一 旦 开 始 足 量 的 替 代 治 疗 ,	O O O O O O O O O O O O
+在 6 和 12 个 月 之 间 需 定 期 随 访 并 监 测 TSH 水 平 ,	O O O O O O O O O O O O O O O O O O O O
+频 繁 的 监 测 有 利 于 确 保 及 监 督 患 者 治 疗 的 依 从 性 。	O O O O O O O O O O O O O O O O O O O O O O
+L - T4 的 每 日 剂 量 是 固 定 不 变 的 ,	B-Drug E-Drug O O B-Frequency E-Frequency O O O O O O O O O
+一 旦 发 现 遗 漏 ,	O O O O O O O
+应 在 当 天 或 随 后 的 几 天 补 足 剂 量 。	O O O O O O O O O O O O O O O
+对 于 那 些 医 从 性 较 差 的 患 者 ,	O O O O O O O O O O O O O
+应 保 证 每 周 的 剂 量 以 便 保 证 相 似 的 临 床 安 全 性 、 有 效 性 及 可 接 受 的 TSH 水 平 。	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
