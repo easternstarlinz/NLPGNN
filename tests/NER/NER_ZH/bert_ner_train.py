@@ -53,7 +53,7 @@ model.build(input_shape=(3, param.batch_size, param.maxlen))
 model.summary()
 
 # 构建优化器
-optimizer_bert = optim.AdamWarmup(learning_rate=2e-5,  # 重要参数
+optimizer_bert = optim.AdamWarmup(learning_rate=2e-6,  # 重要参数
                                   decay_steps=10000,  # 重要参数
                                   warmup_steps=1000, )
 
