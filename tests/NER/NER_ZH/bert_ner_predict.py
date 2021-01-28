@@ -93,10 +93,7 @@ for X, token_type_id, input_mask, Y in ner_load.load_valid():
     masks.append(input_mask)
     sentences =writer.convert_id_to_vocab(tf.reshape(X,[-1]).numpy())
     labels = writer.convert_id_to_label(tf.reshape(predict,[-1]).numpy())
-    print(num)
-    print("Sentence", sentences)
-    print("Label", labels)
-
+    
     html += "<tr>"
     for i in range(0,len(sentences)):
       html += "<td>%s</td>" % sentences[i]
@@ -107,8 +104,8 @@ for X, token_type_id, input_mask, Y in ner_load.load_valid():
       html += "<td>%s</td>" % labels[i]
     html += "</tr>"
     num +=1
-    if num == 23:
-      break
+    #if num == 23:
+    #  break
 html += "</table>"
 #display(IPython.display.HTML(html))
 f = open('r.html','w')
