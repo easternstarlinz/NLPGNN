@@ -238,3 +238,17 @@ class TFLoader(object):
         dataset = dataset.prefetch(tf.data.experimental.AUTOTUNE)
 
         return dataset
+    
+    def load_predict(self):
+        self.filename = os.path.join("Input", "predict.tfrecords")
+        raw_dataset = tf.data.TFRecordDataset(self.filename)
+        dataset = raw_dataset.map(
+            lambda record: self.decode_record(record)
+        )
+
+        dataset = dataset.batch(
+            batch_size=self.batch_size,
+            drop_remainder=True)
+        dataset = dataset.prefetch(tf.data.experimental.AUTOTUNE)
+
+        return dataset
