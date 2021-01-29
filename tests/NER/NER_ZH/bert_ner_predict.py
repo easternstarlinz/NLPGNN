@@ -81,7 +81,7 @@ Batch = 0
 predicts = []
 true_label = []
 masks = []
-
+of = open('labelme.txt','w')
 num = 0
 html = "<table border=1>"
 for X, token_type_id, input_mask, Y in ner_load.load_predict():
@@ -104,8 +104,13 @@ for X, token_type_id, input_mask, Y in ner_load.load_predict():
       html += "<td>%s</td>" % labels[i]
     html += "</tr>"
     num +=1
+    of.write(" ".join(sentences))
+    of.write("\t")
+    of.write(" ".join(labels))
+    of.write("\n")
     #if num == 23:
     #  break
+of.close()
 html += "</table>"
 #display(IPython.display.HTML(html))
 f = open('r.html','w')
