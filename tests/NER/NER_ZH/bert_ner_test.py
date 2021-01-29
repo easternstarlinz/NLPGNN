@@ -14,7 +14,7 @@ param, vocab_file, model_path = load_check.load_bert_param()
 # 定制参数
 param.batch_size = 16
 param.maxlen = 100
-param.label_size = 46
+param.label_size = 49
 
 def ner_evaluation(true_label: list, predicts: list, masks: list):
     all_predict = []
