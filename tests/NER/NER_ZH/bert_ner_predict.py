@@ -84,7 +84,7 @@ masks = []
 
 num = 0
 html = "<table border=1>"
-for X, token_type_id, input_mask, Y in ner_load.load_valid():
+for X, token_type_id, input_mask, Y in ner_load.load_predict():
     
     predict = model.predict([X, token_type_id, input_mask])  # [batch_size, max_length,label_size]
     predict = tf.argmax(predict, -1)
