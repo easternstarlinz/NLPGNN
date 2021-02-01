@@ -116,3 +116,4 @@ html += "</table>"
 f = open('r.html','w')
 f.write(html)
 f.close()
+print(writer.label2id())
